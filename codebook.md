@@ -40,7 +40,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 * `rate`: The hourly wage of the worker described in the payment record.
   - `ot` indicates if `rate` describes the hourly wage for overtime
 * `gross`: The total pay for `period` absent deductions, e.g. taxes and union dues.
-  - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, the value is defined as `NA` (misssing)
+  - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, value defined as misssing
   - This was a summary decision in preprocessing, though values may exist in raw data
 * `net`: Total earnings for `period` equalling `gross` less deductions.
 * `sex`: Nonordinal categorical defining worker gender, viz. `male` or `female`
