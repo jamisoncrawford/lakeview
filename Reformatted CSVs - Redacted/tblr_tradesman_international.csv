@@ -1,0 +1,12 @@
+ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add
+2015-08-16,13165,7169,Building Laborer,3.25,,131.92,103.52,,,0,0,1
+2015-08-16,13165,7169,Operating Engineer,10.75,,615.33,482.90,,,0,0,1
+2015-08-16,13165,8442,Operating Engineer,14.00,,801.35,647.87,,,0,0,1
+2015-08-16,13205,5778,Building Laborer,6.00,,243.54,224.29,,,0,0,1
+2015-08-16,13209,8238,Operating Engineer,16.75,,958.77,711.84,,,0,0,1
+2015-08-16,13209,7574,Operating Engineer,21.25,,1216.35,972.20,,,0,0,1
+2015-08-23,13165,7169,Building Laborer,,,,,,,0,0,1
+2015-08-23,13165,8442,Operating Engineer,,,,,,,0,0,1
+2015-08-23,13205,5778,Building Laborer,,,,,,,0,0,1
+2015-08-23,13209,8238,Operating Engineer,,,,,,,0,0,1
+2015-08-23,13209,7574,Operating Engineer,,,,,,,0,0,1

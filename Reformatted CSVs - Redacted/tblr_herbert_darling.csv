@@ -1,0 +1,145 @@
+ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add
+2015-03-01,14131,8896,Crane Op,43.00,,1616.85,,Hispanic,Male,0,0,1
+2015-03-01,13212,8637,Piledriver Journeyman,36.50,,983.40,,White,Male,0,0,1
+2015-03-01,13120,9497,Operator,40.00,,1313.42,,Native American ,Male,0,0,1
+2015-03-08,14131,8896,Crane Op,59.00,,2581.08,1694.12,Hispanic,Male,0,0,1
+2015-03-08,13212,8637,Piledriver Journeyman,60.00,,1812.20,1114.27,White,Male,0,0,1
+2015-03-08,14075,8006,Piledriver Journeyman,56.50,,2490.59,1409.72,White,Male,0,0,1
+2015-03-08,13042,3984,Crane Op,53.00,,2153.23,1321.52,White,Male,0,0,1
+2015-03-08,13120,9497,Operator,56.00,,2075.52,1369.32,Native American ,Male,0,0,1
+2015-03-08,13069,2450,Piledriver Journeyman,55.00,,1678.95,1158.21,White,Male ,0,0,1
+2015-03-08,13027,1450,Piledriver Journeyman,15.50,,533.00,379.55,Hispanic,Female,0,0,1
+2015-03-08,13212,1243,Piledriver Welder,55.00,,1741.95,1034.35,White,Male ,0,0,1
+2015-03-08,13156,9540,Piledriver Welder,55.00,,1741.95,1079.14,White,Male ,0,0,1
+2015-03-15,14131,8896,Crane Op,62.00,,2750.64,1787.20,Hispanic,Male,0,0,1
+2015-03-15,14051,4840,Piledriver Foreman,47.50,,2137.52,1428.67,White,Male ,0,0,1
+2015-03-15,13212,8637,Piledriver Journeyman,51.00,,1529.23,963.38,White,Male,0,0,1
+2015-03-15,14075,8006,Piledriver Foreman,59.00,,2614.65,1478.23,White,Male,0,0,1
+2015-03-15,13042,3984,Crane Op,59.00,,2581.08,1561.36,White,Male,0,0,1
+2015-03-15,14057,7504,Piledriver Welder,47.50,,1878.80,1132.47,White,Male ,0,0,1
+2015-03-15,13120,9497,Operator,59.00,,2221.46,1449.77,Native American ,Male,0,0,1
+2015-03-15,13069,2450,Piledriver Journeyman,58.00,,1785.55,1230.65,White,Male ,0,0,1
+2015-03-15,14220,3701,4th Yr Appr Piledriver,47.50,,1492.40,901.53,White,Male,0,0,1
+2015-03-15,13215,8621,Crane Op,46.50,,1862.81,1254.29,White,Male,0,0,1
+2015-03-15,13027,1450,Piledriver Journeyman,55.50,,1685.61,1027.93,Hispanic,Female,0,0,1
+2015-03-15,13212,1243,Piledriver Welder,57.00,,1811.08,1116.70,White,Male ,0,0,1
+2015-03-15,13156,9540,Piledriver Welder,59.00,,1894.03,1167.00,White,Male ,0,0,1
+2015-03-22,14131,8896,Crane Op,68.50,,3118.02,1989.14,Hispanic,Male,0,0,1
+2015-03-22,14051,4840,Piledriver Foreman,66.00,,3015.43,1972.30,White,Male ,0,0,1
+2015-03-22,13212,8637,Piledriver Welder,66.00,,2184.35,1318.57,White,Male,0,0,1
+2015-03-22,14075,9686,Piledriver Welder,53.00,,2147.20,1255.77,White,Male,0,0,1
+2015-03-22,14075,8006,Piledriver Foreman,66.00,,3015.43,1687.58,White,Male,0,0,1
+2015-03-22,13042,3984,Crane Op,66.00,,2976.72,1765.70,White,Male,0,0,1
+2015-03-22,14057,7504,Piledriver Welder,66.00,,2650.45,1534.84,White,Male ,0,0,1
+2015-03-22,13120,9497,Operator,63.00,,2416.04,1556.21,Native American ,Male,0,0,1
+2015-03-22,13069,2450,Piledriver Journeyman,66.00,,2105.35,1411.35,White,Male ,0,0,1
+2015-03-22,14220,3701,4th Yr Appr Piledriver,66.00,,2105.35,1251.48,White,Male,0,0,1
+2015-03-22,13215,8621,Crane Op,66.00,,2700.22,1776.22,White,Male,0,0,1
+2015-03-22,13027,1450,Piledriver Journeyman,54.00,,1732.25,1059.64,Hispanic,Female,0,0,1
+2015-03-22,13212,1243,Piledriver Welder,66.00,,2184.35,1316.56,White,Male ,0,0,1
+2015-03-22,13156,9540,Piledriver Welder,66.00,,2184.35,1318.57,White,Male ,0,0,1
+2015-03-29,14131,8896,Crane Op,64.50,,2891.94,1864.93,Hispanic,Male,0,0,1
+2015-03-29,14051,4840,Piledriver Foreman,61.50,,2776.88,1833.82,White,Male ,0,0,1
+2015-03-29,13212,8637,Piledriver Welder,64.00,,2115.23,1283.86,White,Male,0,0,1
+2015-03-29,14075,9686,Piledriver Welder,62.50,,2474.31,1443.67,White,Male,0,0,1
+2015-03-29,14075,8006,Piledriver Foreman,61.50,,2776.88,1559.49,White,Male,0,0,1
+2015-03-29,13042,3984,Crane Op,61.50,,2741.22,1644.35,White,Male,0,0,1
+2015-03-29,14057,7504,Piledriver Welder,62.50,,2474.31,1443.67,White,Male ,0,0,1
+2015-03-29,13120,9497,Operator,61.50,,2359.28,1525.44,Native American ,Male,0,0,1
+2015-03-29,13069,2450,Piledriver Journeyman,55.50,,1698.94,1175.02,White,Male ,0,0,1
+2015-03-29,14220,3701,4th Yr Appr Piledriver,62.50,,2382.13,1414.30,White,Male,0,0,1
+2015-03-29,13215,8621,Crane Op,59.50,,2384.06,1603.27,White,Male,0,0,1
+2015-03-29,13027,1450,Piledriver Journeyman,59.50,,1858.84,1123.99,Hispanic,Female,0,0,1
+2015-03-29,13212,1243,Piledriver Welder,26.50,,767.29,527.65,White,Male ,0,0,1
+2015-03-29,13156,9540,Piledriver Welder,61.00,,1990.80,1219.77,White,Male ,0,0,1
+2015-04-05,14892,9804,Piledriver Foreman,43.00,,2066.33,1205.86,White,Male,0,0,1
+2015-04-05,14131,8896,Crane Op,64.50,,2891.94,1864.93,Hispanic,Male,0,0,1
+2015-04-05,14224,3701,Piledriver Welder,43.00,,1643.95,969.01,White,Male,0,0,1
+2015-04-05,14051,4840,Piledriver Foreman,56.00,,2442.88,1654.34,White,Male ,0,0,1
+2015-04-05,13212,8637,Piledriver Welder,56.00,,1769.60,1098.29,White,Male,0,0,1
+2015-04-05,14075,9686,Piledriver Welder,44.00,,1669.12,1023.52,White,Male,0,0,1
+2015-04-05,14075,8006,Piledriver Foreman,56.00,,2442.88,1388.50,White,Male,0,0,1
+2015-04-05,13042,3984,Crane Op,56.00,,2411.52,1473.79,White,Male,0,0,1
+2015-04-05,14057,7504,Piledriver Welder,56.00,,2147.20,1274.18,White,Male ,0,0,1
+2015-04-05,13120,9497,Operator,56.00,,2075.52,1369.32,Native American ,Male,0,0,1
+2015-04-05,13069,2450,Piledriver Journeyman,56.00,,1705.60,1178.61,White,Male ,0,0,1
+2015-04-05,14220,3701,4th Yr Appr Piledriver,56.00,,2067.20,1248.92,White,Male,0,0,1
+2015-04-05,13090,4210,Crane Op,32.00,,1185.48,785.34,White,Male,0,0,1
+2015-04-05,13215,8621,Crane Op,52.00,,2083.94,1439.35,White,Male,0,0,1
+2015-04-05,13027,1450,Piledriver Journeyman,52.00,,1545.70,950.67,Hispanic,Female,0,0,1
+2015-04-05,13212,1243,Piledriver Welder,4.00,,165.90,119.13,White,Male ,0,0,1
+2015-04-05,13156,9540,Piledriver Welder,56.00,,1769.60,1098.29,White,Male ,0,0,1
+2015-04-05,13402,4550,Piledriver Journeyman,24.00,,746.20,545.49,White,Male,0,0,1
+2015-04-05,13104,9590,Piledriver Journeyman,20.00,,586.30,413.54,White,Female,0,0,1
+2015-04-12,14892,9804,Piledriver Foreman,22.50,,1085.88,690.88,White,Male,0,0,1
+2015-04-12,14131,8896,Crane Op,67.50,,3061.50,1958.09,Hispanic,Male,0,0,1
+2015-04-12,14224,3701,Piledriver Welder,62.00,,2449.15,1430.66,White,Male,0,0,1
+2015-04-12,14051,4840,Piledriver Foreman,64.50,,2929.55,1924.61,White,Male ,0,0,1
+2015-04-12,13212,8637,Piledriver Welder,65.00,,2142.88,1297.29,White,Male,0,0,1
+2015-04-12,14075,9686,Piledriver Welder,64.50,,2564.96,1495.77,White,Male,0,0,1
+2015-04-12,14075,8006,Piledriver Foreman,64.50,,2929.55,1642.72,White,Male,0,0,1
+2015-04-12,13042,3984,Crane Op,64.50,,2891.94,1721.92,White,Male,0,0,1
+2015-04-12,14057,7504,Piledriver Welder,63.50,,2541.41,1474.38,White,Male ,0,0,1
+2015-04-12,13120,9497,Operator,64.50,,2489.00,1596.13,Native American ,Male,0,0,1
+2015-04-12,13069,2450,Piledriver Journeyman,68.50,,2205.29,1465.70,White,Male ,0,0,1
+2015-04-12,14220,3701,4th Yr Appr Piledriver,63.50,,2446.73,1444.31,White,Male,0,0,1
+2015-04-12,13090,4210,Crane Op,22.50,,847.95,598.33,White,Male,0,0,1
+2015-04-12,13215,8621,Crane Op,68.50,,2973.21,1928.16,White,Male,0,0,1
+2015-04-12,13027,1450,Piledriver Journeyman,36.50,,1139.29,738.35,Hispanic,Female,0,0,1
+2015-04-12,13156,9540,Piledriver Welder,42.00,,1410.15,911.29,White,Male ,0,0,1
+2015-04-12,13402,4550,Piledriver Journeyman,64.50,,2045.39,1337.47,White,Male,0,0,1
+2015-04-12,13104,9590,Piledriver Journeyman,64.50,,2045.39,1220.08,White,Female,0,0,1
+2015-04-12,13492,0818,Piledriver Journeyman,32.00,,1066.00,724.41,White,Male,0,0,1
+2015-04-26,14131,8896,Crane Op,68.00,,3089.76,1973.62,Hispanic,Male,0,0,1
+2015-04-26,14051,4840,Piledriver Foreman,68.00,,3129.94,2035.90,White,Male ,0,0,1
+2015-04-26,13212,8637,Piledriver Welder,60.00,,1935.50,1189.89,White,Male,0,0,1
+2015-04-26,14075,9686,Piledriver Welder,68.00,,2751.10,1586.94,White,Male,0,0,1
+2015-04-26,14075,8006,Piledriver Foreman,68.00,,3129.94,1747.40,White,Male,0,0,1
+2015-04-26,13042,3984,Crane Op,68.00,,3089.76,1824.07,White,Male,0,0,1
+2015-04-26,14057,7504,Piledriver Welder,60.00,,2348.50,1378.56,White,Male ,0,0,1
+2015-04-26,13120,9497,Operator,68.00,,2659.26,1689.28,Native American ,Male,0,0,1
+2015-04-26,13069,2450,Piledriver Journeyman,66.00,,2105.35,1411.35,White,Male ,0,0,1
+2015-04-26,14220,3701,4th Yr Appr Piledriver,68.00,,2648.60,1553.74,White,Male,0,0,1
+2015-04-26,13215,8621,Crane Op,68.00,,2946.26,1913.38,White,Male,0,0,1
+2015-04-26,13027,1450,Piledriver Journeyman,58.00,,1785.55,1082.92,Hispanic,Female,0,0,1
+2015-04-26,13156,9540,Piledriver Welder,60.00,,1935.50,1189.89,White,Male ,0,0,1
+2015-04-26,13402,4550,Piledriver Journeyman,68.00,,2185.30,1413.57,White,Male,0,0,1
+2015-04-26,13104,9590,Piledriver Journeyman,68.00,,2185.30,1291.56,White,Female,0,0,1
+2015-04-26,13464,0681,Piledriver Welder,68.00,,2267.30,1337.79,White ,Male,0,0,1
+2015-05-03,14131,8896,Crane Op,70.50,,3231.06,2051.80,Hispanic,Male,0,0,1
+2015-05-03,14051,4840,Piledriver Foreman,68.50,,3158.57,2051.80,White,Male ,0,0,1
+2015-05-03,13212,8637,Piledriver Welder,59.00,,1894.03,1167.00,White,Male,0,0,1
+2015-05-03,14075,9686,Piledriver Welder,51.00,,2029.78,1218.87,White,Male,0,0,1
+2015-05-03,14075,8006,Piledriver Foreman,68.50,,3158.57,1762.35,White,Male,0,0,1
+2015-05-03,13042,3984,Crane Op,67.00,,3033.24,1794.89,White,Male,0,0,1
+2015-05-03,14057,7504,Piledriver Welder,59.00,,2298.18,1352.51,White,Male ,0,0,1
+2015-05-03,13120,9497,Operator,68.00,,2659.26,1689.28,Native American ,Male,0,0,1
+2015-05-03,13069,2450,Piledriver Journeyman,24.00,,746.20,570.81,White,Male ,0,0,1
+2015-05-03,14220,3701,4th Yr Appr Piledriver,67.00,,2600.15,1528.40,White,Male,0,0,1
+2015-05-03,13215,8621,Crane Op,67.00,,2892.37,1883.80,White,Male,0,0,1
+2015-05-03,13027,1450,Piledriver Journeyman,64.00,,2025.40,1209.88,Hispanic,Female,0,0,1
+2015-05-03,13156,9540,Piledriver Welder,59.00,,1894.03,1167.00,White,Male ,0,0,1
+2015-05-03,13402,4550,Piledriver Journeyman,67.00,,2145.33,1391.83,White,Male,0,0,1
+2015-05-03,13104,9590,Piledriver Journeyman,24.00,,746.20,517.82,White,Female,0,0,1
+2015-05-03,13464,0681,Piledriver Welder,55.00,,1838.73,1122.01,White ,Male,0,0,1
+2015-05-10,14131,8896,Crane Op,55.00,,2355.00,1569.89,Hispanic,Male,0,0,1
+2015-05-10,14051,4840,Piledriver Foreman,56.00,,2442.88,1654.34,White,Male ,0,0,1
+2015-05-10,13212,8637,Piledriver Welder,52.50,,1624.44,1017.96,White,Male,0,0,1
+2015-05-10,14075,8006,Piledriver Foreman,56.00,,2442.88,1388.50,White,Male,0,0,1
+2015-05-10,13042,3984,Crane Op,57.00,,2468.04,1502.99,White,Male,0,0,1
+2015-05-10,14057,7504,Piledriver Welder,54.00,,2046.55,1221.59,White,Male ,0,0,1
+2015-05-10,13120,9497,Operator,56.00,,2075.52,1369.32,Native American ,Male,0,0,1
+2015-05-10,14220,3701,4th Yr Appr Piledriver,54.00,,1970.30,1197.64,White,Male,0,0,1
+2015-05-10,13215,8621,Crane Op,46.00,,1904.29,1341.18,White,Male,0,0,1
+2015-05-10,13027,1450,Piledriver Journeyman,56.00,,1705.60,1038.92,Hispanic,Female,0,0,1
+2015-05-10,13156,9540,Piledriver Welder,57.00,,1811.08,1121.19,White,Male ,0,0,1
+2015-05-10,13402,4550,Piledriver Journeyman,57.00,,1745.59,1172.74,White,Male,0,0,1
+2015-05-10,13464,0681,Piledriver Welder,45.00,,1423.98,892.44,White ,Male,0,0,1
+2015-05-17,13212,8637,Piledriver Welder,24.00,,663.60,472.03,White,Male,0,0,1
+2015-05-17,14075,8006,Piledriver Foreman,16.00,,610.71,356.14,White,Male,0,0,1
+2015-05-17,13042,3984,Crane Op,16.00,,602.88,451.15,White,Male,0,0,1
+2015-05-17,13120,9497,Operator,24.00,,778.32,565.45,Native American ,Male,0,0,1
+2015-05-17,13027,1450,Piledriver Journeyman,24.00,,639.60,442.24,Hispanic,Female,0,0,1
+2015-05-17,13156,9540,Piledriver Welder,24.00,,639.60,442.24,White,Male ,0,0,1
+2015-05-17,13402,4550,Piledriver Journeyman,16.00,,426.40,289.56,White,Male,0,0,1
+2015-05-17,13464,0681,Piledriver Welder,8.00,,213.20,166.83,White ,Male,0,0,1

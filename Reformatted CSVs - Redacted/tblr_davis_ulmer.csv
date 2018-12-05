@@ -1,0 +1,48 @@
+ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add
+2015-06-07,13030,6189,Sprinkler Fitter Journeyman,31.66,,94.98,,Male,White,0,0,1
+2015-06-14,13212,5444,Sprinkler Fitter Apprentice,40.00,,760.00,591.42,Male,Black,0,0,1
+2015-06-14,13030,6189,Sprinkler Fitter Journeyman,40.00,,1376.40,954.58,Male,White,0,0,1
+2015-06-14,13044,6302,Sprinkler Fitter Apprentice,2.00,,31.66,,Male,White,0,0,1
+2015-06-21,13212,5444,Sprinkler Fitter Apprentice,38.00,,722.00,565.22,Male,Black,0,0,1
+2015-06-21,13030,6189,Sprinkler Fitter Journeyman,40.00,,1376.40,954.57,Male,White ,0,0,1
+2015-06-28,13206,8181,Sprinkler Fitter Journeyman,37.00,,1250.57,,Male,White,0,0,1
+2015-06-28,13212,5444,Sprinkler Fitter Apprentice,45.00,,902.50,687.02,Male,Black,0,0,1
+2015-06-28,13030,6189,Sprinkler Fitter Journeyman,45.00,,1634.48,1119.86,Male ,White ,0,0,1
+2015-06-28,13044,6302,Sprinkler Fitter Apprentice,37.00,,625.29,,Male,White,0,0,1
+2015-07-05,13212,5444,Sprinkler Fitter Apprentice,36.00,,684.00,540.04,Male,Black ,0,0,1
+2015-07-05,13030,6189,Sprinkler Fitter Journeyman,36.00,,1238.76,867.82,Male,White,0,0,1
+2015-07-12,13212,5444,Sprinkler Fitter Apprentice,44.00,,874.00,668.49,Male,Black ,0,0,1
+2015-07-12,13030,6189,Sprinkler Fitter Journeyman,44.00,,1582.87,1087.01,Male,White,0,0,1
+2015-07-12,13044,6302,Sprinkler Fitter Apprentice,8.00,,126.64,,Male,White,0,0,1
+2015-07-19,13039,9738,Sprinkler Fitter Apprentice,18.00,,646.00,,Male,White,0,0,1
+2015-07-19,13206,8181,Sprinkler Fitter Journeyman,10.00,,474.90,,Male,White ,0,1,1
+2015-07-19,13212,5444,Sprinkler Fitter Apprentice,46.00,,931.00,706.53,Male,Black,0,0,1
+2015-07-19,13476,2286,Sprinkler Fitter Journeyman,24.00,,1061.52,,Male,White,0,0,1
+2015-07-19,13030,6189,Sprinkler Fitter Journeyman,56.00,,2202.26,1438.22,Male,White,0,0,1
+2015-07-19,13044,6302,Sprinkler Fitter Apprentice,6.00,,142.47,,Male,White,0,1,1
+2015-07-19,13088,2486,Sprinkler Fitter Journeyman,28.00,,1076.44,,Male,White ,0,0,1
+2015-07-19,13164,0016,Sprinkler Fitter Apprentice,43.00,,870.01,623.81,Male,White,0,0,1
+2015-07-19,13108,5141,Sprinkler Fitter Apprentice,8.00,,190.00,,Female,White,0,0,1
+2015-07-19,13211,3499,Sprinkler Fitter Apprentice,10.00,,403.65,,Male,White,0,1,1
+2015-07-19,13031,2081,Sprinkler Fitter Journeyman,49.00,,2075.73,1340.73,Male,White ,0,0,1
+2015-07-26,13039,9738,Sprinkler Fitter Apprentice,40.00,,760.00,606.14,male,white,0,0,1
+2015-07-26,13206,8181,Sprinkler Fitter Journeyman,24.00,,759.84,,Male,White ,0,0,1
+2015-07-26,13212,5444,Sprinkler Fitter Apprentice,40.00,,760.00,591.42,Male,Black,0,0,1
+2015-07-26,13476,2286,Sprinkler Fitter Journeyman,40.00,,1456.40,911.42,Male,White,0,0,1
+2015-07-26,13030,6189,Sprinkler Fitter Journeyman,40.00,,1376.40,954.57,Male,White,0,0,1
+2015-07-26,13044,6302,Sprinkler Fitter Apprentice,8.00,,126.64,,Male,White,0,0,1
+2015-07-26,13088,2486,Sprinkler Fitter Journeyman,8.00,,253.28,,Male,White ,0,0,1
+2015-07-26,13164,0016,Sprinkler Fitter Apprentice,40.00,,800.80,579.83,Male,White,0,0,1
+2015-07-26,13108,5141,Sprinkler Fitter Apprentice,8.00,,190.00,,Female,White,0,0,1
+2015-07-26,13211,3499,Sprinkler Fitter Apprentice,40.00,,1076.40,658.76,Male,White,0,0,1
+2015-07-26,13031,2081,Sprinkler Fitter Journeyman,40.00,,1582.80,1071.07,Male,White ,0,0,1
+2015-08-02,13212,5444,Sprinkler Fitter Apprentice,40.00,,760.00,591.42,Male,Black,0,0,1
+2015-08-02,13030,6189,Sprinkler Fitter Journeyman,40.00,,1376.40,954.57,Male,White,0,0,1
+2015-08-02,13211,3499,Sprinkler Fitter Apprentice,11.00,,296.01,,Male,White,0,0,1
+2015-08-08,13209,7877,Sprinkler Fitter Apprentice,2.00,,50.66,,Male,White,0,0,1
+2015-08-08,13212,5444,Sprinkler Fitter Apprentice,40.00,,760.00,591.42,Male,Black,0,0,1
+2015-08-08,13030,6189,Sprinkler Fitter Journeyman,40.00,,1376.40,954.57,Male,White,0,0,1
+2015-08-16,13030,6189,Sprinkler Fitter Journeyman,19.00,,653.79,,Male,White,0,0,1
+2015-08-16,13031,2081,Sprinkler Fitter Journeyman,2.00,,63.32,,Male,White ,0,0,1
+2015-08-23,13030,6189,Sprinkler Fitter Journeyman,24.00,,825.84,,Male,White,0,0,1
+2015-08-30,13030,6189,Sprinkler Fitter Journeyman,2.00,,68.82,,Male,White,0,0,1
