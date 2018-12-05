@@ -10,7 +10,7 @@ A number of employee records provided by Onondaga County to LSCNY contain the pe
 
 Redactions are indicated with `r_` in file name prefixes, including `prer*` for preprocessed .xlsx workbooks and `tblr*` for reformatted .xlsx workbooks and .csv text files.
 
-Each *formatted* file contains binary variable `add` indicating whether an address for the given observation was redacted (`1`) or missing (`0`).
+Each *formatted* file contains binary variable `add` indicating whether an address was redacted (`1`) or missing (`0`).
 
 ## On Preprocessing
 
