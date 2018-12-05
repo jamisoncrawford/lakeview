@@ -27,3 +27,27 @@ In order to prevent information loss, the following variables were added to *for
 
 ## Preprocessed & Reformatted Variable Definitions
 
+All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/master/Reformatted%20CSVs%20-%20Redacted) and [reformatted workbooks](https://github.com/jamisoncrawford/lakeview/tree/master/Reformatted%20Workbooks%20-%20Redacted) contain the same variables regardless of content.
+
+* `ending`: The ending date, in `YYYY-MM-DD` format, for the work period of a given record.
+  - Some entries contain `ending` values within data despite containing no worker or payment data
+* `zip`: The 5-digit ZIP code of a worker disclosed in her or his payment record.
+  - Some `zip` values were extracted from `address` strings before the latter were redacted
+  - Therefore, reformatted datasets may contain `zip` values that are not present in preprocessed workbooks
+* `ssn`: The last 4 digits disclosed in a given record for its corresponding worker.
+* `class`: Classification of the worker, typically vocational, for a given record.
+* `hours`: The total hours disclosed in a record for the given period, `ending`.
+* `rate`: The hourly wage of the worker described in the payment record.
+  - `ot` indicates if `rate` describes the hourly wage for overtime
+* `gross`: The total pay for `period` absent deductions, e.g. taxes and union dues.
+  - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, the value is defined as `NA` (misssing)
+  - This was a summary decision in preprocessing, though values may exist in raw data
+* `net`: Total earnings for `period` equalling `gross` less deductions.
+* `sex`: Nonordinal categorical defining worker gender, viz. `male` or `female`
+  - In instances where `sex` is disclosed for `female` workers, only, it is assumed that missing values are `male`
+* `race`: Nonordinal categorical defining worker race for a given record.
+  - In instances where `race` is disclosed only for minorities, it is assumed that missing values are `White`
+* `dup`: Binary indicating whether a worker has 2 payment records in a given `period` (`1`) or not (`0`)
+  - This appears to be the case for only one contractor, viz. `tblr_am_electric.*`
+* `ot`: Binary indicating whether the payment is for overtime only (`1`) or not (`0`)
+* `add`: Binary indicating whether a personal address was redacted (`1`) or not (`0`)
