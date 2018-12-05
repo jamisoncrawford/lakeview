@@ -8,7 +8,10 @@ Moreover, a brief note on raw data preprocessing by Legal Services of Central Ne
 
 A number of employee records provided by Onondaga County to LSCNY contain the personal addresses of construction workers. Therefore, all personal addresses disclosed in employment records have been redacted in the [Preprocessed Workbooks](https://github.com/jamisoncrawford/lakeview/tree/master/Preprocessed%20Workbooks%20-%20Redacted) provided by LSCNY, [Reformatted Workbooks](https://github.com/jamisoncrawford/lakeview/tree/master/Reformatted%20Workbooks%20-%20Redacted), and [Reformatted Text Files](https://github.com/jamisoncrawford/lakeview/tree/master/Reformatted%20CSVs%20-%20Redacted).
 
-Redactions are indicated with `r_` in file name prefixes, including `prer*` for preprocessed .xlsx workbooks and `tblr*` for reformatted .xlsx workbooks and .csv text files.
+Redactions are indicated with `r_` in file name prefixes, including:
+
+* `prer*` for preprocessed .xlsx workbooks 
+* `tblr*` for reformatted .xlsx workbooks and .csv text files
 
 Each *formatted* file contains binary variable `add` indicating whether an address was redacted (`1`) or missing (`0`).
 
@@ -18,7 +21,8 @@ LSCNY manually scraped 22 "smaller" datasets provided by Onondaga County, which 
 
 In order to prevent information loss, the following variables were added to *formatted* .xlsx and .csv files in lieu of comments and other features which cannot translate to text:
 
-* `dup`: Binary variable indicating whether a worker has two records in the same work period (`ending`), with `1` indicating a second entry within `ending`.
+* `dup`: Binary variable indicating whether a worker has two records in the same work period (`ending`)
+  - `1` indicates a second entry within period `ending`
 * `ot`: Binary variable indicating whether a record in work period `ending` is entirely comprised of overtime.
 
 ## Preprocessed & Reformatted Variable Definitions
