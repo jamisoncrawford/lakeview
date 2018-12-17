@@ -42,8 +42,10 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
    - Unless disclosed elsehow, `class` values are assumed to be "Journeyman" status
    - `class` also includes "Foreman", "Subforeman", "General Foreman", and variations
 * `hours`: The total hours disclosed in a record for the given period, `ending`.
+   - Calculated by the sum of regular and overtime pay, if provided
 * `rate`: The hourly wage of the worker described in the payment record.
   - `ot` indicates if `rate` describes the hourly wage for overtime
+  - In instances where only overtime is recorded, `rate` is calculated by dividing the given value by 1.5
 * `gross`: The total pay for `period` absent deductions, e.g. taxes and union dues.
   - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, value defined as misssing
   - This was a summary decision in preprocessing, though values may exist in raw data
