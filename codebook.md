@@ -37,6 +37,10 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
   - Therefore, reformatted datasets may contain `zip` values that are not present in preprocessed workbooks
 * `ssn`: The last 4 digits disclosed in a given record for its corresponding worker.
 * `class`: Classification of the worker, typically vocational, for a given record.
+   - "Apprentice" or "Journeyman" status provided, if disclosed, including year, if applicable
+   - *John C. Lowery, Inc.* records containing "App." or "app." are assumed to be an "Apprentice" `class`
+   - Unless disclosed elsehow, `class` values are assumed to be "Journeyman" status
+   - `class` also includes "Foreman", "Subforeman", "General Foreman", and variations
 * `hours`: The total hours disclosed in a record for the given period, `ending`.
 * `rate`: The hourly wage of the worker described in the payment record.
   - `ot` indicates if `rate` describes the hourly wage for overtime
