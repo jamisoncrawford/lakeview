@@ -23,6 +23,7 @@ In order to prevent information loss, the following variables were added to *for
 
 * `dup`: Binary variable indicating whether a worker has two records in the same work period (`ending`)
   - `1` indicates a second entry within period `ending`
+  - Two or more records during the same `ending` period for the same worker are considered distinct payments
 * `ot`: Binary variable indicating whether a record in work period `ending` is entirely comprised of overtime.
 
 ## Preprocessed & Reformatted Variable Definitions
