@@ -35,6 +35,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 * `zip`: The 5-digit ZIP code of a worker disclosed in her or his payment record.
   - Some `zip` values were extracted from `address` strings before the latter were redacted
   - Therefore, reformatted datasets may contain `zip` values that are not present in preprocessed workbooks
+  - In instances where `zip` is unavailable, but `address` is, `zip` is extrapolated
 * `ssn`: The last 4 digits disclosed in a given record for its corresponding worker.
 * `class`: Classification of the worker, typically vocational, for a given record.
    - "Apprentice" or "Journeyman" status provided, if disclosed, including year, if applicable
