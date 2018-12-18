@@ -50,6 +50,8 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
   - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, value defined as misssing
   - This was a summary decision in preprocessing, though values may exist in raw data
 * `net`: Total earnings for `period` equalling `gross` less deductions.
+  - In some instances, e.g. some records in *Northeast Construction, Inc.*, `net` includes earnings from other jobs
+  - In effect, it is recommended that `gross` be used as the principal means of measuring earned income
 * `sex`: Nonordinal categorical defining worker gender, viz. `male` or `female`
   - In instances where `sex` is disclosed for `female` workers, only, it is assumed that missing values are `male`
 * `race`: Nonordinal categorical defining worker race for a given record.
