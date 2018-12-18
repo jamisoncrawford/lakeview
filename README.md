@@ -13,5 +13,3 @@ The following individuals and organizations contributed to this project in the m
 * **Jamison Crawford, MPA:** Principal analyst.
 * **Andrew Croom, JD:** Retrieved and manually organized all raw data, as well as provided variables of interest.
 * **Legal Services of Central New York:** Co-creator of the Racial Equity Impact Statement (REIS).
-* **Urban Jobs Task Force:** Co-creator of the Racial Equity Impact Statement (REIS).
-* **Central New York Community Foundation:** *Community Data Meetings.* Facilitating volunteer recruitment, peer review.
