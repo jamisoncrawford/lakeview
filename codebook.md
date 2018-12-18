@@ -49,7 +49,8 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
   - In instances where only overtime is recorded, `rate` is calculated by dividing the given value by 1.5
 * `gross`: The total pay for `period` absent deductions, e.g. taxes and union dues.
   - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, value defined as misssing
-  - This was a summary decision in preprocessing, though values may exist in raw data
+    - This was a summary decision in preprocessing, though values may exist in raw data
+  - In instances where `gross` is missing, albeit calculable given `rate` and `hours`, it is calculated
 * `net`: Total earnings for `period` equalling `gross` less deductions.
   - In some instances, e.g. some records in *Northeast Construction, Inc.*, `net` includes earnings from other jobs
   - In effect, it is recommended that `gross` be used as the principal means of measuring earned income
