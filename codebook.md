@@ -55,8 +55,10 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
   - In effect, it is recommended that `gross` be used as the principal means of measuring earned income
 * `sex`: Nonordinal categorical defining worker gender, viz. `male` or `female`
   - In instances where `sex` is disclosed for `female` workers, only, it is assumed that missing values are `male`
+  - In instances where `sex` is disclosed and contains at least one `female`, missing values are assumed `male`
 * `race`: Nonordinal categorical defining worker race for a given record.
   - In instances where `race` is disclosed only for minorities, it is assumed that missing values are `White`
+  - In instances where `race` is disclosed and contains at least one minority, missing values are assumed `White`
 * `dup`: Binary indicating whether a worker has 2 payment records in a given `period` (`1`) or not (`0`)
   - This appears to be the case for only one contractor, viz. `tblr_am_electric.*`
 * `ot`: Binary indicating whether the payment is for overtime only (`1`) or not (`0`)
