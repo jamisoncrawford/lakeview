@@ -43,6 +43,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
    - Unless disclosed elsehow, `class` values are assumed to be "Journeyman" status
    - `class` also includes "Foreman", "Subforeman", "General Foreman", and variations
      - During scraping, values are recorded as-is, but will be homogenized once merged
+     - In instances where `class` changes over time, only the first value is recorded
 * `hours`: The total hours disclosed in a record for the given period, `ending`.
    - Calculated by the sum of regular and overtime pay, if provided
    - In instances of obvious bookkeeping errors, `hours` and related variables are corrected
