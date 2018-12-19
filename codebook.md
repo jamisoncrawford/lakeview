@@ -61,6 +61,12 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 * `race`: Nonordinal categorical defining worker race for a given record.
   - In instances where `race` is disclosed only for minorities, it is assumed that missing values are `White`
   - In instances where `race` is disclosed and contains at least one minority, missing values are assumed `White`
+  - Categories of `race` have been abbreviated to include:
+    - "White"
+    - "Black"
+    - "Native American"
+    - "Hispanic"
+    - "Asian"
 * `dup`: Binary indicating whether a worker has 2 payment records in a given `period` (`1`) or not (`0`)
   - This appears to be the case for only one contractor, viz. `tblr_am_electric.*`
 * `ot`: Binary indicating whether the payment is for overtime only (`1`) or not (`0`)
