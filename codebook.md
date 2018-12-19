@@ -44,6 +44,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
    - `class` also includes "Foreman", "Subforeman", "General Foreman", and variations
 * `hours`: The total hours disclosed in a record for the given period, `ending`.
    - Calculated by the sum of regular and overtime pay, if provided
+   - In instances of obvious bookkeeping errors, `hours` and related variables are corrected
 * `rate`: The hourly wage of the worker described in the payment record.
   - `ot` indicates if `rate` describes the hourly wage for overtime
   - In instances where only overtime is recorded, `rate` is calculated by dividing the given value by 1.5
