@@ -1,0 +1,76 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Benedict Floor,2015-06-24,13164,7376,Cement Mason,9.5,26.94,276.14,741.38,,,0,0,1,1,1,1
+Lakeview,Benedict Floor,2015-06-24,13080,1061,Cement Mason,17.5,26.94,518.60,1114.44,,,0,0,1,1,1,2
+Lakeview,Benedict Floor,2015-06-24,13035,9591,Cement Mason,14.0,26.94,457.98,711.00,,,0,0,1,1,1,3
+Lakeview,Benedict Floor,2015-06-24,13080,7110,Cement Mason,9.0,26.94,255.93,536.29,,,0,0,1,1,1,4
+Lakeview,Benedict Floor,2015-06-24,13069,9830,Cement Mason,9.0,26.94,255.93,547.18,,,0,0,1,1,1,5
+Lakeview,Benedict Floor,2015-06-24,13069,6022,Cement Mason,9.0,26.94,255.93,608.84,,,0,0,1,1,1,6
+Lakeview,Benedict Floor,2015-06-24,13131,1436,Cement Mason,14.5,26.94,478.19,625.93,,,0,0,1,1,1,7
+Lakeview,Benedict Floor,2015-06-24,13167,1961,Cement Mason,14.5,26.94,478.19,585.31,,,0,0,1,1,1,8
+Lakeview,Benedict Floor,2015-06-24,13135,5974,Cement Mason,14.0,26.94,457.98,581.61,,,0,0,1,1,1,9
+Lakeview,Benedict Floor,2015-06-24,13166,4146,Foreman Laborer,17.0,24.35,523.57,819.26,,,0,0,1,1,2,1
+Lakeview,Benedict Floor,2015-06-24,13206,2759,Laborer,13.0,22.85,354.20,753.45,,,0,0,1,1,2,2
+Lakeview,Benedict Floor,2015-06-24,13112,8208,Laborer,17.0,22.85,491.31,569.22,,,0,0,1,1,2,3
+Lakeview,Benedict Floor,2015-06-24,13084,3263,Laborer,13.0,22.85,354.20,537.56,,,0,0,1,1,2,4
+Lakeview,Benedict Floor,2015-06-24,13215,1348,Laborer,13.0,22.85,354.20,490.87,,,0,0,1,1,2,5
+Lakeview,Benedict Floor,2015-06-24,13063,1392,Laborer,13.0,22.85,354.20,593.11,,,0,0,1,1,2,6
+Lakeview,Benedict Floor,2015-07-01,13164,7376,Cement Mason,24.0,26.94,646.56,720.84,,,0,0,1,1,4,1
+Lakeview,Benedict Floor,2015-07-01,13080,1061,Cement Mason,21.5,26.94,599.42,933.17,,,0,0,1,1,4,2
+Lakeview,Benedict Floor,2015-07-01,13035,9591,Cement Mason,14.0,26.94,377.16,743.81,,,0,0,1,1,4,3
+Lakeview,Benedict Floor,2015-07-01,13080,7110,Cement Mason,22.0,26.94,592.68,685.76,,,0,0,1,1,4,4
+Lakeview,Benedict Floor,2015-07-01,13069,9830,Cement Mason,26.0,26.94,700.44,707.06,,,0,0,1,1,4,5
+Lakeview,Benedict Floor,2015-07-01,13069,6022,Cement Mason,18.0,26.94,484.92,734.87,,,0,0,1,1,4,6
+Lakeview,Benedict Floor,2015-07-01,13131,1436,Cement Mason,22.0,26.94,592.68,432.49,,,0,0,1,1,4,7
+Lakeview,Benedict Floor,2015-07-01,13167,1961,Cement Mason,22.0,26.94,592.68,404.87,,,0,0,1,1,4,8
+Lakeview,Benedict Floor,2015-07-01,13135,5974,Cement Mason,14.0,26.94,377.16,698.57,,,0,0,1,1,4,9
+Lakeview,Benedict Floor,2015-07-01,13166,4146,Foreman Laborer,39.0,24.35,718.33,671.09,,,0,0,1,1,5,1
+Lakeview,Benedict Floor,2015-07-01,13206,2759,Laborer,26.0,22.85,594.10,596.85,,,0,0,1,1,5,2
+Lakeview,Benedict Floor,2015-07-01,13112,8208,Laborer,21.5,22.85,508.42,448.55,,,0,0,1,1,5,3
+Lakeview,Benedict Floor,2015-07-01,13084,3263,Laborer,19.0,22.85,445.58,448.55,,,0,0,1,1,5,4
+Lakeview,Benedict Floor,2015-07-01,13215,1348,Laborer,26.0,22.85,594.10,549.99,,,0,0,1,1,5,5
+Lakeview,Benedict Floor,2015-07-01,13063,1392,Laborer,26.0,22.85,594.10,549.99,,,0,0,1,1,5,6
+Lakeview,Benedict Floor,2015-07-08,13164,7376,Cement Mason,19.0,26.94,552.27,787.38,,,0,0,1,1,7,1
+Lakeview,Benedict Floor,2015-07-08,13080,1061,Cement Mason,19.5,26.94,572.48,906.39,,,0,0,1,1,7,2
+Lakeview,Benedict Floor,2015-07-08,13035,9591,Cement Mason,18.5,26.94,532.07,668.88,,,0,0,1,1,7,3
+Lakeview,Benedict Floor,2015-07-08,13080,7110,Cement Mason,17.5,26.94,491.66,622.11,,,0,0,1,1,7,4
+Lakeview,Benedict Floor,2015-07-08,13069,9830,Cement Mason,17.5,26.94,491.66,632.13,,,0,0,1,1,7,5
+Lakeview,Benedict Floor,2015-07-08,13069,6022,Cement Mason,17.5,26.94,491.66,640.30,,,0,0,1,1,7,6
+Lakeview,Benedict Floor,2015-07-08,13131,1436,Cement Mason,22.0,26.94,619.62,518.79,,,0,0,1,1,7,7
+Lakeview,Benedict Floor,2015-07-08,13167,1961,Cement Mason,22.0,26.94,619.62,491.17,,,0,0,1,1,7,8
+Lakeview,Benedict Floor,2015-07-08,13135,5974,Cement Mason,22.5,26.94,639.83,654.72,,,0,0,1,1,7,9
+Lakeview,Benedict Floor,2015-07-08,13166,4146,Foreman Laborer,24.0,24.35,633.12,710.73,,,0,0,1,1,8,1
+Lakeview,Benedict Floor,2015-07-08,13206,2759,Laborer,22.5,22.85,542.70,552.76,,,0,0,1,1,8,2
+Lakeview,Benedict Floor,2015-07-08,13112,8208,Laborer,18.5,22.85,451.30,350.14,,,0,0,1,1,8,3
+Lakeview,Benedict Floor,2015-07-08,13084,3263,Laborer,19.5,22.85,485.58,546.79,,,0,0,1,1,8,4
+Lakeview,Benedict Floor,2015-07-08,13215,1348,Laborer,23.5,22.85,576.98,550.01,,,0,0,1,1,8,5
+Lakeview,Benedict Floor,2015-07-08,13063,1392,Laborer,22.5,22.85,542.70,531.96,,,0,0,1,1,8,6
+Lakeview,Benedict Floor,2015-07-22,13164,7376,Cement Mason,8.0,26.94,215.52,680.93,,,0,0,1,1,10,1
+Lakeview,Benedict Floor,2015-07-22,13080,1061,Cement Mason,9.0,26.94,255.93,911.03,,,0,0,1,1,10,2
+Lakeview,Benedict Floor,2015-07-22,13035,9591,Cement Mason,8.0,26.94,215.52,715.99,,,0,0,1,1,10,3
+Lakeview,Benedict Floor,2015-07-22,13080,7110,Cement Mason,8.0,26.94,215.52,663.14,,,0,0,1,1,10,4
+Lakeview,Benedict Floor,2015-07-22,13069,9830,Cement Mason,8.0,26.94,215.52,709.04,,,0,0,1,1,10,5
+Lakeview,Benedict Floor,2015-07-22,13069,6022,Cement Mason,0.0,26.94,,,,,0,0,1,1,10,6
+Lakeview,Benedict Floor,2015-07-22,13131,1436,Cement Mason,6.0,26.94,161.64,696.68,,,0,0,1,1,10,7
+Lakeview,Benedict Floor,2015-07-22,13167,1961,Cement Mason,6.0,26.94,161.64,644.06,,,0,0,1,1,10,8
+Lakeview,Benedict Floor,2015-07-22,13135,5974,Cement Mason,8.0,26.94,215.52,581.42,,,0,0,1,1,10,9
+Lakeview,Benedict Floor,2015-07-22,13166,4146,Foreman Laborer,8.0,24.35,194.80,681.50,,,0,0,1,1,11,1
+Lakeview,Benedict Floor,2015-07-22,13206,2759,Laborer,8.0,22.85,182.80,549.26,,,0,0,1,1,11,2
+Lakeview,Benedict Floor,2015-07-22,13112,8208,Laborer,9.0,22.85,217.08,439.64,,,0,0,1,1,11,3
+Lakeview,Benedict Floor,2015-07-22,13084,3263,Laborer,8.0,22.85,182.80,598.52,,,0,0,1,1,11,4
+Lakeview,Benedict Floor,2015-07-22,13215,1348,Laborer,8.0,22.85,182.80,618.15,,,0,0,1,1,11,5
+Lakeview,Benedict Floor,2015-07-22,13063,1392,Laborer,8.0,22.85,182.80,627.66,,,0,0,1,1,11,6
+Lakeview,Benedict Floor,2015-07-29,13164,7376,Cement Mason,8.0,26.94,215.52,658.40,,,0,0,1,1,13,1
+Lakeview,Benedict Floor,2015-07-29,13080,1061,Cement Mason,0.0,26.94,,,,,0,0,1,1,13,2
+Lakeview,Benedict Floor,2015-07-29,13035,9591,Cement Mason,0.0,26.94,,,,,0,0,1,1,13,3
+Lakeview,Benedict Floor,2015-07-29,13080,7110,Cement Mason,6.0,26.94,161.64,390.27,,,0,0,1,1,13,4
+Lakeview,Benedict Floor,2015-07-29,13069,9830,Cement Mason,7.0,26.94,188.58,683.50,,,0,0,1,1,13,5
+Lakeview,Benedict Floor,2015-07-29,13069,6022,Cement Mason,0.0,26.94,,,,,0,0,1,1,13,6
+Lakeview,Benedict Floor,2015-07-29,13135,5974,Cement Mason,6.0,26.94,161.64,650.80,,,0,0,1,1,13,7
+Lakeview,Benedict Floor,2015-07-29,13131,1436,Cement Mason,6.0,26.94,161.64,713.04,,,0,0,1,1,13,8
+Lakeview,Benedict Floor,2015-07-29,13167,1961,Cement Mason,6.0,26.94,161.64,655.42,,,0,0,1,1,13,9
+Lakeview,Benedict Floor,2015-07-29,13166,4146,Foreman Laborer,8.0,24.35,194.80,654.82,,,0,0,1,1,14,1
+Lakeview,Benedict Floor,2015-07-29,13206,2759,Laborer,8.0,22.85,182.80,680.56,,,0,0,1,1,14,2
+Lakeview,Benedict Floor,2015-07-29,13112,8208,Laborer,7.0,22.85,159.95,422.27,,,0,0,1,1,14,3
+Lakeview,Benedict Floor,2015-07-29,13084,3263,Laborer,7.0,22.85,159.95,571.92,,,0,0,1,1,14,4
+Lakeview,Benedict Floor,2015-07-29,13215,1348,Laborer,8.0,22.85,182.80,620.70,,,0,0,1,1,14,5
+Lakeview,Benedict Floor,2015-07-29,13063,1392,Laborer,8.0,22.85,182.80,620.71,,,0,0,1,1,14,6
