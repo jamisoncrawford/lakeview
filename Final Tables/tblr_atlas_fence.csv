@@ -1,0 +1,40 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Atlas Fence,2015-08-01,13041,127,Operator,40.0,31.91,1276.40,105.35,Male,White,0,0,1,1,1,1
+Lakeview,Atlas Fence,2015-08-01,13039,4804,Ironworker,40.5,28.70,1169.53,0.60,Male,White,0,0,1,1,1,2
+Lakeview,Atlas Fence,2015-08-01,13069,4935,Ironworker,40.0,28.70,1148.00,183.77,Male,White,0,0,1,1,1,3
+Lakeview,Atlas Fence,2015-08-01,13126,895,Laborer,40.5,24.35,992.26,85.50,Male,White,0,0,1,1,1,4
+Lakeview,Atlas Fence,2015-07-04,13041,127,Operator,7.5,31.64,237.30,7.05,Male,White,0,0,1,1,3,1
+Lakeview,Atlas Fence,2015-07-04,13039,4804,Ironworker,6.0,28.70,172.20,0.60,Male,White,0,0,1,1,3,2
+Lakeview,Atlas Fence,2015-07-04,13069,4935,Ironworker,7.5,29.20,219.00,9.86,Male,White,0,0,1,1,3,3
+Lakeview,Atlas Fence,2015-07-04,13126,895,Laborer,7.5,25.36,190.20,6.63,Male,White,0,0,1,1,3,4
+Lakeview,Atlas Fence,2015-07-11,13041,127,Operator,40.0,31.91,1276.40,105.35,Male,White,0,0,1,1,5,1
+Lakeview,Atlas Fence,2015-07-11,13039,4804,Ironworker,40.0,28.70,1148.00,0.60,Male,White,0,0,1,1,5,2
+Lakeview,Atlas Fence,2015-07-11,13069,4935,Ironworker,40.0,28.70,1148.00,184.28,Male,White,0,0,1,1,5,3
+Lakeview,Atlas Fence,2015-07-11,13126,895,Laborer,40.0,22.85,914.00,118.67,Male,White,0,0,1,1,5,4
+Lakeview,Atlas Fence,2015-07-18,13041,127,Operator,39.0,31.91,1244.49,99.51,Male,White,0,0,1,1,7,1
+Lakeview,Atlas Fence,2015-07-18,13039,4804,Ironworker,39.0,28.70,1119.30,0.60,Male,White,0,0,1,1,7,2
+Lakeview,Atlas Fence,2015-07-18,13069,4935,Ironworker,39.0,28.70,1119.30,176.99,Male,White,0,0,1,1,7,3
+Lakeview,Atlas Fence,2015-07-18,13126,895,Laborer,39.0,22.85,891.15,113.02,Male,White,0,0,1,1,7,4
+Lakeview,Atlas Fence,2015-07-25,13041,127,Operator,40.0,31.91,1276.40,105.35,Male,White,0,0,1,1,9,1
+Lakeview,Atlas Fence,2015-07-25,13039,4804,Ironworker,40.0,28.70,1148.00,0.60,Male,White,0,0,1,1,9,2
+Lakeview,Atlas Fence,2015-07-25,13069,4935,Ironworker,40.0,28.70,1148.00,184.28,Male,White,0,0,1,1,9,3
+Lakeview,Atlas Fence,2015-07-25,13126,895,Laborer,40.0,24.35,974.00,86.33,Male,White,0,0,1,1,9,4
+Lakeview,Atlas Fence,2015-08-08,13041,127,Operator,50.5,31.91,1779.04,70.01,Male,White,0,0,1,1,11,1
+Lakeview,Atlas Fence,2015-08-08,13076,3829,Operator,8.0,31.91,382.96,126.49,,,0,0,1,1,11,2
+Lakeview,Atlas Fence,2015-08-08,13126,8186,Laborer,42.8,24.35,1171.90,29.10,Male,White,0,0,1,1,11,3
+Lakeview,Atlas Fence,2015-08-08,13204,4068,Apprentice ,50.5,15.00,836.25,74.19,Male,White,0,0,1,1,11,4
+Lakeview,Atlas Fence,2015-08-08,13039,4804,Ironworker,50.5,28.70,1600.03,0.60,Male,White,0,0,1,1,11,5
+Lakeview,Atlas Fence,2015-08-08,13069,4935,Ironworker,50.8,28.70,1610.79,178.00,Male,White,0,0,1,1,11,6
+Lakeview,Atlas Fence,2015-08-08,13126,895,Laborer,50.8,24.35,1366.70,67.87,Male,White,0,0,1,1,13,1
+Lakeview,Atlas Fence,2015-08-08,13204,675,Laborer,50.8,24.35,1366.70,67.87,Male,Black,0,0,1,1,13,2
+Lakeview,Atlas Fence,2015-08-08,13069,368,Ironworker,50.5,28.70,1600.03,178.13,Male,White,0,0,1,1,13,3
+Lakeview,Atlas Fence,2015-08-15,13041,127,Operator,37.5,31.91,1675.33,56.92,Male,White,0,0,1,1,15,1
+Lakeview,Atlas Fence,2015-08-15,13076,3829,Operator,54.0,31.91,1946.58,21.32,,,0,0,1,1,15,2
+Lakeview,Atlas Fence,2015-08-15,13126,8186,Laborer,46.0,24.35,1193.18,76.02,Male,White,0,0,1,1,15,3
+Lakeview,Atlas Fence,2015-08-15,13204,4068,Apprentice ,53.5,15.00,903.75,82.01,Male,White,0,0,1,1,15,4
+Lakeview,Atlas Fence,2015-08-15,13039,4804,Ironworker,55.0,28.70,1793.75,0.60,Male,White,0,0,1,1,15,5
+Lakeview,Atlas Fence,2015-08-15,13069,4935,Ironworker,54.5,28.70,1772.23,176.02,Male,White,0,0,1,1,15,6
+Lakeview,Atlas Fence,2015-08-15,13142,4747,Operator,8.3,31.91,394.93,911.27,Male,White,0,0,1,1,17,1
+Lakeview,Atlas Fence,2015-08-15,13126,895,Laborer,54.0,24.35,1485.42,62.27,Male,White,0,0,1,1,17,2
+Lakeview,Atlas Fence,2015-08-15,13204,675,Laborer,8.0,24.35,292.24,71.28,Male,Black,0,0,1,1,17,3
+Lakeview,Atlas Fence,2015-08-15,13069,368,Ironworker,54.5,28.70,1772.23,176.02,Male,White,0,0,1,1,17,4
