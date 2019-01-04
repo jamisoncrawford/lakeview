@@ -1,27 +1,27 @@
-name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
-Ajay Glass,2015-08-01,14612,3888,Iron Workers Rochester,40.0,18.50,740.00,511.31,,,0,0,0,1,1,1
-Ajay Glass,2015-08-01,13205,2807,Syracuse Iron Workers,32.0,28.70,918.40,586.65,,,0,0,0,1,1,2
-Ajay Glass,2015-08-01,14428,7762,Iron Workers Rochester,40.0,33.70,1348.00,1025.92,,,0,0,0,1,1,3
-Ajay Glass,2015-08-01,14549,9759,Iron Workers Rochester,26.0,33.70,876.20,891.08,,,0,0,0,1,1,4
-Ajay Glass,2015-08-08,14433,5632,Syracuse Iron Workers,32.0,17.00,544.00,384.08,,,0,0,0,1,3,1
-Ajay Glass,2015-08-08,14612,3888,Iron Workers Rochester,40.0,18.50,740.00,657.86,,,0,0,0,1,3,2
-Ajay Glass,2015-08-08,14428,7762,Iron Workers Rochester,40.0,33.70,1348.00,1025.92,,,0,0,0,1,3,3
-Ajay Glass,2015-08-08,13118,2838,Syracuse Iron Workers,16.0,28.70,459.20,361.98,,,0,0,0,1,3,4
-Ajay Glass,2015-08-15,14433,5632,Syracuse Iron Workers,32.0,17.00,544.00,384.08,,,0,0,0,1,5,1
-Ajay Glass,2015-08-15,14612,3888,Iron Workers Rochester,42.0,18.50,795.50,616.28,,,0,0,0,1,5,2
-Ajay Glass,2015-08-15,13120,7891,Syracuse Glazers,28.0,23.85,715.50,853.22,,,0,0,0,1,5,3
-Ajay Glass,2015-08-15,13120,7891,Syracuse Glazers,16.0,28.70,459.20,853.22,,,0,0,0,1,5,4
-Ajay Glass,2015-08-15,14428,7762,Iron Workers Rochester,42.0,33.70,1449.10,1091.54,,,0,0,0,1,5,5
-Ajay Glass,2015-08-15,13118,2838,Syracuse Iron Workers,44.0,28.70,1320.20,928.32,,,0,0,0,1,5,6
-Ajay Glass,2015-08-15,13215,879,Syracuse Iron Workers,44.0,28.70,1320.20,807.30,,,0,0,0,1,6,1
-Ajay Glass,2015-08-22,14433,5632,Syracuse Iron Workers,24.0,17.00,408.00,295.07,,,0,0,0,1,8,1
-Ajay Glass,2015-08-22,14612,3888,Iron Workers Rochester,30.0,20.50,625.25,504.98,,,0,0,0,1,8,2
-Ajay Glass,2015-08-22,13120,7891,Syracuse Glazers,41.0,23.85,989.78,734.27,,,0,0,0,1,8,3
-Ajay Glass,2015-08-22,14428,7762,Iron Workers Rochester,41.0,33.70,1398.55,1088.38,,,0,0,0,1,8,4
-Ajay Glass,2015-08-22,13118,2838,Syracuse Iron Workers,41.0,28.70,1191.06,844.50,,,0,0,0,1,8,5
-Ajay Glass,2015-08-22,13215,879,Syracuse Iron Workers,24.0,28.70,688.80,453.08,,,0,0,0,1,8,6
-Ajay Glass,2015-08-29,13120,7891,Syracuse Glazers,32.5,23.85,900.34,673.03,,,0,0,0,1,10,1
-Ajay Glass,2015-08-29,14428,7762,Iron Workers Rochester,16.0,33.70,674.00,1219.30,,,0,0,0,1,10,2
-Ajay Glass,2015-08-29,14466,6684,Iron Workers Rochester,14.0,33.70,707.70,1228.03,,,0,0,0,1,10,3
-Ajay Glass,2015-08-29,14464,3395,Iron Workers Rochester,8.0,28.70,344.40,1119.07,,,0,0,0,1,10,4
-Ajay Glass,2015-08-29,13118,2838,Syracuse Iron Workers,17.5,28.70,538.13,844.50,,,0,0,0,1,10,5
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Ajay Glass,8/1/2015,14612,3888,Iron Workers Rochester,40,18.5,740,511.31,,,0,0,0,1,1,1
+Lakeview,Ajay Glass,8/1/2015,13205,2807,Syracuse Iron Workers,32,28.7,918.4,586.65,,,0,0,0,1,1,2
+Lakeview,Ajay Glass,8/1/2015,14428,7762,Iron Workers Rochester,40,33.7,1348,1025.92,,,0,0,0,1,1,3
+Lakeview,Ajay Glass,8/1/2015,14549,9759,Iron Workers Rochester,26,33.7,876.2,891.08,,,0,0,0,1,1,4
+Lakeview,Ajay Glass,8/8/2015,14433,5632,Syracuse Iron Workers,32,17,544,384.08,,,0,0,0,1,3,1
+Lakeview,Ajay Glass,8/8/2015,14612,3888,Iron Workers Rochester,40,18.5,740,657.86,,,0,0,0,1,3,2
+Lakeview,Ajay Glass,8/8/2015,14428,7762,Iron Workers Rochester,40,33.7,1348,1025.92,,,0,0,0,1,3,3
+Lakeview,Ajay Glass,8/8/2015,13118,2838,Syracuse Iron Workers,16,28.7,459.2,361.98,,,0,0,0,1,3,4
+Lakeview,Ajay Glass,8/15/2015,14433,5632,Syracuse Iron Workers,32,17,544,384.08,,,0,0,0,1,5,1
+Lakeview,Ajay Glass,8/15/2015,14612,3888,Iron Workers Rochester,42,18.5,795.5,616.28,,,0,0,0,1,5,2
+Lakeview,Ajay Glass,8/15/2015,13120,7891,Syracuse Glazers,28,23.85,715.5,853.22,,,0,0,0,1,5,3
+Lakeview,Ajay Glass,8/15/2015,13120,7891,Syracuse Glazers,16,28.7,459.2,853.22,,,0,0,0,1,5,4
+Lakeview,Ajay Glass,8/15/2015,14428,7762,Iron Workers Rochester,42,33.7,1449.1,1091.54,,,0,0,0,1,5,5
+Lakeview,Ajay Glass,8/15/2015,13118,2838,Syracuse Iron Workers,44,28.7,1320.2,928.32,,,0,0,0,1,5,6
+Lakeview,Ajay Glass,8/15/2015,13215,879,Syracuse Iron Workers,44,28.7,1320.2,807.3,,,0,0,0,1,6,1
+Lakeview,Ajay Glass,8/22/2015,14433,5632,Syracuse Iron Workers,24,17,408,295.07,,,0,0,0,1,8,1
+Lakeview,Ajay Glass,8/22/2015,14612,3888,Iron Workers Rochester,30,20.5,625.25,504.98,,,0,0,0,1,8,2
+Lakeview,Ajay Glass,8/22/2015,13120,7891,Syracuse Glazers,41,23.85,989.78,734.27,,,0,0,0,1,8,3
+Lakeview,Ajay Glass,8/22/2015,14428,7762,Iron Workers Rochester,41,33.7,1398.55,1088.38,,,0,0,0,1,8,4
+Lakeview,Ajay Glass,8/22/2015,13118,2838,Syracuse Iron Workers,41,28.7,1191.06,844.5,,,0,0,0,1,8,5
+Lakeview,Ajay Glass,8/22/2015,13215,879,Syracuse Iron Workers,24,28.7,688.8,453.08,,,0,0,0,1,8,6
+Lakeview,Ajay Glass,8/29/2015,13120,7891,Syracuse Glazers,32.5,23.85,900.34,673.03,,,0,0,0,1,10,1
+Lakeview,Ajay Glass,8/29/2015,14428,7762,Iron Workers Rochester,16,33.7,674,1219.3,,,0,0,0,1,10,2
+Lakeview,Ajay Glass,8/29/2015,14466,6684,Iron Workers Rochester,14,33.7,707.7,1228.03,,,0,0,0,1,10,3
+Lakeview,Ajay Glass,8/29/2015,14464,3395,Iron Workers Rochester,8,28.7,344.4,1119.07,,,0,0,0,1,10,4
+Lakeview,Ajay Glass,8/29/2015,13118,2838,Syracuse Iron Workers,17.5,28.7,538.13,844.5,,,0,0,0,1,10,5
