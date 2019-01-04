@@ -1,0 +1,608 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,O'Connell Electric,2015-02-01,13116,3465,Foreman,40.0,34.65,1386.00,857.69,Male,White,0,0,1,1,1,1
+Lakeview,O'Connell Electric,2015-02-01,13402,2761,Foreman,40.0,38.10,1524.00,1073.98,Male,White,0,0,1,1,1,2
+Lakeview,O'Connell Electric,2015-02-08,13116,3465,Foreman,28.0,34.65,970.20,780.61,Male,White,0,0,1,1,2,1
+Lakeview,O'Connell Electric,2015-02-08,13402,2761,Foreman,28.0,38.10,1066.80,973.55,Male,White,0,0,1,1,2,2
+Lakeview,O'Connell Electric,2015-02-15,13402,2761,Foreman,8.0,38.10,304.80,635.89,Male,White,0,0,1,1,3,1
+Lakeview,O'Connell Electric,2015-03-08,13120,3275,Journeyman,8.0,34.65,277.20,877.70,Male,Native American,0,0,1,1,4,1
+Lakeview,O'Connell Electric,2015-03-08,13037,1493,Apprentice 4th Per,16.0,20.80,332.80,471.56,Male,White,0,0,1,1,4,2
+Lakeview,O'Connell Electric,2015-03-08,13069,908,Foreman,16.0,38.10,609.60,1439.46,Male,White,0,0,1,1,4,3
+Lakeview,O'Connell Electric,2015-03-15,13116,3465,Foreman,8.0,34.65,277.20,994.73,Male,White,0,0,1,1,5,1
+Lakeview,O'Connell Electric,2015-03-15,13037,1493,Apprentice 4th Per,8.0,20.80,166.40,485.36,Male,White,0,0,1,1,5,2
+Lakeview,O'Connell Electric,2015-03-15,13402,2761,Foreman,8.0,38.10,304.80,1130.89,Male,White,0,0,1,1,5,3
+Lakeview,O'Connell Electric,2015-03-15,13069,908,Foreman,5.0,38.10,190.50,1020.05,Male,White,0,0,1,1,5,4
+Lakeview,O'Connell Electric,2015-03-15,13063,9793,Superintendent GF,8.0,41.60,332.80,1010.88,Male,White,0,0,1,1,7,1
+Lakeview,O'Connell Electric,2015-03-22,13063,9793,Superintendent GF,16.0,41.60,665.60,1010.88,Male,White,0,0,1,1,8,1
+Lakeview,O'Connell Electric,2015-03-22,13063,9793,Superintendent GF,0.0,41.60,0.00,1010.88,Male,White,0,0,1,1,9,1
+Lakeview,O'Connell Electric,2015-03-29,13209,4458,Office Staff,15.0,38.24,573.60,985.96,Male,White,0,0,1,1,10,1
+Lakeview,O'Connell Electric,2015-03-29,13166,9064,Chief Equi Mechanic,10.5,38.68,473.83,1839.17,Male,White,0,0,1,1,10,2
+Lakeview,O'Connell Electric,2015-03-29,13027,1446,Foreman,40.0,38.10,1524.00,1095.56,Male,White,0,0,1,1,10,3
+Lakeview,O'Connell Electric,2015-05-03,13308,6769,Journeyman,8.0,34.65,277.20,517.33,Male,White,0,0,1,1,12,1
+Lakeview,O'Connell Electric,2015-05-03,13209,4458,Office Staff,15.0,38.24,573.60,985.97,Male,White,0,0,1,1,12,2
+Lakeview,O'Connell Electric,2015-05-03,13116,3465,Foreman,24.0,34.65,831.60,1141.89,Male,White,0,0,1,1,12,3
+Lakeview,O'Connell Electric,2015-05-03,13166,9064,Chief Equi Mechanic,2.0,38.68,106.38,1806.41,Male,White,0,0,1,1,13,1
+Lakeview,O'Connell Electric,2015-05-03,13120,3275,Journeyman,24.0,34.65,831.60,1063.37,Male,White,0,0,1,1,13,2
+Lakeview,O'Connell Electric,2015-05-03,13037,1493,Apprentice 4th Per,20.0,20.80,426.40,533.78,Male,White,0,0,1,1,13,3
+Lakeview,O'Connell Electric,2015-05-03,13131,7407,Journeyman,6.0,34.65,207.90,1111.13,Male,White,0,0,1,1,14,1
+Lakeview,O'Connell Electric,2015-05-03,13090,4272,Apprentice 4th Per,9.0,20.80,197.60,493.33,Male,White,0,0,1,1,14,2
+Lakeview,O'Connell Electric,2015-05-03,13063,9793,Superintendent GF,8.0,41.60,332.80,1010.90,Male,White,0,0,1,1,14,3
+Lakeview,O'Connell Electric,2015-05-03,13104,833,Apprentice 5th Per,21.0,24.25,509.25,678.07,Male,White,0,0,1,1,15,1
+Lakeview,O'Connell Electric,2015-05-03,13402,2761,Foreman,32.0,34.65,1108.80,800.37,Male,White,0,0,1,1,15,2
+Lakeview,O'Connell Electric,2015-05-03,13027,1446,Foreman,37.0,38.10,1409.70,1095.56,Male,White,0,0,1,1,15,3
+Lakeview,O'Connell Electric,2015-05-03,13069,908,Foreman,27.0,38.10,1028.70,1113.56,Male,White,0,0,1,1,15,4
+Lakeview,O'Connell Electric,2015-05-10,13209,4458,Office Staff,20.0,38.24,764.80,985.95,Male,White,0,0,1,1,17,1
+Lakeview,O'Connell Electric,2015-05-10,13116,3465,Foreman,24.0,34.65,831.60,1059.93,Male,White,0,0,1,1,17,2
+Lakeview,O'Connell Electric,2015-05-10,13166,9064,Chief Equi Mechanic,1.5,39.87,59.81,1837.67,Male,White,0,0,1,1,17,3
+Lakeview,O'Connell Electric,2015-05-10,13120,3275,Journeyman,41.0,34.65,1437.98,906.62,Male,Native American,0,0,1,1,18,1
+Lakeview,O'Connell Electric,2015-05-10,13037,1493,Apprentice 4th Per,35.0,20.80,759.20,575.31,Male,White,0,0,1,1,18,2
+Lakeview,O'Connell Electric,2015-05-10,13090,4272,Apprentice 4th Per,16.0,20.80,332.80,472.55,Male,White,0,0,1,1,18,3
+Lakeview,O'Connell Electric,2015-05-10,13063,9793,Superintendent GF,8.0,41.60,332.80,1010.88,Male,White,0,0,1,1,19,1
+Lakeview,O'Connell Electric,2015-05-10,13104,833,Apprentice 5th Per,18.0,24.25,460.75,802.26,Male,White,0,0,1,1,19,2
+Lakeview,O'Connell Electric,2015-05-10,13402,2761,Foreman,38.0,34.65,1334.03,948.80,Male,White,0,0,1,1,19,3
+Lakeview,O'Connell Electric,2015-05-10,13027,1446,Foreman,36.0,38.10,1390.65,1133.10,Male,White,0,0,1,1,20,1
+Lakeview,O'Connell Electric,2015-05-10,13069,908,Foreman,41.5,38.10,1609.73,1170.05,Male,White,0,0,1,1,20,2
+Lakeview,O'Connell Electric,2015-05-17,13209,4458,Office Staff,20.0,38.24,764.80,985.95,Male,White,0,0,1,1,21,1
+Lakeview,O'Connell Electric,2015-05-17,13116,3465,Foreman,32.0,38.10,1219.20,1069.32,Male,White,0,0,1,1,21,2
+Lakeview,O'Connell Electric,2015-05-17,13120,3275,Journeyman,42.5,34.65,1515.94,950.06,Male,Native American,0,0,1,1,21,3
+Lakeview,O'Connell Electric,2015-05-17,13037,1493,Apprentice 4th Per,24.0,20.80,499.20,552.13,Male,White,0,0,1,1,22,1
+Lakeview,O'Connell Electric,2015-05-17,13063,9793,Superintendent GF,8.0,41.60,332.80,1010.88,Male,White,0,0,1,1,22,2
+Lakeview,O'Connell Electric,2015-05-17,13104,833,Apprentice 5th Per,34.5,24.25,866.94,729.81,Male,White,0,0,1,1,22,3
+Lakeview,O'Connell Electric,2015-05-17,13402,2761,Foreman,40.0,34.65,1386.00,983.05,Male,White,0,0,1,1,23,1
+Lakeview,O'Connell Electric,2015-05-17,13027,1446,Foreman,42.5,38.10,1666.88,1189.45,Male,White,0,0,1,1,23,2
+Lakeview,O'Connell Electric,2015-05-17,13069,908,Foreman,34.5,38.10,1362.08,1545.99,Male,White,0,0,1,1,23,3
+Lakeview,O'Connell Electric,2015-05-24,13209,4458,Office Staff,20.0,38.24,764.80,985.97,Male,White,0,0,1,1,25,1
+Lakeview,O'Connell Electric,2015-05-24,13116,3465,Foreman,41.0,34.65,1327.58,824.92,Male,White,0,0,1,1,25,2
+Lakeview,O'Connell Electric,2015-05-24,13166,9064,Chief Equi Mechanic,2.0,39.87,79.74,1820.79,Male,White,0,0,1,1,25,3
+Lakeview,O'Connell Electric,2015-05-24,13120,3275,Journeyman,32.0,34.65,1108.80,723.54,Male,Native American,0,0,1,1,26,1
+Lakeview,O'Connell Electric,2015-05-24,13037,1493,Apprentice 4th Per,32.0,20.80,665.60,513.00,Male,White,0,0,1,1,26,2
+Lakeview,O'Connell Electric,2015-05-24,13063,9793,Superintendent GF,8.0,41.60,332.80,1010.88,Male,White,0,0,1,1,26,3
+Lakeview,O'Connell Electric,2015-05-24,13104,833,Apprentice 5th Per,41.0,24.25,1006.38,698.77,Male,White,0,0,1,1,27,1
+Lakeview,O'Connell Electric,2015-05-24,13402,2761,Foreman,41.0,34.65,1962.37,1334.32,Male,White,0,0,1,1,27,2
+Lakeview,O'Connell Electric,2015-05-24,13027,1446,Foreman,34.0,38.10,1333.50,970.59,Male,White,0,0,1,1,27,3
+Lakeview,O'Connell Electric,2015-05-24,13069,908,Foreman,42.0,38.10,1638.30,1188.88,Male,White,0,0,1,1,28,1
+Lakeview,O'Connell Electric,2015-05-31,13209,4458,Office Staff,20.0,38.24,764.80,985.95,Male,White,0,0,1,1,29,1
+Lakeview,O'Connell Electric,2015-05-31,13116,3465,Foreman,26.0,34.65,900.90,587.90,Male,White,0,0,1,1,29,2
+Lakeview,O'Connell Electric,2015-05-31,13120,3275,Journeyman,36.0,34.65,1316.70,839.33,Male,Native American,0,0,1,1,29,3
+Lakeview,O'Connell Electric,2015-05-31,13037,1493,Apprentice 4th Per,48.0,24.25,1358.00,974.62,Male,White,0,0,1,1,30,1
+Lakeview,O'Connell Electric,2015-05-31,13090,4272,Apprentice 4th Per,40.0,20.80,915.20,623.66,Male,White,0,0,1,1,30,2
+Lakeview,O'Connell Electric,2015-05-31,13063,9793,Superintendent GF,16.0,41.60,665.60,1010.88,Male,White,0,0,1,1,30,3
+Lakeview,O'Connell Electric,2015-05-31,13039,8302,Journeyman,40.0,34.65,1524.60,1097.18,Male,White,0,0,1,1,31,1
+Lakeview,O'Connell Electric,2015-05-31,13438,1024,Journeyman,24.0,34.65,831.60,569.37,Female,White,0,0,1,1,31,2
+Lakeview,O'Connell Electric,2015-05-31,13104,833,Apprentice 5th Per,39.0,24.75,1030.63,712.56,Male,White,0,0,1,1,31,3
+Lakeview,O'Connell Electric,2015-05-31,13402,2761,Foreman,34.0,38.10,1352.55,960.98,Male,White,0,0,1,1,32,1
+Lakeview,O'Connell Electric,2015-05-31,13027,1446,Foreman,50.0,38.10,2247.90,1527.93,Male,White,0,0,1,1,32,2
+Lakeview,O'Connell Electric,2015-05-31,13084,1564,Journeyman,24.0,34.65,831.60,1648.57,Male,White,0,0,1,1,32,3
+Lakeview,O'Connell Electric,2015-05-31,13045,4703,Apprentice 5th Per,8.0,28.00,291.00,664.51,Male,White,0,1,1,1,33,1
+Lakeview,O'Connell Electric,2015-05-31,13069,908,Foreman,42.0,38.10,1790.70,1555.02,Male,White,0,0,1,1,33,2
+Lakeview,O'Connell Electric,2015-05-31,13063,3206,Apprentice 2nd Per,8.0,15.60,187.20,518.08,Male,White,0,1,1,1,33,3
+Lakeview,O'Connell Electric,2015-06-07,13209,4458,Office Staff,20.0,38.24,764.80,985.95,Male,White,0,0,1,1,34,1
+Lakeview,O'Connell Electric,2015-06-07,13120,3275,Journeyman,46.0,35.00,1715.00,1060.90,Male,Native American,0,0,1,1,34,2
+Lakeview,O'Connell Electric,2015-06-07,13037,1493,Apprentice 4th Per,39.5,24.50,1060.56,776.47,Male,White,0,0,1,1,34,3
+Lakeview,O'Connell Electric,2015-06-07,13090,4272,Apprentice 4th Per,38.0,21.00,861.00,593.01,Male,White,0,0,1,1,35,1
+Lakeview,O'Connell Electric,2015-06-07,13063,9793,Superintendent GF,8.0,42.00,336.00,1020.63,Male,White,0,0,1,1,35,2
+Lakeview,O'Connell Electric,2015-06-07,13039,8302,Journeyman,54.0,35.00,2135.00,1466.83,Male,White,0,0,1,1,35,3
+Lakeview,O'Connell Electric,2015-06-07,13209,6859,Journeyman,9.0,35.00,332.50,972.44,Male,White,0,0,1,1,36,1
+Lakeview,O'Connell Electric,2015-06-07,13438,1024,Journeyman,54.0,35.00,2135.00,1282.22,Female,White,0,0,1,1,36,2
+Lakeview,O'Connell Electric,2015-06-07,13104,833,Apprentice 5th Per,54.0,28.00,1708.00,1097.91,Male,White,0,0,1,1,36,3
+Lakeview,O'Connell Electric,2015-06-07,13402,2761,Foreman,18.0,38.50,693.00,1008.41,Male,White,0,0,1,1,37,1
+Lakeview,O'Connell Electric,2015-06-07,13027,1446,Foreman,47.5,38.50,1974.62,1377.42,Male,White,0,0,1,1,37,2
+Lakeview,O'Connell Electric,2015-06-07,13088,4213,Journeyman,18.0,35.00,805.00,1178.39,Male,White,0,0,1,1,37,3
+Lakeview,O'Connell Electric,2015-06-07,13084,1564,Journeyman,48.0,35.00,1820.00,1567.20,Male,White,0,0,1,1,38,1
+Lakeview,O'Connell Electric,2015-06-07,13045,4703,Apprentice 5th Per,13.5,28.00,469.06,385.19,Male,White,0,0,1,1,38,2
+Lakeview,O'Connell Electric,2015-06-07,13069,908,Foreman,54.0,38.50,2348.50,1610.05,Male,White,0,0,1,1,38,3
+Lakeview,O'Connell Electric,2015-06-07,13063,3206,Apprentice 2nd Per,0.0,15.60,0.00,354.79,Male,White,0,1,1,1,39,1
+Lakeview,O'Connell Electric,2015-06-14,13209,4458,Office Staff,12.0,38.24,458.88,985.96,Male,White,0,0,1,1,40,1
+Lakeview,O'Connell Electric,2015-06-14,13219,3888,Apprentice 6th Per,55.5,28.00,1849.75,1341.32,Male,White,0,0,1,1,40,2
+Lakeview,O'Connell Electric,2015-06-14,13116,3465,Foreman,32.0,35.00,1120.00,881.18,Male,White,0,0,1,1,40,3
+Lakeview,O'Connell Electric,2015-06-14,13166,9064,Chief Equi Mechanic,2.5,39.87,99.68,2238.78,Male,White,0,0,1,1,41,1
+Lakeview,O'Connell Electric,2015-06-14,13088,3504,Apprentice 3rd Per,39.5,17.50,791.88,571.84,Male,White,0,0,1,1,41,2
+Lakeview,O'Connell Electric,2015-06-14,13120,3275,Journeyman,40.0,35.00,1470.00,924.64,Male,Native American,0,0,1,1,41,3
+Lakeview,O'Connell Electric,2015-06-14,13037,1493,Apprentice 4th Per,44.5,24.50,1243.38,898.27,Male,White,0,0,1,1,42,1
+Lakeview,O'Connell Electric,2015-06-14,13090,4272,Apprentice 4th Per,40.5,21.00,971.25,655.51,Male,White,0,0,1,1,42,2
+Lakeview,O'Connell Electric,2015-06-14,13039,8302,Journeyman,47.0,35.00,1933.75,1452.53,Male,White,0,0,1,1,42,3
+Lakeview,O'Connell Electric,2015-06-14,13209,6859,Journeyman,55.0,35.00,2213.75,1387.32,Male,White,0,0,1,1,43,1
+Lakeview,O'Connell Electric,2015-06-14,13438,1024,Journeyman,50.5,35.00,2003.85,1214.62,Female,White,0,0,1,1,43,2
+Lakeview,O'Connell Electric,2015-06-14,13036,319,Journeyman,47.5,35.00,1793.75,1125.10,Male,White,0,0,1,1,43,3
+Lakeview,O'Connell Electric,2015-06-14,13104,833,Apprentice 5th Per,47.5,28.00,1435.00,942.65,Male,White,0,0,1,1,44,1
+Lakeview,O'Connell Electric,2015-06-14,13027,1446,Foreman,47.5,38.50,2550.63,1692.37,Male,White,0,0,1,1,44,2
+Lakeview,O'Connell Electric,2015-06-14,13088,4213,Journeyman,37.0,35.00,1408.75,894.40,Male,White,0,0,1,1,44,3
+Lakeview,O'Connell Electric,2015-06-14,13084,1564,Journeyman,55.5,35.00,2410.75,1467.29,Male,White,0,0,1,1,45,1
+Lakeview,O'Connell Electric,2015-06-14,13045,4703,Apprentice 5th Per,49.0,28.00,1540.00,1109.04,Male,White,0,0,1,1,45,2
+Lakeview,O'Connell Electric,2015-06-14,13069,908,Foreman,52.5,38.50,2261.88,1562.73,Male,White,0,0,1,1,45,3
+Lakeview,O'Connell Electric,2015-06-21,13209,4458,Office Staff,12.0,38.24,458.88,985.96,Male,White,0,0,1,1,47,1
+Lakeview,O'Connell Electric,2015-06-21,13219,3888,Apprentice 6th Per,50.0,35.00,1925.00,1375.04,Male,White,0,0,1,1,47,2
+Lakeview,O'Connell Electric,2015-06-21,13031,2945,Journeyman,52.0,35.00,2100.00,1391.06,Male,White,0,0,1,1,47,3
+Lakeview,O'Connell Electric,2015-06-21,13116,3465,Foreman,44.0,36.75,1690.50,1027.43,Male,White,0,0,1,1,48,1
+Lakeview,O'Connell Electric,2015-06-21,13166,9064,Chief Equi Mechanic,3.0,39.87,119.61,2164.37,Male,White,0,0,1,1,48,2
+Lakeview,O'Connell Electric,2015-06-21,13088,3504,Apprentice 3rd Per,38.0,17.50,717.50,522.23,Male,White,0,0,1,1,48,3
+Lakeview,O'Connell Electric,2015-06-21,13132,1897,Journeyman,10.0,35.00,385.00,1395.65,Male,White,0,0,1,1,49,1
+Lakeview,O'Connell Electric,2015-06-21,13029,81,Apprentice 3rd Per,42.0,17.50,857.50,639.13,Male,White,0,0,1,1,49,2
+Lakeview,O'Connell Electric,2015-06-21,13021,9139,Apprentice 2nd Per,42.0,15.75,771.75,549.55,Male,White,0,0,1,1,49,3
+Lakeview,O'Connell Electric,2015-06-21,13120,3275,Journeyman,52.0,35.00,2030.00,1228.07,Male,Native American,0,0,1,1,50,1
+Lakeview,O'Connell Electric,2015-06-21,13037,1493,Apprentice 4th Per,49.0,24.50,1408.75,1008.47,Male,White,0,0,1,1,50,2
+Lakeview,O'Connell Electric,2015-06-21,13032,1517,Journeyman,52.0,35.00,2100.00,1269.50,Male,White,0,0,1,1,50,3
+Lakeview,O'Connell Electric,2015-06-21,13206,7688,Journeyman,52.0,35.00,2100.00,1551.33,Male,White,0,0,1,1,51,1
+Lakeview,O'Connell Electric,2015-06-21,13413,1763,Journeyman,52.0,35.00,2100.00,1293.13,Male,White,0,0,1,1,51,2
+Lakeview,O'Connell Electric,2015-06-21,13117,68,Journeyman,42.0,35.00,1715.00,1139.49,Male,White,0,0,1,1,51,3
+Lakeview,O'Connell Electric,2015-06-21,13208,3155,Journeyman,52.0,35.00,2100.00,1350.45,Male,White,0,0,1,1,52,1
+Lakeview,O'Connell Electric,2015-06-21,13126,2593,Journeyman,20.0,35.00,770.00,967.91,Male,White,0,0,1,1,52,2
+Lakeview,O'Connell Electric,2015-06-21,13090,4272,Apprentice 4th Per,48.0,21.00,1176.00,771.25,Male,White,0,0,1,1,52,3
+Lakeview,O'Connell Electric,2015-06-21,13131,9207,Apprentice 4th Per,42.0,21.00,1029.00,829.05,Male,White,0,0,1,1,53,1
+Lakeview,O'Connell Electric,2015-06-21,13039,8302,Journeyman,0.0,35.00,0.00,1153.05,Male,White,0,0,1,1,53,2
+Lakeview,O'Connell Electric,2015-06-21,13209,6859,Journeyman,58.0,35.00,2345.00,1454.36,Male,White,0,0,1,1,53,3
+Lakeview,O'Connell Electric,2015-06-21,13438,1024,Journeyman,58.0,35.00,2345.00,1389.74,Female,White,0,0,1,1,54,1
+Lakeview,O'Connell Electric,2015-06-21,13036,319,Journeyman,58.0,36.75,2462.25,1472.95,Male,White,0,0,1,1,54,2
+Lakeview,O'Connell Electric,2015-06-21,13104,833,Apprentice 5th Per,60.0,28.00,1960.00,1237.98,Male,White,0,0,1,1,54,3
+Lakeview,O'Connell Electric,2015-06-21,13027,1446,Foreman,58.0,42.00,2814.00,1836.05,Male,White,0,0,1,1,55,1
+Lakeview,O'Connell Electric,2015-06-21,13088,4213,Journeyman,58.0,35.00,2345.00,1395.53,Male,White,0,0,1,1,55,2
+Lakeview,O'Connell Electric,2015-06-21,13084,1564,Journeyman,59.0,35.00,2397.50,1567.19,Male,White,0,0,1,1,55,3
+Lakeview,O'Connell Electric,2015-06-21,13036,3329,Apprentice 6th Per,50.0,28.00,1596.00,1010.04,Male,White,0,0,1,1,56,1
+Lakeview,O'Connell Electric,2015-06-21,13045,4703,Apprentice 5th Per,58.0,28.00,1876.00,1320.96,Male,White,0,0,1,1,56,2
+Lakeview,O'Connell Electric,2015-06-21,13069,908,Foreman,59.0,38.50,2637.25,1767.63,Male,White,0,0,1,1,56,3
+Lakeview,O'Connell Electric,2015-06-28,13209,4458,Office Staff,10.0,38.24,382.40,985.96,Male,White,0,0,1,1,60,1
+Lakeview,O'Connell Electric,2015-06-28,13219,3888,Apprentice 6th Per,56.0,35.00,2240.00,1549.29,Male,White,0,0,1,1,60,2
+Lakeview,O'Connell Electric,2015-06-28,13031,2945,Journeyman,58.0,35.00,2345.00,1525.23,Male,White,0,0,1,1,60,3
+Lakeview,O'Connell Electric,2015-06-28,13116,3465,Foreman,42.0,36.75,1580.25,966.07,Male,White,0,0,1,1,61,1
+Lakeview,O'Connell Electric,2015-06-28,13166,9064,Chief Equi Mechanic,3.0,39.87,179.42,1888.31,Male,White,0,1,1,1,61,2
+Lakeview,O'Connell Electric,2015-06-28,13471,3968,Journeyman,58.0,35.00,2345.00,1412.21,Male,White,0,0,1,1,61,3
+Lakeview,O'Connell Electric,2015-06-28,13088,3504,Apprentice 3rd Per,24.5,17.50,433.13,332.40,Male,White,0,0,1,1,62,1
+Lakeview,O'Connell Electric,2015-06-28,13029,81,Apprentice 3rd Per,38.0,17.50,717.50,545.87,Male,White,0,0,1,1,62,2
+Lakeview,O'Connell Electric,2015-06-28,13021,9139,Apprentice 2nd Per,40.0,15.75,693.00,497.01,Male,White,0,0,1,1,62,3
+Lakeview,O'Connell Electric,2015-06-28,13120,3275,Journeyman,48.0,35.00,1820.00,1118.26,Male,Native American,0,0,1,1,63,1
+Lakeview,O'Connell Electric,2015-06-28,13037,1493,Apprentice 4th Per,48.0,24.50,1274.00,918.41,Male,White,0,0,1,1,63,2
+Lakeview,O'Connell Electric,2015-06-28,13032,1517,Journeyman,48.0,35.00,1820.00,1123.06,Male,White,0,0,1,1,63,3
+Lakeview,O'Connell Electric,2015-06-28,13206,7688,Journeyman,48.0,35.00,1820.00,1397.72,Male,White,0,0,1,1,64,1
+Lakeview,O'Connell Electric,2015-06-28,14624,4448,Apprentice 2nd Per,7.0,14.45,101.15,435.74,Female,White,0,0,1,1,64,2
+Lakeview,O'Connell Electric,2015-06-28,13413,1763,Journeyman,48.0,35.00,1820.00,1144.80,Male,White,0,0,1,1,64,3
+Lakeview,O'Connell Electric,2015-06-28,13117,68,Journeyman,44.5,35.00,1662.50,1109.96,Male,White,0,0,1,1,65,1
+Lakeview,O'Connell Electric,2015-06-28,13208,3155,Journeyman,49.0,35.00,1872.50,1225.24,Male,White,0,0,1,1,65,2
+Lakeview,O'Connell Electric,2015-06-28,13126,2593,Journeyman,50.0,35.00,1925.00,1289.27,Male,White,0,0,1,1,65,3
+Lakeview,O'Connell Electric,2015-06-28,13090,4272,Apprentice 4th Per,39.0,21.00,892.50,610.85,Male,White,0,0,1,1,66,1
+Lakeview,O'Connell Electric,2015-06-28,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,1,66,2
+Lakeview,O'Connell Electric,2015-06-28,13131,9207,Apprentice 4th Per,48.0,21.00,1176.00,928.29,Male,White,0,0,1,1,66,3
+Lakeview,O'Connell Electric,2015-06-28,13209,6859,Journeyman,56.0,35.00,2240.00,1400.73,Male,White,0,0,1,1,67,1
+Lakeview,O'Connell Electric,2015-06-28,13438,1024,Journeyman,50.0,35.00,1925.00,1173.39,Female,White,0,0,1,1,67,2
+Lakeview,O'Connell Electric,2015-06-28,13036,319,Journeyman,58.0,36.75,2462.25,1472.94,Male,White,0,0,1,1,67,3
+Lakeview,O'Connell Electric,2015-06-28,13104,833,Apprentice 5th Per,48.0,28.00,1456.00,954.61,Male,White,0,0,1,1,68,1
+Lakeview,O'Connell Electric,2015-06-28,13471,9915,Journeyman,8.0,35.00,420.00,1714.36,Male,White,0,1,1,1,68,2
+Lakeview,O'Connell Electric,2015-06-28,13027,1446,Foreman,58.0,42.00,2814.00,1836.05,Male,White,0,0,1,1,68,3
+Lakeview,O'Connell Electric,2015-06-28,13088,4213,Journeyman,59.0,35.00,2397.50,1422.46,Male,White,0,0,1,1,69,1
+Lakeview,O'Connell Electric,2015-06-28,13084,1564,Journeyman,50.0,35.00,1925.00,1687.77,Male,White,0,0,1,1,69,2
+Lakeview,O'Connell Electric,2015-06-28,13036,3329,Apprentice 6th Per,50.0,28.00,1540.00,978.17,Male,White,0,0,1,1,69,3
+Lakeview,O'Connell Electric,2015-06-28,13045,4703,Apprentice 5th Per,50.0,28.00,1540.00,1108.94,Male,White,0,0,1,1,70,1
+Lakeview,O'Connell Electric,2015-06-28,13069,908,Foreman,56.0,38.50,2464.00,2051.58,Male,White,0,0,1,1,70,2
+Lakeview,O'Connell Electric,2015-06-28,14559,9198,Foreman A,8.0,35.35,282.80,893.24,Male,White,0,0,1,1,70,3
+Lakeview,O'Connell Electric,2015-06-28,13471,8841,Journeyman Techn,40.0,35.00,1400.00,993.51,Male,White,0,0,1,1,72,1
+Lakeview,O'Connell Electric,2015-06-28,13131,7407,Journeyman,16.0,35.00,560.00,985.69,Male,White,0,0,1,1,72,2
+Lakeview,O'Connell Electric,2015-06-28,13308,9397,Journeyman Techn,40.0,35.00,1400.00,993.51,Male,White,0,0,1,1,72,3
+Lakeview,O'Connell Electric,2015-06-28,13044,3951,Journeyman Techn,16.0,35.00,560.00,1014.44,Male,White,0,0,1,1,72,4
+Lakeview,O'Connell Electric,2015-06-02,,9486,Foreman,24.0,38.50,,968.71,Male,White,0,0,1,1,74,1
+Lakeview,O'Connell Electric,2015-06-02,,7519,2nd Period Apprentice,8.0,15.75,,111.18,Male,White,0,0,1,1,74,2
+Lakeview,O'Connell Electric,2015-06-16,,9486,Foreman,36.5,38.50,,997.86,Male,White,0,0,1,1,75,1
+Lakeview,O'Connell Electric,2015-06-16,,7519,2nd Period Apprentice,32.0,15.75,,403.84,Male,White,0,0,1,1,75,2
+Lakeview,O'Connell Electric,2015-06-23,,9486,Foreman,12.0,38.50,,957.76,Male,White,0,0,1,1,76,1
+Lakeview,O'Connell Electric,2015-06-23,,7519,2nd Period Apprentice,8.0,15.75,,402.95,Male,White,0,0,1,1,76,2
+Lakeview,O'Connell Electric,2015-07-05,13209,4458,Office Staff,12.0,38.24,458.88,985.95,Male,White,0,0,1,1,77,1
+Lakeview,O'Connell Electric,2015-07-05,13219,3888,Apprentice 6th Per,39.0,35.00,1487.50,1088.26,Male,White,0,0,1,1,77,2
+Lakeview,O'Connell Electric,2015-07-05,13031,2945,Journeyman,39.0,35.00,1487.50,1038.38,Male,White,0,0,1,1,77,3
+Lakeview,O'Connell Electric,2015-07-05,13116,3465,Foreman,30.0,36.75,1102.50,700.20,Male,White,0,0,1,1,78,1
+Lakeview,O'Connell Electric,2015-07-05,13166,9064,Chief Equi Mechanic,7.0,39.87,338.90,1753.24,Male,White,0,0,1,1,78,2
+Lakeview,O'Connell Electric,2015-07-05,13471,3968,Journeyman,35.0,35.00,1277.50,787.52,Male,White,0,0,1,1,78,3
+Lakeview,O'Connell Electric,2015-07-05,13088,3504,Apprentice 3rd Per,34.5,15.50,625.63,461.13,Male,White,0,0,1,1,79,1
+Lakeview,O'Connell Electric,2015-07-05,13116,916,Journeyman,39.0,35.00,1487.50,934.51,Male,White,0,0,1,1,79,2
+Lakeview,O'Connell Electric,2015-07-05,13204,4871,Apprentice 3rd Per,35.5,17.50,651.88,463.02,Male,White,0,0,1,1,79,3
+Lakeview,O'Connell Electric,2015-07-05,13029,81,Apprentice 3rd Per,32.5,17.50,573.13,448.65,Male,White,0,0,1,1,80,1
+Lakeview,O'Connell Electric,2015-07-05,13215,2610,General Foreman,8.0,42.00,336.00,1308.02,Male,White,0,0,1,1,80,2
+Lakeview,O'Connell Electric,2015-07-05,13021,9139,Apprentice 2nd Per,39.0,15.75,669.38,481.08,Male,White,0,0,1,1,80,3
+Lakeview,O'Connell Electric,2015-07-05,13120,3275,Journeyman,24.0,35.00,840.00,574.07,Male,Native American,0,0,1,1,81,1
+Lakeview,O'Connell Electric,2015-07-05,13037,1493,Apprentice 4th Per,33.0,24.50,820.75,616.69,Male,White,0,0,1,1,81,2
+Lakeview,O'Connell Electric,2015-07-05,13032,1517,Journeyman,34.0,35.00,1225.00,791.69,Male,White,0,0,1,1,81,3
+Lakeview,O'Connell Electric,2015-07-05,13206,7688,Journeyman,39.0,35.00,1487.50,1149.49,Male,White,0,0,1,1,82,1
+Lakeview,O'Connell Electric,2015-07-05,14624,4448,Apprentice 2nd Per,19.0,14.45,274.55,356.16,Female,White,0,0,1,1,82,2
+Lakeview,O'Connell Electric,2015-07-05,13413,1763,Journeyman,39.0,35.00,1487.50,959.94,Male,White,0,0,1,1,82,3
+Lakeview,O'Connell Electric,2015-07-05,13117,68,Journeyman,37.0,35.00,1382.50,954.19,Male,White,0,0,1,1,83,1
+Lakeview,O'Connell Electric,2015-07-05,13208,3155,Journeyman,20.0,35.00,770.00,582.05,Male,White,0,0,1,1,83,2
+Lakeview,O'Connell Electric,2015-07-05,13126,2593,Journeyman,30.0,35.00,1155.00,816.28,Male,White,0,0,1,1,83,3
+Lakeview,O'Connell Electric,2015-07-05,13090,4272,Apprentice 4th Per,36.0,21.00,798.00,557.37,Male,White,0,0,1,1,84,1
+Lakeview,O'Connell Electric,2015-07-05,13063,9793,Superintendent GF,8.0,42.00,336.00,1020.63,Male,White,0,0,1,1,84,2
+Lakeview,O'Connell Electric,2015-07-05,13131,9207,Apprentice 4th Per,39.0,21.00,892.50,731.21,Male,White,0,0,1,1,84,3
+Lakeview,O'Connell Electric,2015-07-05,13032,6014,General Foreman,8.0,42.00,336.00,913.06,Male,White,0,0,1,1,85,1
+Lakeview,O'Connell Electric,2015-07-05,13209,6859,Journeyman,39.0,35.00,1487.50,992.20,Male,White,0,0,1,1,85,2
+Lakeview,O'Connell Electric,2015-07-05,13438,1024,Journeyman,35.0,35.00,1312.50,837.10,Female,White,0,0,1,1,85,3
+Lakeview,O'Connell Electric,2015-07-05,13036,319,Journeyman,39.0,36.75,1561.88,996.59,Male,White,0,0,1,1,86,1
+Lakeview,O'Connell Electric,2015-07-05,13104,833,Apprentice 5th Per,34.5,28.00,1001.00,695.71,Male,White,0,0,1,1,86,2
+Lakeview,O'Connell Electric,2015-07-05,13027,1446,Foreman,39.0,42.00,1785.00,1267.48,Male,White,0,0,1,1,86,3
+Lakeview,O'Connell Electric,2015-07-05,13088,4213,Journeyman,39.0,35.00,1487.50,938.41,Male,White,0,0,1,1,87,1
+Lakeview,O'Connell Electric,2015-07-05,13084,1564,Journeyman,39.0,35.00,1487.50,1046.03,Male,White,0,0,1,1,87,2
+Lakeview,O'Connell Electric,2015-07-05,13036,3329,Apprentice 6th Per,39.0,28.00,1190.00,780.12,Male,White,0,0,1,1,87,3
+Lakeview,O'Connell Electric,2015-07-05,13045,4703,Apprentice 5th Per,39.0,28.00,1190.00,875.90,Male,White,0,0,1,1,88,1
+Lakeview,O'Connell Electric,2015-07-05,13069,908,Foreman,34.5,38.50,1376.38,1016.28,Male,White,0,0,1,1,88,2
+Lakeview,O'Connell Electric,2015-07-05,13042,6731,Apprentice 5th Per,38.0,24.50,1004.50,733.59,Male,White,0,0,1,1,88,3
+Lakeview,O'Connell Electric,2015-07-05,14559,9198,Foreman A,16.0,35.35,565.60,707.07,Male,White,0,0,1,1,89,1
+Lakeview,O'Connell Electric,2015-07-05,13471,8841,Journeyman Techn,24.0,35.00,840.00,843.59,Male,White,0,0,1,1,90,1
+Lakeview,O'Connell Electric,2015-07-05,13440,3625,Journeyman,24.0,35.00,840.00,717.06,Male,Hispanic,0,0,1,1,90,2
+Lakeview,O'Connell Electric,2015-07-05,13131,7407,Journeyman,14.0,35.00,490.00,827.50,Male,White,0,0,1,1,90,3
+Lakeview,O'Connell Electric,2015-07-05,13308,9397,Journeyman Techn,32.0,35.00,1120.00,808.99,Male,White,0,0,1,1,90,4
+Lakeview,O'Connell Electric,2015-07-12,13209,4458,Office Staff,13.5,38.24,516.24,985.95,Male,White,0,0,1,1,92,1
+Lakeview,O'Connell Electric,2015-07-12,13208,2675,Apprentice 1st Per,4.0,14.00,56.00,49.76,Male,White,0,0,1,1,92,2
+Lakeview,O'Connell Electric,2015-07-12,13204,7862,Apprentice 4th Per,16.5,21.00,351.75,717.43,Male,White,0,0,1,1,92,3
+Lakeview,O'Connell Electric,2015-07-12,13057,9544,Journeyman,41.0,35.00,1662.50,1355.81,Male,White,0,0,1,1,93,1
+Lakeview,O'Connell Electric,2015-07-12,13219,3888,Apprentice 6th Per,36.0,35.00,1330.00,984.48,Male,White,0,0,1,1,93,2
+Lakeview,O'Connell Electric,2015-07-12,13031,2945,Journeyman,58.5,35.00,2371.25,1539.57,Male,White,0,0,1,1,93,3
+Lakeview,O'Connell Electric,2015-07-12,13116,3465,Foreman,49.0,36.75,1966.13,1175.17,Male,White,0,0,1,1,94,1
+Lakeview,O'Connell Electric,2015-07-12,13471,3968,Journeyman,64.0,35.00,2660.00,1520.64,Male,White,0,0,1,1,94,2
+Lakeview,O'Connell Electric,2015-07-12,13088,3504,Apprentice 3rd Per,36.0,17.50,643.13,472.67,Male,White,0,0,1,1,94,3
+Lakeview,O'Connell Electric,2015-07-12,13116,916,Journeyman,40.0,40.25,1610.00,1002.91,Male,White,0,0,1,1,95,1
+Lakeview,O'Connell Electric,2015-07-12,13204,4871,Apprentice 3rd Per,24.0,17.50,420.00,494.76,Male,White,0,0,1,1,95,2
+Lakeview,O'Connell Electric,2015-07-12,13029,81,Apprentice 3rd Per,37.5,17.50,704.38,537.14,Male,White,0,0,1,1,95,3
+Lakeview,O'Connell Electric,2015-07-12,13021,9139,Apprentice 2nd Per,55.0,15.75,984.38,671.36,Male,White,0,0,1,1,96,1
+Lakeview,O'Connell Electric,2015-07-12,13021,1723,Journeyman 2nd S,33.0,40.25,1348.38,857.35,Male,White,0,0,1,1,96,2
+Lakeview,O'Connell Electric,2015-07-12,13120,3275,Journeyman,50.5,35.00,1951.25,1187.18,Male,Native American,0,0,1,1,96,3
+Lakeview,O'Connell Electric,2015-07-12,13037,1493,Apprentice 4th Per,40.5,24.50,1096.38,800.34,Male,White,0,0,1,1,97,1
+Lakeview,O'Connell Electric,2015-07-12,13215,4184,Journeyman,4.0,35.00,140.00,121.29,Female,Black,0,0,1,1,97,2
+Lakeview,O'Connell Electric,2015-07-12,13032,1517,Journeyman,42.5,35.00,1531.25,962.87,Male,White,0,0,1,1,97,3
+Lakeview,O'Connell Electric,2015-07-12,13206,7688,Journeyman,40.0,40.25,1610.00,1230.13,Male,White,0,0,1,1,98,1
+Lakeview,O'Connell Electric,2015-07-12,13208,7423,Journeyman,20.0,35.00,700.00,528.10,Male,White,0,0,1,1,98,2
+Lakeview,O'Connell Electric,2015-07-12,13088,4978,Journeyman,31.0,35.00,1137.50,760.13,Male,White,0,0,1,1,98,3
+Lakeview,O'Connell Electric,2015-07-12,13413,1763,Journeyman,45.0,35.00,1662.50,1057.17,Male,White,0,0,1,1,99,1
+Lakeview,O'Connell Electric,2015-07-12,13117,68,Journeyman,43.0,35.00,1557.50,1051.41,Male,White,0,0,1,1,99,2
+Lakeview,O'Connell Electric,2015-07-12,13208,3155,Journeyman,50.0,35.00,1925.00,1254.39,Male,White,0,0,1,1,99,3
+Lakeview,O'Connell Electric,2015-07-12,13126,2593,Journeyman,40.0,44.28,1771.20,1204.61,Male,White,0,0,1,1,100,1
+Lakeview,O'Connell Electric,2015-07-12,13090,4272,Apprentice 4th Per,40.0,24.15,966.00,652.57,Male,White,0,0,1,1,100,2
+Lakeview,O'Connell Electric,2015-07-12,13063,9793,Superintendent GF,16.0,42.00,972.00,1020.63,Male,White,0,0,1,1,100,3
+Lakeview,O'Connell Electric,2015-07-12,13131,9207,Apprentice 4th Per,58.5,21.00,1422.75,1092.31,Male,White,0,0,1,1,101,1
+Lakeview,O'Connell Electric,2015-07-12,13209,6859,Journeyman,46.0,35.00,1715.00,1118.58,Male,White,0,0,1,1,101,2
+Lakeview,O'Connell Electric,2015-07-12,13438,1024,Journeyman,55.0,35.00,2187.50,1309.28,Female,White,0,0,1,1,101,3
+Lakeview,O'Connell Electric,2015-07-12,13036,319,Journeyman,61.5,36.75,2655.20,1571.52,Male,White,0,0,1,1,102,1
+Lakeview,O'Connell Electric,2015-07-12,13104,833,Apprentice 5th Per,58.5,28.00,1897.00,1204.15,Male,White,0,0,1,1,102,2
+Lakeview,O'Connell Electric,2015-07-12,13027,1446,Foreman,67.5,42.00,3412.50,2157.95,Male,White,0,0,1,1,102,3
+Lakeview,O'Connell Electric,2015-07-12,13206,5276,Journeyman 2nd S,33.0,40.25,1348.38,877.82,Male,White,0,0,1,1,103,1
+Lakeview,O'Connell Electric,2015-07-12,13088,4213,Journeyman,66.0,35.00,2765.00,1610.88,Male,White,0,0,1,1,103,2
+Lakeview,O'Connell Electric,2015-07-12,13084,1564,Journeyman,56.0,35.00,2310.00,1519.77,Male,White,0,0,1,1,103,3
+Lakeview,O'Connell Electric,2015-07-12,13036,3329,Apprentice 6th Per,59.5,28.00,1939.00,1199.21,Male,White,0,0,1,1,104,1
+Lakeview,O'Connell Electric,2015-07-12,13045,4703,Apprentice 5th Per,58.5,28.00,1897.00,1332.81,Male,White,0,0,1,1,104,2
+Lakeview,O'Connell Electric,2015-07-12,13069,908,Foreman,50.5,38.50,2146.38,1499.12,Male,White,0,0,1,1,104,3
+Lakeview,O'Connell Electric,2015-07-12,13042,6731,Apprentice 5th Per,43.0,24.50,1090.25,781.90,Male,White,0,0,1,1,105,1
+Lakeview,O'Connell Electric,2015-07-12,13357,496,Journeyman,39.0,35.00,1557.50,1096.05,Male,White,0,0,1,1,105,2
+Lakeview,O'Connell Electric,2015-07-12,13114,9227,Apprentice 1st Per,4.0,14.00,56.00,49.36,Male,White,0,0,1,1,105,3
+Lakeview,O'Connell Electric,2015-07-12,13045,4022,Journeyman,4.0,35.00,140.00,121.29,Male,White,0,0,1,1,106,1
+Lakeview,O'Connell Electric,2015-07-12,13471,8841,Journeyman Techn,40.0,35.00,1400.00,993.51,Male,White,0,0,1,2,1,1
+Lakeview,O'Connell Electric,2015-07-12,13440,3625,Journeyman,8.0,35.00,280.00,900.78,Male,Hispanic,0,0,1,2,1,2
+Lakeview,O'Connell Electric,2015-07-12,13131,7407,Journeyman,32.0,35.00,1120.00,976.73,Male,White,0,0,1,2,1,3
+Lakeview,O'Connell Electric,2015-07-12,13308,9397,Journeyman Techn,8.0,35.00,280.00,993.51,Male,White,0,0,1,2,1,4
+Lakeview,O'Connell Electric,2015-07-12,13044,3951,Journeyman Techn,16.0,35.00,560.00,1030.28,Male,White,0,0,1,2,2,1
+Lakeview,O'Connell Electric,2015-07-19,13309,57,Journeyman 2nd S,34.0,40.25,1408.75,929.46,Male,White,0,0,1,2,3,1
+Lakeview,O'Connell Electric,2015-07-19,13209,4458,Office Staff,13.5,38.24,516.24,985.97,Male,White,0,0,1,2,3,2
+Lakeview,O'Connell Electric,2015-07-19,13208,2675,Apprentice 1st Per,54.0,14.00,910.00,653.03,Male,White,0,0,1,2,3,3
+Lakeview,O'Connell Electric,2015-07-19,13057,9544,Journeyman,58.0,35.00,2345.00,1900.71,Male,White,0,0,1,2,4,1
+Lakeview,O'Connell Electric,2015-07-19,13031,6255,Journeyman,17.5,35.00,638.75,477.32,Male,White,0,0,1,2,4,2
+Lakeview,O'Connell Electric,2015-07-19,13031,2945,Journeyman,62.0,35.00,2555.00,1639.82,Male,White,0,0,1,2,4,3
+Lakeview,O'Connell Electric,2015-07-19,13212,9454,Journeyman,17.5,35.00,638.75,490.09,Male,White,0,0,1,2,5,1
+Lakeview,O'Connell Electric,2015-07-19,13116,3465,Foreman,40.0,36.75,1470.00,904.64,Male,White,0,0,1,2,5,2
+Lakeview,O'Connell Electric,2015-07-19,13166,9064,Chief Equi Mechanic,4.0,39.87,179.42,1854.56,Male,White,0,0,1,2,5,3
+Lakeview,O'Connell Electric,2015-07-19,13471,3968,Journeyman,64.0,35.00,2660.00,1520.64,Male,White,0,0,1,2,6,1
+Lakeview,O'Connell Electric,2015-07-19,13088,3504,Apprentice 3rd Per,41.5,17.50,739.38,536.51,Male,White,0,0,1,2,6,2
+Lakeview,O'Connell Electric,2015-07-19,13029,81,Apprentice 3rd Per,68.5,17.50,1448.13,1031.62,Male,White,0,0,1,2,6,3
+Lakeview,O'Connell Electric,2015-07-19,13021,9139,Apprentice 2nd Per,54.0,15.75,1037.75,694.67,Male,White,0,0,1,2,7,1
+Lakeview,O'Connell Electric,2015-07-19,13021,1723,Journeyman 2nd S,40.0,40.25,1610.00,1002.90,Male,White,0,0,1,2,7,2
+Lakeview,O'Connell Electric,2015-07-19,13120,3275,Journeyman,49.5,35.00,1898.75,1159.60,Male,Native American,0,0,1,2,7,3
+Lakeview,O'Connell Electric,2015-07-19,13135,2657,Journeyman 2nd S,34.0,40.25,1408.75,1098.10,Male,White,0,0,1,2,8,1
+Lakeview,O'Connell Electric,2015-07-19,13037,1493,Apprentice 4th Per,62.5,24.50,1806.88,1260.81,Male,White,0,0,1,2,8,2
+Lakeview,O'Connell Electric,2015-07-19,13215,4184,Journeyman,30.0,35.00,1155.00,790.50,Female,Black,0,0,1,2,8,3
+Lakeview,O'Connell Electric,2015-07-19,13090,9665,Journeyman 2nd S,34.0,40.25,1408.75,910.23,Male,White,0,0,1,2,9,1
+Lakeview,O'Connell Electric,2015-07-19,13032,1517,Journeyman,35.5,35.00,1303.75,835.71,Male,White,0,0,1,2,9,2
+Lakeview,O'Connell Electric,2015-07-19,13206,7688,Journeyman,58.0,35.00,2345.00,1705.85,Male,White,0,0,1,2,9,3
+Lakeview,O'Connell Electric,2015-07-19,13208,7423,Journeyman,33.0,35.00,1312.50,1351.21,Male,White,0,0,1,2,10,1
+Lakeview,O'Connell Electric,2015-07-19,13088,4978,Journeyman,36.0,35.00,1470.00,1359.20,Male,White,0,0,1,2,10,2
+Lakeview,O'Connell Electric,2015-07-19,13413,1763,Journeyman,40.0,40.25,1610.00,1028.34,Male,White,0,0,1,2,10,3
+Lakeview,O'Connell Electric,2015-07-19,13117,68,Journeyman,41.5,35.00,1478.75,1007.54,Male,White,0,0,1,2,11,1
+Lakeview,O'Connell Electric,2015-07-19,13208,3155,Journeyman,34.5,35.00,1277.50,894.51,Male,White,0,0,1,2,11,2
+Lakeview,O'Connell Electric,2015-07-19,13126,2593,Journeyman,41.0,44.28,1837.62,1241.50,Male,White,0,0,1,2,11,3
+Lakeview,O'Connell Electric,2015-07-19,13090,4272,Apprentice 4th Per,40.0,24.15,1143.32,753.46,Male,White,0,0,1,2,12,1
+Lakeview,O'Connell Electric,2015-07-19,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,12,2
+Lakeview,O'Connell Electric,2015-07-19,13131,9207,Apprentice 4th Per,68.0,21.00,1722.00,1291.57,Male,White,0,0,1,2,12,3
+Lakeview,O'Connell Electric,2015-07-19,13209,6859,Journeyman,62.0,35.00,2555.00,1561.63,Male,White,0,0,1,2,13,1
+Lakeview,O'Connell Electric,2015-07-19,13438,1024,Journeyman,50.0,35.00,1925.00,1173.40,Female,White,0,0,1,2,13,2
+Lakeview,O'Connell Electric,2015-07-19,13036,319,Journeyman,57.0,36.75,2407.13,1444.77,Male,White,0,0,1,2,13,3
+Lakeview,O'Connell Electric,2015-07-19,13104,833,Apprentice 5th Per,61.0,28.00,2002.00,1260.33,Male,White,0,0,1,2,14,1
+Lakeview,O'Connell Electric,2015-07-19,13027,1446,Foreman,68.0,42.00,3444.00,2174.04,Male,White,0,0,1,2,14,2
+Lakeview,O'Connell Electric,2015-07-19,13206,5276,Journeyman 2nd S,40.0,40.25,1610.00,1023.37,Male,White,0,0,1,2,14,3
+Lakeview,O'Connell Electric,2015-07-19,13088,4213,Journeyman,68.0,35.00,2870.00,1664.70,Male,White,0,0,1,2,15,1
+Lakeview,O'Connell Electric,2015-07-19,13084,1564,Journeyman,60.0,35.00,2450.00,1595.76,Male,White,0,0,1,2,15,2
+Lakeview,O'Connell Electric,2015-07-19,13036,3329,Apprentice 6th Per,57.0,28.00,1834.00,1143.07,Male,White,0,0,1,2,15,3
+Lakeview,O'Connell Electric,2015-07-19,13045,4703,Apprentice 5th Per,56.0,28.00,1792.00,1273.55,Male,White,0,0,1,2,16,1
+Lakeview,O'Connell Electric,2015-07-19,13069,908,Foreman,63.5,38.50,2897.13,1909.44,Male,White,0,0,1,2,16,2
+Lakeview,O'Connell Electric,2015-07-19,13042,6731,Apprentice 5th Per,24.0,24.50,588.00,717.94,Male,White,0,0,1,2,16,3
+Lakeview,O'Connell Electric,2015-07-19,13357,496,Journeyman,56.0,35.00,2240.00,1187.17,Male,White,0,0,1,2,17,1
+Lakeview,O'Connell Electric,2015-07-19,13440,4749,Journeyman 2nd S,34.0,40.25,1408.75,929.46,Male,Black,0,0,1,2,17,2
+Lakeview,O'Connell Electric,2015-07-19,13114,9227,Apprentice 1st Per,54.0,14.00,910.00,675.58,Male,White,0,0,1,2,17,3
+Lakeview,O'Connell Electric,2015-07-19,13045,4022,Journeyman,66.0,35.00,2765.00,1747.82,Male,White,0,0,1,2,18,1
+Lakeview,O'Connell Electric,2015-07-19,13208,7423,Journeyman,21.0,35.00,822.50,1351.21,Male,White,0,0,1,2,19,1
+Lakeview,O'Connell Electric,2015-07-19,13471,8841,Journeyman Techn,40.0,35.00,1400.00,993.51,Male,White,0,0,1,2,19,2
+Lakeview,O'Connell Electric,2015-07-19,13088,4978,Journeyman,20.0,35.00,770.00,1359.20,Male,White,0,0,1,2,19,3
+Lakeview,O'Connell Electric,2015-07-19,13440,3625,Journeyman,32.0,35.00,1120.00,900.78,Male,Hispanic,0,0,1,2,20,1
+Lakeview,O'Connell Electric,2015-07-26,13309,57,Journeyman 2nd S,47.0,35.00,1809.50,1151.89,Male,White,0,0,1,2,21,1
+Lakeview,O'Connell Electric,2015-07-26,13209,4458,Office Staff,10.0,38.24,382.40,985.95,Male,White,0,0,1,2,21,2
+Lakeview,O'Connell Electric,2015-07-26,13057,9544,Journeyman,59.5,35.00,2423.75,1962.99,Male,White,0,0,1,2,21,3
+Lakeview,O'Connell Electric,2015-07-26,13031,6255,Journeyman,46.0,35.00,1715.00,1172.70,Male,White,0,0,1,2,22,1
+Lakeview,O'Connell Electric,2015-07-26,13219,3888,Apprentice 6th Per,48.0,35.00,1820.00,1307.20,Male,White,0,0,1,2,22,2
+Lakeview,O'Connell Electric,2015-07-26,13031,2945,Journeyman,59.5,35.00,2423.75,1568.19,Male,White,0,0,1,2,22,3
+Lakeview,O'Connell Electric,2015-07-26,13212,9454,Journeyman,46.0,35.00,1715.00,1193.22,Male,White,0,0,1,2,23,1
+Lakeview,O'Connell Electric,2015-07-26,13116,3465,Foreman,40.0,36.75,1470.00,904.65,Male,White,0,0,1,2,23,2
+Lakeview,O'Connell Electric,2015-07-26,13166,9064,Chief Equi Mechanic,3.0,39.87,179.42,1871.43,Male,White,0,1,1,2,23,3
+Lakeview,O'Connell Electric,2015-07-26,13471,3968,Journeyman,48.0,35.00,1960.00,1306.11,Male,White,0,0,1,2,24,1
+Lakeview,O'Connell Electric,2015-07-26,13088,3504,Apprentice 3rd Per,37.0,17.50,947.50,475.50,Male,White,0,0,1,2,24,2
+Lakeview,O'Connell Electric,2015-07-26,13029,81,Apprentice 3rd Per,22.0,17.50,437.50,638.74,Male,White,0,0,1,2,24,3
+Lakeview,O'Connell Electric,2015-07-26,13021,9139,Apprentice 2nd Per,62.5,17.50,1290.63,835.03,Male,White,0,0,1,2,25,1
+Lakeview,O'Connell Electric,2015-07-26,13021,1723,Journeyman 2nd S,43.5,35.00,1634.50,1016.24,Male,White,0,0,1,2,25,2
+Lakeview,O'Connell Electric,2015-07-26,13120,3275,Journeyman,47.5,35.00,1793.75,1104.47,Male,Native American,0,0,1,2,25,3
+Lakeview,O'Connell Electric,2015-07-26,13135,2657,Journeyman 2nd S,49.0,35.00,1914.50,1429.75,Male,White,0,0,1,2,26,1
+Lakeview,O'Connell Electric,2015-07-26,13037,1493,Apprentice 4th Per,50.5,24.50,1365.88,979.62,Male,White,0,0,1,2,26,2
+Lakeview,O'Connell Electric,2015-07-26,13090,9665,Journeyman 2nd S,34.0,35.00,1330.00,866.22,Male,White,0,0,1,2,26,3
+Lakeview,O'Connell Electric,2015-07-26,13032,1517,Journeyman,43.0,35.00,1557.50,977.54,Male,White,0,0,1,2,27,1
+Lakeview,O'Connell Electric,2015-07-26,13206,7688,Journeyman,57.0,35.00,2292.50,1676.49,Male,White,0,0,1,2,27,2
+Lakeview,O'Connell Electric,2015-07-26,13208,7423,Journeyman,56.0,35.00,2240.00,1405.38,Male,White,0,0,1,2,27,3
+Lakeview,O'Connell Electric,2015-07-26,13088,4978,Journeyman,60.0,35.00,2450.00,1466.46,Male,White,0,0,1,2,28,1
+Lakeview,O'Connell Electric,2015-07-26,13413,1763,Journeyman,44.0,35.00,1687.00,1070.98,Male,White,0,0,1,2,28,2
+Lakeview,O'Connell Electric,2015-07-26,13117,68,Journeyman,37.0,35.00,1295.00,905.28,Male,White,0,0,1,2,28,3
+Lakeview,O'Connell Electric,2015-07-26,13208,3155,Journeyman,35.0,35.00,1277.50,894.44,Male,White,0,0,1,2,29,1
+Lakeview,O'Connell Electric,2015-07-26,13126,2593,Journeyman,14.0,35.00,490.00,949.26,Male,White,0,0,1,2,29,2
+Lakeview,O'Connell Electric,2015-07-26,13090,4272,Apprentice 4th Per,47.0,24.50,1266.69,822.94,Male,White,0,0,1,2,29,3
+Lakeview,O'Connell Electric,2015-07-26,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,30,1
+Lakeview,O'Connell Electric,2015-07-26,13131,9207,Apprentice 4th Per,55.5,21.00,1454.26,1113.70,Male,White,0,0,1,2,30,2
+Lakeview,O'Connell Electric,2015-07-26,13209,6859,Journeyman,50.0,35.00,1925.00,1235.15,Male,White,0,0,1,2,30,3
+Lakeview,O'Connell Electric,2015-07-26,13438,1024,Journeyman,50.0,35.00,1925.00,1173.40,Female,White,0,0,1,2,31,1
+Lakeview,O'Connell Electric,2015-07-26,13036,319,Journeyman,53.0,36.75,2260.13,1369.82,Male,White,0,0,1,2,31,2
+Lakeview,O'Connell Electric,2015-07-26,13104,833,Apprentice 5th Per,20.0,28.00,616.00,859.01,Male,White,0,0,1,2,31,3
+Lakeview,O'Connell Electric,2015-07-26,13402,2761,Foreman,1.0,38.10,57.75,1195.57,Male,White,0,1,1,2,32,1
+Lakeview,O'Connell Electric,2015-07-26,13027,1446,Foreman,52.0,42.00,2604.00,1888.86,Male,White,0,0,1,2,32,2
+Lakeview,O'Connell Electric,2015-07-26,13206,5276,Journeyman 2nd S,50.0,35.00,1967.00,1218.35,Male,White,0,0,1,2,32,3
+Lakeview,O'Connell Electric,2015-07-26,13088,4213,Journeyman,59.5,35.00,2423.75,1435.92,Male,White,0,0,1,2,33,1
+Lakeview,O'Connell Electric,2015-07-26,13084,1564,Journeyman,60.0,35.00,2450.00,1595.77,Male,White,0,0,1,2,33,2
+Lakeview,O'Connell Electric,2015-07-26,13036,3329,Apprentice 6th Per,51.0,28.00,1582.00,1001.98,Male,White,0,0,1,2,33,3
+Lakeview,O'Connell Electric,2015-07-26,13045,4703,Apprentice 5th Per,51.0,28.00,1582.00,1136.94,Male,White,0,0,1,2,34,1
+Lakeview,O'Connell Electric,2015-07-26,13069,908,Foreman,55.0,38.50,2406.25,1641.57,Male,White,0,0,1,2,34,2
+Lakeview,O'Connell Electric,2015-07-26,13357,496,Journeyman,55.5,35.00,2213.75,1472.84,Male,White,0,0,1,2,34,3
+Lakeview,O'Connell Electric,2015-07-26,13440,4749,Journeyman 2nd S,45.0,35.00,1722.00,1103.34,Male,Black,0,0,1,2,35,1
+Lakeview,O'Connell Electric,2015-07-26,13114,9227,Apprentice 1st Per,47.5,14.00,773.50,583.54,Male,White,0,0,1,2,35,2
+Lakeview,O'Connell Electric,2015-07-26,13045,4022,Journeyman,60.0,35.00,2450.00,1576.52,Male,White,0,0,1,2,35,3
+Lakeview,O'Connell Electric,2015-07-26,13208,2675,Apprentice 1st Per,36.0,14.00,532.00,403.13,Male,White,0,0,1,2,37,1
+Lakeview,O'Connell Electric,2015-07-26,13471,8841,Journeyman Techn,40.0,35.00,1400.00,993.51,Male,White,0,0,1,2,37,2
+Lakeview,O'Connell Electric,2015-07-26,13440,3625,Journeyman,40.0,35.00,1400.00,900.78,Male,Hispanic,0,0,1,2,37,3
+Lakeview,O'Connell Electric,2015-07-26,13131,7407,Journeyman,17.5,35.00,612.50,976.73,Male,White,0,0,1,2,38,1
+Lakeview,O'Connell Electric,2015-07-26,13044,9188,Journeyman Techn,40.0,35.00,1400.00,889.51,Male,White,0,0,1,2,38,2
+Lakeview,O'Connell Electric,2015-08-02,13309,57,Journeyman 2nd S,50.0,35.00,1925.00,1215.92,Male,White,0,0,1,2,40,1
+Lakeview,O'Connell Electric,2015-08-02,13108,4073,Journeyman,28.0,35.00,1190.00,839.54,Male,White,0,0,1,2,40,2
+Lakeview,O'Connell Electric,2015-08-02,13209,4458,Office Staff,11.0,38.24,420.64,985.95,Male,White,0,0,1,2,40,3
+Lakeview,O'Connell Electric,2015-08-02,13208,2675,Apprentice 1st Per,6.0,14.00,126.00,460.27,Male,White,0,1,1,2,41,1
+Lakeview,O'Connell Electric,2015-08-02,13057,9544,Journeyman,68.0,35.00,2870.00,2315.87,Male,White,0,0,1,2,41,2
+Lakeview,O'Connell Electric,2015-08-02,13031,6255,Journeyman,37.0,35.00,1382.50,965.48,Male,White,0,0,1,2,41,3
+Lakeview,O'Connell Electric,2015-08-02,13219,3888,Apprentice 6th Per,58.0,35.00,2345.00,1606.64,Male,White,0,0,1,2,42,1
+Lakeview,O'Connell Electric,2015-08-02,13031,2945,Journeyman,70.0,35.00,2975.00,1869.03,Male,White,0,0,1,2,42,2
+Lakeview,O'Connell Electric,2015-08-02,13212,9454,Journeyman,29.0,35.00,1102.50,794.54,Male,White,0,0,1,2,42,3
+Lakeview,O'Connell Electric,2015-08-02,13116,3465,Foreman,48.0,36.75,1911.00,1146.21,Male,White,0,0,1,2,43,1
+Lakeview,O'Connell Electric,2015-08-02,13166,9064,Chief Equi Mechanic,10.5,39.87,478.45,2323.37,Male,White,0,0,1,2,43,2
+Lakeview,O'Connell Electric,2015-08-02,13088,3504,Apprentice 3rd Per,24.0,17.50,420.00,510.32,Male,White,0,0,1,2,43,3
+Lakeview,O'Connell Electric,2015-08-02,13029,81,Apprentice 3rd Per,30.0,17.50,647.50,499.84,Male,White,0,0,1,2,44,1
+Lakeview,O'Connell Electric,2015-08-02,13021,9139,Apprentice 2nd Per,68.0,17.50,1435.00,916.62,Male,White,0,0,1,2,44,2
+Lakeview,O'Connell Electric,2015-08-02,13021,1723,Journeyman 2nd S,58.0,35.00,2345.00,1389.74,Male,White,0,0,1,2,44,3
+Lakeview,O'Connell Electric,2015-08-02,13135,2657,Journeyman 2nd S,60.0,35.00,2450.00,1763.08,Male,White,0,0,1,2,45,1
+Lakeview,O'Connell Electric,2015-08-02,13037,1493,Apprentice 4th Per,50.0,24.50,1451.63,1037.04,Male,White,0,0,1,2,45,2
+Lakeview,O'Connell Electric,2015-08-02,13090,9665,Journeyman 2nd S,42.0,35.00,1645.00,1041.50,Male,White,0,0,1,2,45,3
+Lakeview,O'Connell Electric,2015-08-02,13032,1517,Journeyman,32.0,35.00,1120.00,732.99,Male,White,0,0,1,2,46,1
+Lakeview,O'Connell Electric,2015-08-02,13206,7688,Journeyman,57.0,35.00,2292.50,1676.48,Male,White,0,0,1,2,46,2
+Lakeview,O'Connell Electric,2015-08-02,13208,7423,Journeyman,57.0,35.00,2292.50,1432.20,Male,White,0,0,1,2,46,3
+Lakeview,O'Connell Electric,2015-08-02,13088,4978,Journeyman,54.0,35.00,2135.00,1305.22,Male,White,0,0,1,2,47,1
+Lakeview,O'Connell Electric,2015-08-02,13413,1763,Journeyman,48.0,35.00,1960.00,1219.97,Male,White,0,0,1,2,47,2
+Lakeview,O'Connell Electric,2015-08-02,13117,68,Journeyman,40.0,35.00,1400.00,963.67,Male,White,0,0,1,2,47,3
+Lakeview,O'Connell Electric,2015-08-02,13021,2802,Journeyman,31.0,35.00,1347.50,968.58,Male,White,0,0,1,2,48,1
+Lakeview,O'Connell Electric,2015-08-02,13208,3155,Journeyman,53.0,35.00,2082.50,1340.87,Male,White,0,0,1,2,48,2
+Lakeview,O'Connell Electric,2015-08-02,13090,4272,Apprentice 4th Per,50.0,24.50,1347.50,868.84,Male,White,0,0,1,2,48,3
+Lakeview,O'Connell Electric,2015-08-02,13063,9793,Superintendent GF,16.0,42.00,672.00,1049.76,Male,White,0,0,1,2,49,1
+Lakeview,O'Connell Electric,2015-08-02,13131,9207,Apprentice 4th Per,64.0,24.50,1862.00,1385.47,Male,White,0,0,1,2,49,2
+Lakeview,O'Connell Electric,2015-08-02,13209,6859,Journeyman,64.0,35.00,2660.00,1615.26,Male,White,0,0,1,2,49,3
+Lakeview,O'Connell Electric,2015-08-02,13438,1024,Journeyman,60.0,35.00,2450.00,1443.37,Female,White,0,0,1,2,50,1
+Lakeview,O'Connell Electric,2015-08-02,13036,319,Journeyman,62.0,36.75,2829.75,1660.96,Male,White,0,0,1,2,50,2
+Lakeview,O'Connell Electric,2015-08-02,13104,833,Apprentice 5th Per,54.0,28.00,1708.00,1097.91,Male,White,0,0,1,2,50,3
+Lakeview,O'Connell Electric,2015-08-02,13027,1446,Foreman,46.0,42.00,2394.00,1941.64,Male,White,0,0,1,2,51,1
+Lakeview,O'Connell Electric,2015-08-02,13082,2674,Journeyman,28.0,35.00,1190.00,810.26,Male,White,0,0,1,2,51,2
+Lakeview,O'Connell Electric,2015-08-02,13206,5276,Journeyman 2nd S,70.0,35.00,2975.00,1734.63,Male,White,0,0,1,2,51,3
+Lakeview,O'Connell Electric,2015-08-02,13088,4213,Journeyman,70.0,35.00,2975.00,1718.54,Male,White,0,0,1,2,52,1
+Lakeview,O'Connell Electric,2015-08-02,13084,1564,Journeyman,70.0,35.00,2975.00,1881.26,Male,White,0,0,1,2,52,2
+Lakeview,O'Connell Electric,2015-08-02,13036,3329,Apprentice 6th Per,62.0,28.00,2044.00,1254.75,Male,White,0,0,1,2,52,3
+Lakeview,O'Connell Electric,2015-08-02,13045,4703,Apprentice 5th Per,66.0,28.00,2212.00,1509.52,Male,White,0,0,1,2,53,1
+Lakeview,O'Connell Electric,2015-08-02,13030,6199,Journeyman,31.0,35.00,1347.50,857.05,Male,White,0,0,1,2,53,2
+Lakeview,O'Connell Electric,2015-08-02,13069,908,Foreman,60.0,38.50,2695.00,1799.13,Male,White,0,0,1,2,53,3
+Lakeview,O'Connell Electric,2015-08-02,13357,496,Journeyman,72.0,35.00,3080.00,1945.56,Male,White,0,0,1,2,54,1
+Lakeview,O'Connell Electric,2015-08-02,13114,9227,Apprentice 1st Per,67.0,14.00,1127.00,821.63,Male,White,0,0,1,2,54,2
+Lakeview,O'Connell Electric,2015-08-02,13045,4022,Journeyman,70.0,35.00,2975.00,1862.02,Male,White,0,0,1,2,54,3
+Lakeview,O'Connell Electric,2015-08-02,13208,2675,Apprentice 1st Per,34.0,14.00,490.00,460.27,Male,White,0,0,1,2,56,1
+Lakeview,O'Connell Electric,2015-08-02,13471,8841,Journeyman Techn,30.0,35.00,1155.00,1314.79,Male,White,0,0,1,2,56,2
+Lakeview,O'Connell Electric,2015-08-02,13440,3625,Journeyman,42.0,35.00,1505.00,969.78,Male,Hispanic,0,0,1,2,56,3
+Lakeview,O'Connell Electric,2015-08-02,13044,9188,Journeyman Techn,40.0,35.00,1400.00,889.51,Male,White,0,0,1,2,57,1
+Lakeview,O'Connell Electric,2015-08-09,13309,57,Journeyman 2nd S,58.0,35.00,2345.00,1432.82,Male,White,0,0,1,2,58,1
+Lakeview,O'Connell Electric,2015-08-09,13108,4073,Journeyman,58.0,35.00,2345.00,1519.43,Male,White,0,0,1,2,58,2
+Lakeview,O'Connell Electric,2015-08-09,13209,4458,Office Staff,12.0,38.24,458.88,985.97,Male,White,0,0,1,2,58,3
+Lakeview,O'Connell Electric,2015-08-09,13057,9544,Journeyman,68.0,35.00,2870.00,2315.88,Male,White,0,0,1,2,59,1
+Lakeview,O'Connell Electric,2015-08-09,13031,6255,Journeyman,49.0,35.00,1872.50,1260.14,Male,White,0,0,1,2,59,2
+Lakeview,O'Connell Electric,2015-08-09,13219,3888,Apprentice 6th Per,58.0,35.00,2345.00,1606.65,Male,White,0,0,1,2,59,3
+Lakeview,O'Connell Electric,2015-08-09,13031,2945,Journeyman,68.0,35.00,2870.00,1811.71,Male,White,0,0,1,2,60,1
+Lakeview,O'Connell Electric,2015-08-09,13212,9454,Journeyman,46.0,35.00,1715.00,1193.23,Male,White,0,0,1,2,60,2
+Lakeview,O'Connell Electric,2015-08-09,13044,1140,Journeyman,44.0,35.00,1855.00,1516.63,Male,White,0,0,1,2,60,3
+Lakeview,O'Connell Electric,2015-08-09,13116,3465,Foreman,48.0,36.75,1911.00,1146.22,Male,White,0,0,1,2,61,1
+Lakeview,O'Connell Electric,2015-08-09,13088,3504,Apprentice 3rd Per,41.5,17.50,739.38,536.51,Male,White,0,0,1,2,61,2
+Lakeview,O'Connell Electric,2015-08-09,13041,498,Journeyman,14.0,35.00,735.00,1657.90,Male,White,0,1,1,2,61,3
+Lakeview,O'Connell Electric,2015-08-09,13029,81,Apprentice 3rd Per,62.0,17.50,1512.00,1075.00,Male,White,0,0,1,2,62,1
+Lakeview,O'Connell Electric,2015-08-09,13021,9139,Apprentice 2nd Per,68.0,17.50,1435.00,916.63,Male,White,0,0,1,2,62,2
+Lakeview,O'Connell Electric,2015-08-09,13021,1723,Journeyman 2nd S,38.0,35.00,1435.00,905.27,Male,White,0,0,1,2,62,3
+Lakeview,O'Connell Electric,2015-08-09,13120,3275,Journeyman,47.0,35.00,1828.75,1122.97,Male,Native American,0,0,1,2,63,1
+Lakeview,O'Connell Electric,2015-08-09,13135,2657,Journeyman 2nd S,58.0,35.00,2345.00,1705.86,Male,White,0,0,1,2,63,2
+Lakeview,O'Connell Electric,2015-08-09,13037,1493,Apprentice 4th Per,33.5,24.50,937.13,694.50,Male,White,0,0,1,2,63,3
+Lakeview,O'Connell Electric,2015-08-09,13090,9665,Journeyman 2nd S,60.0,35.00,2450.00,1464.91,Male,White,0,0,1,2,64,1
+Lakeview,O'Connell Electric,2015-08-09,13032,1517,Journeyman,32.0,35.00,1120.00,889.51,Male,White,0,0,1,2,64,2
+Lakeview,O'Connell Electric,2015-08-09,13206,7688,Journeyman,68.0,35.00,2870.00,1991.47,Male,White,0,0,1,2,64,3
+Lakeview,O'Connell Electric,2015-08-09,13208,7423,Journeyman,60.0,35.00,2450.00,1512.66,Male,White,0,0,1,2,65,1
+Lakeview,O'Connell Electric,2015-08-09,13088,4978,Journeyman,68.0,35.00,2870.00,1681.01,Male,White,0,0,1,2,65,2
+Lakeview,O'Connell Electric,2015-08-09,13413,1763,Journeyman,62.0,35.00,2555.00,1526.31,Male,White,0,0,1,2,65,3
+Lakeview,O'Connell Electric,2015-08-09,13117,68,Journeyman,41.5,35.00,1478.75,1007.54,Male,White,0,0,1,2,66,1
+Lakeview,O'Connell Electric,2015-08-09,13021,2802,Journeyman,64.0,35.00,2660.00,1732.18,Male,White,0,0,1,2,66,2
+Lakeview,O'Connell Electric,2015-08-09,13208,3155,Journeyman,58.0,35.00,2345.00,1475.88,Male,White,0,0,1,2,66,3
+Lakeview,O'Connell Electric,2015-08-09,13090,4272,Apprentice 4th Per,58.0,24.50,1641.50,1035.12,Male,White,0,0,1,2,67,1
+Lakeview,O'Connell Electric,2015-08-09,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,67,2
+Lakeview,O'Connell Electric,2015-08-09,13131,9207,Apprentice 4th Per,68.0,24.50,2009.00,1483.12,Male,White,0,0,1,2,67,3
+Lakeview,O'Connell Electric,2015-08-09,13209,6859,Journeyman,26.0,35.00,1.85,768.52,Male,White,0,0,1,2,68,1
+Lakeview,O'Connell Electric,2015-08-09,13438,1024,Journeyman,68.0,35.00,2870.00,1657.91,Female,White,0,0,1,2,68,2
+Lakeview,O'Connell Electric,2015-08-09,13036,319,Journeyman,60.0,36.75,2572.51,1529.28,Male,White,0,0,1,2,68,3
+Lakeview,O'Connell Electric,2015-08-09,13104,833,Apprentice 5th Per,55.0,28.00,1750.00,1121.72,Male,White,0,0,1,2,69,1
+Lakeview,O'Connell Electric,2015-08-09,13027,1446,Foreman,71.0,42.00,3633.00,2314.05,Male,White,0,0,1,2,69,2
+Lakeview,O'Connell Electric,2015-08-09,13082,2674,Journeyman,58.0,35.00,2345.00,1435.93,Male,White,0,0,1,2,69,3
+Lakeview,O'Connell Electric,2015-08-09,13206,5276,Journeyman 2nd S,68.0,35.00,2870.00,1681.01,Male,White,0,0,1,2,70,1
+Lakeview,O'Connell Electric,2015-08-09,13088,4213,Journeyman,68.0,35.00,2870.00,1664.71,Male,White,0,0,1,2,70,2
+Lakeview,O'Connell Electric,2015-08-09,13084,1564,Journeyman,71.0,35.00,3027.50,1909.79,Male,White,0,0,1,2,70,3
+Lakeview,O'Connell Electric,2015-08-09,13036,3329,Apprentice 6th Per,68.0,28.00,2296.00,1386.58,Male,White,0,0,1,2,71,1
+Lakeview,O'Connell Electric,2015-08-09,13045,4703,Apprentice 5th Per,58.0,28.00,1876.00,1320.96,Male,White,0,0,1,2,71,2
+Lakeview,O'Connell Electric,2015-08-09,13471,9702,Journeyman,46.0,35.00,1960.00,1354.79,Male,White,0,0,1,2,71,3
+Lakeview,O'Connell Electric,2015-08-09,13030,6199,Journeyman,59.0,35.00,2397.50,1416.56,Male,White,0,0,1,2,72,1
+Lakeview,O'Connell Electric,2015-08-09,13069,908,Foreman,61.5,38.50,2781.63,1849.41,Male,White,0,0,1,2,72,2
+Lakeview,O'Connell Electric,2015-08-09,13357,496,Journeyman,68.0,35.00,2870.00,1830.95,Male,White,0,0,1,2,72,3
+Lakeview,O'Connell Electric,2015-08-09,13440,4749,Journeyman 2nd S,58.0,35.00,2345.00,1363.58,Male,Black,0,0,1,2,73,1
+Lakeview,O'Connell Electric,2015-08-09,13114,9227,Apprentice 1st Per,68.0,14.00,1148.00,928.09,Male,White,0,0,1,2,73,2
+Lakeview,O'Connell Electric,2015-08-09,13045,4022,Journeyman,68.0,35.00,2870.00,1804.92,Male,White,0,0,1,2,73,3
+Lakeview,O'Connell Electric,2015-08-09,13027,1004,Journeyman,46.0,35.00,1960.00,1400.99,Male,White,0,0,1,2,74,1
+Lakeview,O'Connell Electric,2015-08-09,13208,2675,Apprentice 1st Per,55.0,14.00,882.00,636.82,Male,White,0,0,1,2,75,1
+Lakeview,O'Connell Electric,2015-08-09,13471,8841,Journeyman Techn,68.0,35.00,2870.00,1832.46,Male,White,0,0,1,2,75,2
+Lakeview,O'Connell Electric,2015-08-09,13440,3625,Journeyman,68.0,35.00,2870.00,1744.88,Male,Hispanic,0,0,1,2,75,3
+Lakeview,O'Connell Electric,2015-08-09,13044,9188,Journeyman Techn,44.0,35.00,1785.00,1305.74,Male,White,0,0,1,2,76,1
+Lakeview,O'Connell Electric,2015-08-16,13309,57,Journeyman 2nd S,30.0,35.00,1155.00,1099.35,Male,White,0,0,1,2,77,1
+Lakeview,O'Connell Electric,2015-08-16,13108,4073,Journeyman,30.0,35.00,1155.00,816.28,Male,White,0,0,1,2,77,2
+Lakeview,O'Connell Electric,2015-08-16,13209,4458,Office Staff,12.5,38.24,478.00,985.95,Male,White,0,0,1,2,77,3
+Lakeview,O'Connell Electric,2015-08-16,13057,9544,Journeyman,40.0,35.00,1540.00,1256.82,Male,White,0,0,1,2,78,1
+Lakeview,O'Connell Electric,2015-08-16,13031,6255,Journeyman,13.0,35.00,472.50,678.29,Male,White,0,0,1,2,78,2
+Lakeview,O'Connell Electric,2015-08-16,13219,3888,Apprentice 6th Per,53.0,35.00,2135.00,1491.46,Male,White,0,0,1,2,78,3
+Lakeview,O'Connell Electric,2015-08-16,13031,2945,Journeyman,59.0,35.00,2537.50,1630.28,Male,White,0,0,1,2,79,1
+Lakeview,O'Connell Electric,2015-08-16,13212,9454,Journeyman,13.0,35.00,472.50,691.06,Male,White,0,0,1,2,79,2
+Lakeview,O'Connell Electric,2015-08-16,13044,1140,Journeyman,52.0,35.00,2030.00,1657.06,Male,White,0,0,1,2,79,3
+Lakeview,O'Connell Electric,2015-08-16,13116,3465,Foreman,41.5,36.75,1552.69,950.71,Male,White,0,0,1,2,80,1
+Lakeview,O'Connell Electric,2015-08-16,13041,498,Journeyman,38.0,35.00,1575.00,983.54,Male,White,0,0,1,2,80,2
+Lakeview,O'Connell Electric,2015-08-16,13215,2610,General Foreman,10.5,42.00,493.50,1230.79,Male,White,0,0,1,2,80,3
+Lakeview,O'Connell Electric,2015-08-16,13021,9139,Apprentice 2nd Per,53.5,17.50,1054.38,701.49,Male,White,0,0,1,2,81,1
+Lakeview,O'Connell Electric,2015-08-16,13120,3275,Journeyman,46.0,35.00,1715.00,1060.90,Male,Native American,0,0,1,2,81,2
+Lakeview,O'Connell Electric,2015-08-16,13135,2657,Journeyman 2nd S,48.0,35.00,1820.00,1367.72,Male,White,0,0,1,2,81,3
+Lakeview,O'Connell Electric,2015-08-16,13037,1493,Apprentice 4th Per,46.0,24.50,1200.50,869.45,Male,White,0,0,1,2,82,1
+Lakeview,O'Connell Electric,2015-08-16,13090,9665,Journeyman 2nd S,50.0,35.00,1925.00,1194.94,Male,White,0,0,1,2,82,2
+Lakeview,O'Connell Electric,2015-08-16,13206,7688,Journeyman,52.0,35.00,2030.00,1505.33,Male,White,0,0,1,2,82,3
+Lakeview,O'Connell Electric,2015-08-16,13208,7423,Journeyman,50.0,35.00,1925.00,1238.98,Male,White,0,0,1,2,83,1
+Lakeview,O'Connell Electric,2015-08-16,13088,4978,Journeyman,52.0,35.00,2030.00,1251.06,Male,White,0,0,1,2,83,2
+Lakeview,O'Connell Electric,2015-08-16,13413,1763,Journeyman,38.0,35.00,1435.00,930.71,Male,White,0,0,1,2,83,3
+Lakeview,O'Connell Electric,2015-08-16,13021,2802,Journeyman,34.0,35.00,1365.00,979.82,Male,White,0,0,1,2,84,1
+Lakeview,O'Connell Electric,2015-08-16,13208,3155,Journeyman,38.0,35.00,1435.00,982.20,Male,White,0,0,1,2,84,2
+Lakeview,O'Connell Electric,2015-08-16,13090,4272,Apprentice 4th Per,48.0,24.50,1274.00,827.02,Male,White,0,0,1,2,84,3
+Lakeview,O'Connell Electric,2015-08-16,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,85,1
+Lakeview,O'Connell Electric,2015-08-16,13131,9207,Apprentice 4th Per,54.0,24.50,1592.50,1206.33,Male,White,0,0,1,2,85,2
+Lakeview,O'Connell Electric,2015-08-16,13032,6014,General Foreman,10.0,42.00,462.00,2388.97,Male,White,0,0,1,2,85,3
+Lakeview,O'Connell Electric,2015-08-16,13209,6859,Journeyman,64.0,35.00,2660.00,1773.64,Male,White,0,0,1,2,86,1
+Lakeview,O'Connell Electric,2015-08-16,13438,1024,Journeyman,52.0,35.00,2030.00,1228.06,Female,White,0,0,1,2,86,2
+Lakeview,O'Connell Electric,2015-08-16,13036,319,Journeyman,9.5,36.75,523.69,1515.18,Male,White,0,1,1,2,86,3
+Lakeview,O'Connell Electric,2015-08-16,13104,833,Apprentice 5th Per,46.0,28.00,1372.00,906.81,Male,White,0,0,1,2,87,1
+Lakeview,O'Connell Electric,2015-08-16,13027,1446,Foreman,71.5,42.00,3664.50,2335.69,Male,White,0,0,1,2,87,2
+Lakeview,O'Connell Electric,2015-08-16,13082,2674,Journeyman,36.0,35.00,1470.00,965.99,Male,White,0,0,1,2,87,3
+Lakeview,O'Connell Electric,2015-08-16,13206,5276,Journeyman 2nd S,53.0,35.00,2082.50,1278.13,Male,White,0,0,1,2,88,1
+Lakeview,O'Connell Electric,2015-08-16,13088,4213,Journeyman,67.0,35.00,2957.50,1709.56,Male,White,0,0,1,2,88,2
+Lakeview,O'Connell Electric,2015-08-16,13084,1564,Journeyman,61.5,35.00,2528.75,1638.58,Male,White,0,0,1,2,88,3
+Lakeview,O'Connell Electric,2015-08-16,13036,3329,Apprentice 6th Per,61.5,28.00,2023.00,1243.71,Male,White,0,0,1,2,89,1
+Lakeview,O'Connell Electric,2015-08-16,13045,4703,Apprentice 5th Per,60.0,28.00,1960.00,1368.39,Male,White,0,0,1,2,89,2
+Lakeview,O'Connell Electric,2015-08-16,13471,9702,Journeyman,42.0,35.00,1645.00,1167.74,Male,White,0,0,1,2,89,3
+Lakeview,O'Connell Electric,2015-08-16,13030,6199,Journeyman,28.0,35.00,1050.00,691.06,Male,White,0,0,1,2,90,1
+Lakeview,O'Connell Electric,2015-08-16,13069,908,Foreman,52.0,38.50,2233.00,1883.17,Male,White,0,0,1,2,90,2
+Lakeview,O'Connell Electric,2015-08-16,13357,496,Journeyman,52.0,35.00,2030.00,1371.75,Male,White,0,0,1,2,90,3
+Lakeview,O'Connell Electric,2015-08-16,13440,4749,Journeyman 2nd S,30.0,35.00,1155.00,1046.11,Male,Black,0,0,1,2,91,1
+Lakeview,O'Connell Electric,2015-08-16,13114,9227,Apprentice 1st Per,61.5,14.00,1011.50,829.85,Male,White,0,0,1,2,91,2
+Lakeview,O'Connell Electric,2015-08-16,13045,4022,Journeyman,52.0,35.00,2030.00,1347.30,Male,White,0,0,1,2,91,3
+Lakeview,O'Connell Electric,2015-08-16,13027,1004,Journeyman,52.0,35.00,2030.00,1446.37,Male,White,0,0,1,2,92,1
+Lakeview,O'Connell Electric,2015-08-16,13208,2675,Apprentice 1st Per,42.0,14.00,658.00,488.78,Male,White,0,0,1,2,93,1
+Lakeview,O'Connell Electric,2015-08-16,13471,8841,Journeyman Techn,60.0,35.00,2450.00,1603.26,Male,White,0,0,1,2,93,2
+Lakeview,O'Connell Electric,2015-08-16,13440,3625,Journeyman,60.0,35.00,2450.00,1516.49,Male,Hispanic,0,0,1,2,93,3
+Lakeview,O'Connell Electric,2015-08-16,13044,9188,Journeyman Techn,50.0,35.00,1925.00,1178.40,Male,White,0,0,1,2,94,1
+Lakeview,O'Connell Electric,2015-08-23,13209,4458,Office Staff,13.0,38.24,497.12,985.95,Male,White,0,0,1,2,95,1
+Lakeview,O'Connell Electric,2015-08-23,13219,3888,Apprentice 6th Per,50.0,35.00,1925.00,1375.04,Male,White,0,0,1,2,95,2
+Lakeview,O'Connell Electric,2015-08-23,13031,2945,Journeyman,64.0,35.00,2660.00,1697.12,Male,White,0,0,1,2,95,3
+Lakeview,O'Connell Electric,2015-08-23,13116,3465,Foreman,49.0,36.75,1966.13,1175.16,Male,White,0,0,1,2,96,1
+Lakeview,O'Connell Electric,2015-08-23,13166,9064,Chief Equi Mechanic,6.5,39.87,308.99,1972.74,Male,White,0,0,1,2,96,2
+Lakeview,O'Connell Electric,2015-08-23,13471,3968,Journeyman,63.0,35.00,2607.50,1493.83,Male,White,0,0,1,2,96,3
+Lakeview,O'Connell Electric,2015-08-23,13215,2610,General Foreman,26.5,42.00,1228.50,1571.44,Male,White,0,0,1,2,97,1
+Lakeview,O'Connell Electric,2015-08-23,13021,9139,Apprentice 2nd Per,52.0,17.50,1015.00,679.24,Male,White,0,0,1,2,97,2
+Lakeview,O'Connell Electric,2015-08-23,13039,6504,Apprentice 2nd Per,30.0,15.75,519.75,566.02,Male,White,0,0,1,2,97,3
+Lakeview,O'Connell Electric,2015-08-23,13120,3275,Journeyman,28.0,35.00,1050.00,1002.50,Male,Native American,0,0,1,2,98,1
+Lakeview,O'Connell Electric,2015-08-23,13037,1493,Apprentice 4th Per,49.0,24.50,1310.75,942.89,Male,White,0,0,1,2,98,2
+Lakeview,O'Connell Electric,2015-08-23,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,98,3
+Lakeview,O'Connell Electric,2015-08-23,13131,9207,Apprentice 4th Per,38.0,24.50,1004.50,811.83,Male,White,0,0,1,2,99,1
+Lakeview,O'Connell Electric,2015-08-23,13209,6859,Journeyman,55.0,35.00,2187.50,1516.27,Male,White,0,0,1,2,99,2
+Lakeview,O'Connell Electric,2015-08-23,13036,319,Journeyman,62.0,36.75,2682.75,1585.60,Male,White,0,0,1,2,99,3
+Lakeview,O'Connell Electric,2015-08-23,13104,833,Apprentice 5th Per,41.0,28.00,1274.00,978.50,Male,White,0,0,1,2,100,1
+Lakeview,O'Connell Electric,2015-08-23,13027,1446,Foreman,63.0,42.00,3129.00,2007.45,Male,White,0,0,1,2,100,2
+Lakeview,O'Connell Electric,2015-08-23,13088,4213,Journeyman,62.0,35.00,2555.00,1503.21,Male,White,0,0,1,2,100,3
+Lakeview,O'Connell Electric,2015-08-23,13084,1564,Journeyman,52.0,35.00,2170.00,1443.65,Male,White,0,0,1,2,101,1
+Lakeview,O'Connell Electric,2015-08-23,13036,3329,Apprentice 6th Per,54.0,28.00,1708.00,1073.29,Male,White,0,0,1,2,101,2
+Lakeview,O'Connell Electric,2015-08-23,13045,4703,Apprentice 5th Per,55.0,28.00,1750.00,1248.86,Male,White,0,0,1,2,101,3
+Lakeview,O'Connell Electric,2015-08-23,13069,908,Foreman,54.0,38.50,2348.50,1610.03,Male,White,0,0,1,2,102,1
+Lakeview,O'Connell Electric,2015-08-23,13440,4749,Journeyman 2nd S,4.0,40.25,210.00,108.26,Male,Black,0,1,1,2,102,2
+Lakeview,O'Connell Electric,2015-08-23,13114,9227,Apprentice 1st Per,54.0,14.00,854.00,715.79,Male,White,0,0,1,2,102,3
+Lakeview,O'Connell Electric,2015-08-23,13208,2675,Apprentice 1st Per,32.0,14.00,504.00,536.32,Male,White,0,0,1,2,104,1
+Lakeview,O'Connell Electric,2015-08-23,13471,8841,Journeyman Techn,88.0,35.00,4095.00,2469.99,Male,White,0,0,1,2,104,2
+Lakeview,O'Connell Electric,2015-08-23,13440,3625,Journeyman,56.5,35.00,2406.25,1492.96,Male,Hispanic,0,0,1,2,104,3
+Lakeview,O'Connell Electric,2015-08-23,13131,7407,Journeyman,17.0,35.00,787.50,1449.74,Male,White,0,0,1,2,105,1
+Lakeview,O'Connell Electric,2015-08-23,13308,9397,Journeyman Techn,8.0,35.00,420.00,1314.78,Male,White,0,1,1,2,105,2
+Lakeview,O'Connell Electric,2015-08-23,13044,9188,Journeyman Techn,8.0,35.00,420.00,1233.27,Male,White,0,1,1,2,105,3
+Lakeview,O'Connell Electric,2015-08-23,13209,4458,Office Staff,13.0,38.24,497.12,985.95,Male,White,0,0,1,2,106,1
+Lakeview,O'Connell Electric,2015-08-23,13219,3888,Apprentice 6th Per,50.0,35.00,1925.00,1375.04,Male,White,0,0,1,2,106,2
+Lakeview,O'Connell Electric,2015-08-23,13031,2945,Journeyman,64.0,35.00,2660.00,1697.12,Male,White,0,0,1,2,106,3
+Lakeview,O'Connell Electric,2015-08-23,13116,3465,Foreman,49.0,36.75,1966.13,1175.16,Male,White,0,0,1,2,107,1
+Lakeview,O'Connell Electric,2015-08-23,13166,9064,Chief Equi Mechanic,6.5,39.87,308.99,1972.74,Male,White,0,0,1,2,107,2
+Lakeview,O'Connell Electric,2015-08-23,13471,3968,Journeyman,63.0,35.00,2607.50,1493.83,Male,White,0,0,1,2,107,3
+Lakeview,O'Connell Electric,2015-08-23,13215,2610,General Foreman,26.5,42.00,1228.50,1571.44,Male,White,0,0,1,2,108,1
+Lakeview,O'Connell Electric,2015-08-23,13021,9139,Apprentice 2nd Per,52.0,17.50,1015.00,679.24,Male,White,0,0,1,2,108,2
+Lakeview,O'Connell Electric,2015-08-23,13039,6504,Apprentice 2nd Per,30.0,15.75,519.75,566.02,Male,White,0,0,1,2,108,3
+Lakeview,O'Connell Electric,2015-08-23,13120,3275,Journeyman,28.0,35.00,1050.00,1002.50,Male,Native American,0,0,1,2,109,1
+Lakeview,O'Connell Electric,2015-08-23,13037,1493,Apprentice 4th Per,49.0,24.50,1310.75,942.89,Male,White,0,0,1,2,109,2
+Lakeview,O'Connell Electric,2015-08-23,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,109,3
+Lakeview,O'Connell Electric,2015-08-23,13131,9207,Apprentice 4th Per,38.0,24.50,1004.50,811.83,Male,White,0,0,1,2,110,1
+Lakeview,O'Connell Electric,2015-08-23,13209,6859,Journeyman,55.0,35.00,2187.50,1516.27,Male,White,0,0,1,2,110,2
+Lakeview,O'Connell Electric,2015-08-23,13036,319,Journeyman,62.0,36.75,2682.75,1585.60,Male,White,0,0,1,2,110,3
+Lakeview,O'Connell Electric,2015-08-23,13104,833,Apprentice 5th Per,41.0,28.00,1274.00,978.50,Male,White,0,0,1,2,111,1
+Lakeview,O'Connell Electric,2015-08-23,13027,1446,Foreman,63.0,42.00,3129.00,2007.45,Male,White,0,0,1,2,111,2
+Lakeview,O'Connell Electric,2015-08-23,13088,4213,Journeyman,62.0,35.00,2555.00,1503.21,Male,White,0,0,1,2,111,3
+Lakeview,O'Connell Electric,2015-08-23,13084,1564,Journeyman,52.0,35.00,2170.00,1443.65,Male,White,0,0,1,2,112,1
+Lakeview,O'Connell Electric,2015-08-23,13036,3329,Apprentice 6th Per,54.0,28.00,1708.00,1073.29,Male,White,0,0,1,2,112,2
+Lakeview,O'Connell Electric,2015-08-23,13045,4703,Apprentice 5th Per,55.0,28.00,1750.00,1248.86,Male,White,0,0,1,2,112,3
+Lakeview,O'Connell Electric,2015-08-23,13069,908,Foreman,54.0,38.50,2348.50,1610.03,Male,White,0,0,1,2,113,1
+Lakeview,O'Connell Electric,2015-08-23,13440,4749,Journeyman 2nd S,4.0,40.25,210.00,109.26,Male,Black,0,1,1,2,113,2
+Lakeview,O'Connell Electric,2015-08-23,13114,9227,Apprentice 1st Per,54.0,14.00,854.00,715.79,Male,White,0,0,1,2,113,3
+Lakeview,O'Connell Electric,2015-08-23,13208,2675,Apprentice 1st Per,32.0,14.00,504.00,536.32,Male,White,0,0,1,2,115,1
+Lakeview,O'Connell Electric,2015-08-23,13471,8841,Journeyman Techn,88.0,35.00,4095.00,2469.99,Male,White,0,0,1,2,115,2
+Lakeview,O'Connell Electric,2015-08-23,13440,3625,Journeyman,56.5,35.00,2406.25,1492.96,Male,Hispanic,0,0,1,2,115,3
+Lakeview,O'Connell Electric,2015-08-23,13131,7407,Journeyman,17.0,35.00,787.50,1449.74,Male,White,0,0,1,2,116,1
+Lakeview,O'Connell Electric,2015-08-23,13308,9397,Journeyman Techn,8.0,35.00,420.00,1314.78,Male,White,0,1,1,2,116,2
+Lakeview,O'Connell Electric,2015-08-23,13044,9188,Journeyman Techn,8.0,35.00,420.00,1233.27,Male,White,0,1,1,2,116,3
+Lakeview,O'Connell Electric,2015-08-30,13209,4458,Office Staff,15.0,38.24,573.60,985.96,Male,White,0,0,1,2,117,1
+Lakeview,O'Connell Electric,2015-08-30,13219,3888,Apprentice 6th Per,40.0,35.00,1400.00,1030.60,Male,White,0,0,1,2,117,2
+Lakeview,O'Connell Electric,2015-08-30,13031,2945,Journeyman,17.0,35.00,612.50,461.76,Male,White,0,0,1,2,117,3
+Lakeview,O'Connell Electric,2015-08-30,13116,3465,Foreman,40.0,36.75,1470.00,904.65,Male,White,0,0,1,2,118,1
+Lakeview,O'Connell Electric,2015-08-30,13215,2610,General Foreman,8.0,42.00,336.00,1462.89,Male,White,0,0,1,2,118,2
+Lakeview,O'Connell Electric,2015-08-30,13021,9139,Apprentice 2nd Per,16.0,17.50,280.00,494.76,Male,White,0,0,1,2,118,3
+Lakeview,O'Connell Electric,2015-08-30,13037,1493,Apprentice 4th Per,16.0,24.50,392.00,722.53,Male,White,0,0,1,2,118,4
+Lakeview,O'Connell Electric,2015-08-30,13088,5241,Field Office Staff,1.0,14.50,21.75,454.62,Male,White,0,1,1,2,119,1
+Lakeview,O'Connell Electric,2015-08-30,13063,9793,Superintendent GF,16.0,42.00,672.00,1020.63,Male,White,0,0,1,2,119,2
+Lakeview,O'Connell Electric,2015-08-30,13209,6859,Journeyman,44.0,35.00,1610.00,1165.84,Male,White,0,0,1,2,119,3
+Lakeview,O'Connell Electric,2015-08-30,13027,1446,Foreman,43.0,42.00,1869.00,1319.04,Male,White,0,0,1,2,120,1
+Lakeview,O'Connell Electric,2015-08-30,13088,4213,Journeyman,36.0,35.00,1330.00,850.38,Male,White,0,0,1,2,120,2
+Lakeview,O'Connell Electric,2015-08-30,13084,1564,Journeyman,40.0,35.00,1400.00,988.27,Male,White,0,0,1,2,120,3
+Lakeview,O'Connell Electric,2015-08-30,13036,3329,Apprentice 6th Per,16.0,28.00,448.00,328.00,Male,White,0,0,1,2,121,1
+Lakeview,O'Connell Electric,2015-08-30,13045,4703,Apprentice 5th Per,17.0,28.00,490.00,399.99,Male,White,0,0,1,2,121,2
+Lakeview,O'Connell Electric,2015-08-30,13212,1124,Apprentice 4th Per,40.0,21.00,840.00,530.92,Male,Black,0,0,1,2,121,3
+Lakeview,O'Connell Electric,2015-08-30,13069,908,Foreman,45.0,38.50,1828.75,1314.24,Male,White,0,0,1,2,122,1
+Lakeview,O'Connell Electric,2015-08-30,13212,4089,Field Office Staff,2.0,15.00,30.00,513.06,Male,White,0,0,1,2,122,2
+Lakeview,O'Connell Electric,2015-08-30,13114,9227,Apprentice 1st Per,40.0,14.00,560.00,480.36,Male,White,0,0,1,2,122,3
+Lakeview,O'Connell Electric,2015-08-30,13203,1618,Apprentice 3rd Per,16.0,17.50,280.00,529.01,Male,White,0,0,1,2,123,1
+Lakeview,O'Connell Electric,2015-08-30,13471,8841,Journeyman Techn,18.5,35.00,691.25,710.97,Male,White,0,0,1,2,123,2
+Lakeview,O'Connell Electric,2015-08-30,13440,3625,Journeyman,40.0,35.00,1540.00,1170.51,Male,Hispanic,0,0,1,2,123,3
+Lakeview,O'Connell Electric,2015-08-30,13131,7407,Journeyman,8.0,35.00,280.00,1166.32,Male,White,0,0,1,2,124,1
