@@ -77,3 +77,14 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 * `ot`: Binary indicating whether the payment is for overtime only (`1`) or not (`0`)
   - Two instances in *Quality Structures, Inc.* indicate vacation pay only, rather than overtime
 * `add`: Binary indicating whether a personal address was redacted (`1`) or not (`0`)
+
+## Final Tables Variables
+
+All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/lakeview/tree/master/Final%20Tables) folder of the [Lakeview Repository](https://github.com/jamisoncrawford/lakeview) are prepared for merging into a master table, including Hancock Airport Renovations and Lakeview Ampitheater Construction. These largely include metadata variables.
+
+* `project`: Non-ordinal categorical variable for title of construction project, e.g. "Lakeview" or "Hancock"
+* `name`: Non-ordinal categorical variable for title of contractor or company, e.g. "Burn Bros" or "Ajay Glass"
+* `pdf_no`: Integer indicating which PDF document contains particular record in raw data; typically "1"
+* `pdf_pg`: Integer indicating which page number of PDF identified in `pdf_no` for partcular record
+* `pg_ob`: Integer indicating which observation on `pdf_pg` the record represents
+ 
