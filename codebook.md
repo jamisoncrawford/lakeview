@@ -80,7 +80,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 
 ## Final Tables Variables
 
-All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/lakeview/tree/master/Final%20Tables) folder of the [Lakeview Repository](https://github.com/jamisoncrawford/lakeview) are prepared for merging into a master table, including Hancock Airport Renovations and Lakeview Ampitheater Construction. These largely include metadata variables.
+All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/lakeview/tree/master/Final%20Tables) folder of the [Lakeview Repository](https://github.com/jamisoncrawford/lakeview) are prepared for merging into a master table, including Hancock Airport Renovations and Lakeview Ampitheater Construction. In addition to the above variables, these are largely metadata variables for each payment record.
 
 * `project`: Non-ordinal categorical variable for title of construction project, e.g. "Lakeview" or "Hancock"
 * `name`: Non-ordinal categorical variable for title of contractor or company, e.g. "Burn Bros" or "Ajay Glass"
