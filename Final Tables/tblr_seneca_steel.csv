@@ -1,0 +1,202 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Seneca Steel,2015-05-03,12186,4106,Clerical ,4.0,15.00,60.00,53.11,Female,White,0,0,1,1,1,1
+Lakeview,Seneca Steel,2015-05-03,13212,6942,IW Journeyman,28.7,28.70,229.60,175.12,Male,Hispanic,0,0,1,1,1,2
+Lakeview,Seneca Steel,2015-05-03,14129,8510,IW Journeyman,33.0,33.00,528.00,800.45,Male,Native American,0,0,1,1,1,3
+Lakeview,Seneca Steel,2015-05-03,13057,9147,IW Apprentice,20.5,20.50,164.00,128.10,Male,White,0,0,1,1,1,4
+Lakeview,Seneca Steel,2015-05-03,13209,7646,IW Journeyman,28.7,28.70,229.60,196.81,Male,White,0,0,1,1,1,5
+Lakeview,Seneca Steel,2015-05-03,13080,5456,IW Journeyman,28.7,28.70,229.60,195.27,Male,White,0,0,1,1,1,6
+Lakeview,Seneca Steel,2015-05-03,13080,0059,IW Journeyman,28.7,28.70,229.60,188.50,Male,White,0,0,1,1,1,7
+Lakeview,Seneca Steel,2015-05-10,12186,4106,Clerical ,34.0,15.00,510.00,391.83,Female,White,0,0,1,1,3,1
+Lakeview,Seneca Steel,2015-05-10,13212,6942,IW Journeyman,40.0,28.70,1148.00,698.50,Male,Hispanic,0,0,1,1,3,2
+Lakeview,Seneca Steel,2015-05-10,14129,8510,IW Journeyman,40.0,33.00,1320.00,818.03,Male,Native American,0,0,1,1,3,3
+Lakeview,Seneca Steel,2015-05-10,13057,9147,IW Apprentice,40.0,20.50,820.00,557.14,Male,White,0,0,1,1,3,4
+Lakeview,Seneca Steel,2015-05-10,13209,7646,IW Journeyman,40.0,28.70,1148.00,841.56,Male,White,0,0,1,1,3,5
+Lakeview,Seneca Steel,2015-05-10,13080,5456,IW Journeyman,24.0,28.70,688.80,518.18,Male,White,0,0,1,1,3,6
+Lakeview,Seneca Steel,2015-05-10,13080,0059,IW Journeyman,40.0,28.70,1148.00,802.84,Male,White,0,0,1,1,3,7
+Lakeview,Seneca Steel,2015-05-17,12186,4106,Clerical ,54.0,15.00,915.00,663.95,Female,White,0,0,1,1,5,1
+Lakeview,Seneca Steel,2015-05-17,13212,6942,IW Journeyman,52.0,28.70,1664.60,911.86,Male,Hispanic,0,0,1,1,5,2
+Lakeview,Seneca Steel,2015-05-17,14433,5632,IW Apprentice,47.0,19.00,1035.50,675.33,Male,Black,0,0,1,1,5,3
+Lakeview,Seneca Steel,2015-05-17,14129,8510,IW Journeyman,54.0,33.53,2045.33,858.92,Male,Native American,0,0,1,1,5,4
+Lakeview,Seneca Steel,2015-05-17,13057,9147,IW Apprentice,48.0,19.00,988.00,669.63,Male,White,0,0,1,1,5,5
+Lakeview,Seneca Steel,2015-05-17,13601,9650,IW Journeyman,44.0,29.70,1485.00,942.72,Male,Native American,0,0,1,1,5,6
+Lakeview,Seneca Steel,2015-05-17,13120,5720,IW Journeyman,41.0,28.70,1305.85,1021.13,Male,Native American,0,0,1,1,5,7
+Lakeview,Seneca Steel,2015-05-17,14032,7437,IW Journeyman,49.0,31.53,425.70,1047.04,Male,White,0,0,1,1,5,8
+Lakeview,Seneca Steel,2015-05-17,13120,0085,IW Journeyman,28.0,28.70,975.80,662.85,Male,Native American,0,0,1,1,6,1
+Lakeview,Seneca Steel,2015-05-17,13209,7646,IW Journeyman,53.0,28.70,1707.65,1204.71,Male,White,0,0,1,1,6,2
+Lakeview,Seneca Steel,2015-05-17,13080,5456,IW Journeyman,41.0,28.70,1348.90,946.60,Male,White,0,0,1,1,6,3
+Lakeview,Seneca Steel,2015-05-17,13080,0059,IW Journeyman,54.0,31.70,1933.70,1280.10,Male,White,0,0,1,1,6,4
+Lakeview,Seneca Steel,2015-05-17,13120,9377,IW Journeyman,18.0,28.70,545.30,105.71,Male,Native American,0,0,1,1,6,5
+Lakeview,Seneca Steel,2015-05-24,12186,4106,Clerical ,42.0,15.00,645.00,488.01,Female,White,0,0,1,1,8,1
+Lakeview,Seneca Steel,2015-05-24,13212,6942,IW Journeyman,42.0,28.70,1234.10,907.24,Male,Hispanic,0,0,1,1,8,2
+Lakeview,Seneca Steel,2015-05-24,14433,5632,IW Apprentice,42.0,19.00,817.00,555.74,Male,Black,0,0,1,1,8,3
+Lakeview,Seneca Steel,2015-05-24,14129,8510,IW Journeyman,42.0,33.00,1441.19,880.51,Male,Native American,0,0,1,1,8,4
+Lakeview,Seneca Steel,2015-05-24,13057,9147,IW Apprentice,42.0,20.50,988.00,669.63,Male,White,0,0,1,1,8,5
+Lakeview,Seneca Steel,2015-05-24,13601,9650,IW Journeyman,42.0,29.70,1234.10,805.24,Male,Native American,0,0,1,1,8,6
+Lakeview,Seneca Steel,2015-05-24,13120,5720,IW Journeyman,42.0,28.70,1234.10,973.78,Male,Native American,0,0,1,1,8,7
+Lakeview,Seneca Steel,2015-05-24,13120,0085,IW Journeyman,42.0,28.70,1234.10,805.25,Male,Native American,0,0,1,1,8,8
+Lakeview,Seneca Steel,2015-05-24,13209,7646,IW Journeyman,42.0,28.70,1234.10,897.35,Male,White,0,0,1,1,9,1
+Lakeview,Seneca Steel,2015-05-24,13080,5456,IW Journeyman,42.0,28.70,1234.10,871.86,Male,White,0,0,1,1,9,2
+Lakeview,Seneca Steel,2015-05-24,13080,0059,IW Journeyman,42.0,28.70,1363.10,942.69,Male,White,0,0,1,1,9,3
+Lakeview,Seneca Steel,2015-05-24,13120,9377,IW Journeyman,42.0,28.70,1234.10,897.35,Male,Native American,0,0,1,1,9,4
+Lakeview,Seneca Steel,2015-05-31,12186,4106,Clerical ,48.0,15.00,840.00,618.52,Female,White,0,0,1,1,11,1
+Lakeview,Seneca Steel,2015-05-31,13212,6942,IW Journeyman,48.0,28.70,1607.20,1173.28,Male,Hispanic,0,0,1,1,11,2
+Lakeview,Seneca Steel,2015-05-31,14433,5632,IW Apprentice,48.0,19.00,1064.00,691.10,Male,Black,0,0,1,1,11,3
+Lakeview,Seneca Steel,2015-05-31,14129,8510,IW Journeyman,56.0,33.53,2145.92,1234.93,Male,Native American,0,0,1,1,11,4
+Lakeview,Seneca Steel,2015-05-31,13302,1879,IW Journeyman,18.0,19.00,975.80,740.07,Male,White,0,0,1,1,11,5
+Lakeview,Seneca Steel,2015-05-31,13057,9147,IW Apprentice,48.0,19.00,988.00,669.63,Male,White,0,0,1,1,11,6
+Lakeview,Seneca Steel,2015-05-31,13316,6536,IW Journeyman,18.0,28.70,1234.10,973.78,Male,White,0,0,1,1,11,7
+Lakeview,Seneca Steel,2015-05-31,13316,5356,IW Journeyman,18.0,31.70,975.80,691.24,Male,White,0,0,1,1,11,8
+Lakeview,Seneca Steel,2015-05-31,13601,9650,IW Journeyman,48.0,28.70,1607.20,1009.36,Male,Native American,0,0,1,1,12,1
+Lakeview,Seneca Steel,2015-05-31,13126,0233,IW Apprentice,18.0,19.00,646.00,510.46,Male,White,0,0,1,1,12,2
+Lakeview,Seneca Steel,2015-05-31,13120,5720,IW Journeyman,38.0,28.70,1291.50,1011.65,Male,Native American,0,0,1,1,12,3
+Lakeview,Seneca Steel,2015-05-31,13120,0085,IW Journeyman,48.0,28.70,1607.20,1009.35,Male,Native American,0,0,1,1,12,4
+Lakeview,Seneca Steel,2015-05-31,13209,7646,IW Journeyman,48.0,28.70,1607.20,1139.46,Male,White,0,0,1,1,12,5
+Lakeview,Seneca Steel,2015-05-31,13080,5456,IW Journeyman,38.0,28.70,1291.50,908.73,Male,White,0,0,1,1,12,6
+Lakeview,Seneca Steel,2015-05-31,13080,0059,IW Journeyman,56.0,31.70,2028.80,1331.63,Male,White,0,0,1,1,12,7
+Lakeview,Seneca Steel,2015-05-31,13120,9377,IW Journeyman,27.0,28.70,932.75,701.56,Male,Native American,0,0,1,1,12,8
+Lakeview,Seneca Steel,2015-06-07,12186,4106,Clerical ,55.0,15.00,937.50,678.27,Female,White,0,0,1,1,14,1
+Lakeview,Seneca Steel,2015-06-07,13212,6942,IW Journeyman,47.0,28.70,1449.35,1046.68,Male,Hispanic,0,0,1,1,14,2
+Lakeview,Seneca Steel,2015-06-07,14433,5632,IW Apprentice,38.0,19.00,836.00,565.92,Male,Black,0,0,1,1,14,3
+Lakeview,Seneca Steel,2015-06-07,14129,8510,IW Journeyman,55.0,33.00,2095.63,1210.68,Male,Native American,0,0,1,1,14,4
+Lakeview,Seneca Steel,2015-06-07,13302,1879,IW Journeyman,55.0,19.00,1793.75,1214.58,Male,White,0,0,1,1,14,5
+Lakeview,Seneca Steel,2015-06-07,13057,9147,IW Apprentice,48.0,20.50,1045.00,701.16,Male,White,0,0,1,1,14,6
+Lakeview,Seneca Steel,2015-06-07,13316,6536,IW Journeyman,48.0,28.70,1578.50,1095.04,Male,White,0,0,1,1,14,7
+Lakeview,Seneca Steel,2015-06-07,13316,5356,IW Journeyman,54.0,31.70,2002.70,1317.00,Male,White,0,0,1,1,14,8
+Lakeview,Seneca Steel,2015-06-07,13601,9650,IW Journeyman,48.0,28.70,1578.50,994.42,Male,Native American,0,0,1,1,15,1
+Lakeview,Seneca Steel,2015-06-07,13027,1990,IW Journeyman,36.0,19.00,1205.40,866.19,Male,Native American,0,0,1,1,15,2
+Lakeview,Seneca Steel,2015-06-07,13126,0233,IW Apprentice,45.0,19.00,969.00,725.53,Male,White,0,0,1,1,15,3
+Lakeview,Seneca Steel,2015-06-07,13120,5720,IW Journeyman,48.0,28.70,1578.50,1197.97,Male,Native American,0,0,1,1,15,4
+Lakeview,Seneca Steel,2015-06-07,13120,0085,IW Journeyman,55.0,28.70,1793.75,1112.18,Male,Native American,0,0,1,1,15,5
+Lakeview,Seneca Steel,2015-06-07,13027,5836,IW Journeyman,36.0,28.70,1205.40,789.08,Male,White,0,0,1,1,15,6
+Lakeview,Seneca Steel,2015-06-07,13209,7646,IW Journeyman,55.0,28.70,1793.75,1260.38,Male,White,0,0,1,1,15,7
+Lakeview,Seneca Steel,2015-06-07,13080,5456,IW Journeyman,9.0,28.70,272.65,227.74,Male,White,0,0,1,1,15,8
+Lakeview,Seneca Steel,2015-06-07,13080,0059,IW Journeyman,55.0,28.70,1981.25,1305.98,Male,White,0,0,1,1,16,1
+Lakeview,Seneca Steel,2015-06-07,13114,4540,IW Journeyman,26.0,28.70,889.70,660.94,Male,White,0,0,1,1,16,2
+Lakeview,Seneca Steel,2015-06-07,13120,9377,IW Journeyman,45.0,28.70,1793.75,1260.37,Male,Native American,0,0,1,1,16,3
+Lakeview,Seneca Steel,2015-06-14,12186,4106,Clerical ,66.0,15.00,1245.00,865.42,Female,White,0,0,1,1,18,1
+Lakeview,Seneca Steel,2015-06-14,13212,6942,IW Journeyman,48.0,28.70,1607.20,1129.98,Male,Hispanic,0,0,1,1,18,2
+Lakeview,Seneca Steel,2015-06-14,14433,5632,IW Apprentice,64.0,19.00,1520.00,941.44,Male,Black,0,0,1,1,18,3
+Lakeview,Seneca Steel,2015-06-14,14129,8510,IW Journeyman,66.0,33.00,2782.99,1810.51,Male,Native American,0,0,1,1,18,4
+Lakeview,Seneca Steel,2015-06-14,13302,1879,IW Journeyman,63.0,19.00,2382.10,1708.52,Male,White,0,0,1,1,18,5
+Lakeview,Seneca Steel,2015-06-14,13057,9147,IW Apprentice,65.0,20.50,1548.50,977.46,Male,White,0,0,1,1,18,6
+Lakeview,Seneca Steel,2015-06-14,13316,6536,IW Journeyman,56.0,28.70,2009.00,1341.39,Male,White,0,0,1,1,18,7
+Lakeview,Seneca Steel,2015-06-14,13316,5356,IW Journeyman,60.0,31.70,2345.80,1502.54,Male,White,0,0,1,1,18,8
+Lakeview,Seneca Steel,2015-06-14,13601,9650,IW Journeyman,56.0,29.70,2009.00,1225.65,Male,Native American,0,0,1,1,19,1
+Lakeview,Seneca Steel,2015-06-14,13027,1990,IW Journeyman,40.0,19.00,1205.40,866.18,Male,Native American,0,0,1,1,19,2
+Lakeview,Seneca Steel,2015-06-14,13126,0233,IW Apprentice,63.0,19.00,1501.00,1070.61,Male,White,0,0,1,1,19,3
+Lakeview,Seneca Steel,2015-06-14,13120,5720,IW Journeyman,66.0,28.70,2382.10,1708.52,Male,Native American,0,0,1,1,19,4
+Lakeview,Seneca Steel,2015-06-14,13120,0085,IW Journeyman,58.0,28.70,1922.90,1181.12,Male,Native American,0,0,1,1,19,5
+Lakeview,Seneca Steel,2015-06-14,13027,5836,IW Journeyman,56.0,28.70,2009.00,1202.19,Male,White,0,0,1,1,19,6
+Lakeview,Seneca Steel,2015-06-14,13209,7646,IW Journeyman,66.0,28.70,2382.10,1583.54,Male,White,0,0,1,1,19,7
+Lakeview,Seneca Steel,2015-06-14,13080,0059,IW Journeyman,58.0,28.70,2250.70,1450.82,Male,White,0,0,1,1,19,8
+Lakeview,Seneca Steel,2015-06-14,13114,4540,IW Journeyman,56.0,28.70,2009.00,1361.66,Male,White,0,0,1,1,20,1
+Lakeview,Seneca Steel,2015-06-14,13120,9377,IW Journeyman,66.0,28.70,2382.10,1583.54,Male,Native American,0,0,1,1,20,2
+Lakeview,Seneca Steel,2015-06-21,12186,4106,Clerical ,60.0,15.00,1050.00,745.91,Female,White,0,0,1,1,22,1
+Lakeview,Seneca Steel,2015-06-21,13212,6942,IW Journeyman,50.0,28.70,1578.50,1114.55,Male,Hispanic,0,0,1,1,22,2
+Lakeview,Seneca Steel,2015-06-21,14433,5632,IW Apprentice,58.0,19.00,1273.00,806.09,Male,Black,0,0,1,1,22,3
+Lakeview,Seneca Steel,2015-06-21,14129,8510,IW Journeyman,60.0,33.00,2347.10,1584.34,Male,Native American,0,0,1,1,22,4
+Lakeview,Seneca Steel,2015-06-21,13302,1879,IW Journeyman,58.0,19.00,1922.90,1420.99,Male,White,0,0,1,1,22,5
+Lakeview,Seneca Steel,2015-06-21,13057,9147,IW Apprentice,58.0,20.50,1273.00,971.25,Male,White,0,0,1,1,22,6
+Lakeview,Seneca Steel,2015-06-21,13316,6536,IW Journeyman,58.0,28.70,1922.90,1294.76,Male,White,0,0,1,1,22,7
+Lakeview,Seneca Steel,2015-06-21,13316,5356,IW Journeyman,58.0,31.70,2123.90,1382.84,Male,White,0,0,1,1,22,8
+Lakeview,Seneca Steel,2015-06-21,13601,9650,IW Journeyman,50.0,29.70,1743.50,1084.14,Male,Native American,0,0,1,1,23,1
+Lakeview,Seneca Steel,2015-06-21,13027,1990,IW Journeyman,58.0,19.00,1922.90,1315.04,Male,Native American,0,0,1,1,23,2
+Lakeview,Seneca Steel,2015-06-21,13126,0233,IW Apprentice,58.0,19.00,1273.00,922.43,Male,White,0,0,1,1,23,3
+Lakeview,Seneca Steel,2015-06-21,13120,5720,IW Journeyman,60.0,28.70,2009.00,1476.00,Male,Native American,0,0,1,1,23,4
+Lakeview,Seneca Steel,2015-06-21,13053,0665,IW Journeyman,60.0,28.70,2009.00,1464.33,Male,White,0,0,1,1,23,5
+Lakeview,Seneca Steel,2015-06-21,13120,0085,IW Journeyman,60.0,28.70,2009.00,1098.15,Male,Native American,0,0,1,1,23,6
+Lakeview,Seneca Steel,2015-06-21,13090,6705,IW Journeyman,54.0,28.70,1750.70,1067.60,Male,White,0,0,1,1,23,7
+Lakeview,Seneca Steel,2015-06-21,13027,5836,IW Journeyman,58.0,28.70,1922.90,1157.85,Male,White,0,0,1,1,23,8
+Lakeview,Seneca Steel,2015-06-21,13209,7646,IW Journeyman,60.0,28.70,2219.00,1496.22,Male,White,0,0,1,1,24,1
+Lakeview,Seneca Steel,2015-06-21,13080,0059,IW Journeyman,56.0,28.70,2028.80,1331.64,Male,White,0,0,1,1,24,2
+Lakeview,Seneca Steel,2015-06-21,13655,0530,IW Journeyman,58.0,28.70,1922.90,1203.40,Male,Native American,0,0,1,1,24,3
+Lakeview,Seneca Steel,2015-06-21,13114,4540,IW Journeyman,58.0,28.70,1578.50,1108.28,Male,White,0,0,1,1,24,4
+Lakeview,Seneca Steel,2015-06-21,13142,7102,IW Journeyman,58.0,28.70,1922.90,1273.48,Male,White,0,0,1,1,24,5
+Lakeview,Seneca Steel,2015-06-21,13120,9377,IW Journeyman,60.0,28.70,2009.00,1382.95,Male,Native American,0,0,1,1,24,6
+Lakeview,Seneca Steel,2015-06-21,13069,0368,IW Journeyman,58.0,28.70,1922.90,1273.48,Male,White,0,0,1,1,24,7
+Lakeview,Seneca Steel,2015-06-28,12186,4106,Clerical ,58.0,15.00,1005.00,719.26,Female,White,0,0,1,1,26,1
+Lakeview,Seneca Steel,2015-06-28,13212,6942,IW Journeyman,50.0,28.70,1578.50,1114.55,Male,Hispanic,0,0,1,1,26,2
+Lakeview,Seneca Steel,2015-06-28,14433,5632,IW Apprentice,62.0,19.00,1387.00,868.17,Male,Black,0,0,1,1,26,3
+Lakeview,Seneca Steel,2015-06-28,14129,8510,IW Journeyman,64.0,33.00,2548.28,1694.09,Male,Native American,0,0,1,1,26,4
+Lakeview,Seneca Steel,2015-06-28,13302,1879,IW Journeyman,63.0,19.00,2138.15,1560.54,Male,White,0,0,1,1,26,5
+Lakeview,Seneca Steel,2015-06-28,13057,9147,IW Apprentice,58.0,20.50,1301.50,990.03,Male,White,0,0,1,1,26,6
+Lakeview,Seneca Steel,2015-06-28,13316,6536,IW Journeyman,58.0,28.70,1922.90,1294.76,Male,White,0,0,1,1,26,7
+Lakeview,Seneca Steel,2015-06-28,13316,5356,IW Journeyman,50.0,31.70,1743.50,1175.49,Male,White,0,0,1,1,26,8
+Lakeview,Seneca Steel,2015-06-28,13601,9650,IW Journeyman,56.0,29.70,1836.80,1135.50,Male,Native American,0,0,1,1,27,1
+Lakeview,Seneca Steel,2015-06-28,13027,1990,IW Journeyman,46.0,19.00,1881.50,1292.05,Male,Native American,0,0,1,1,27,2
+Lakeview,Seneca Steel,2015-06-28,13126,0233,IW Apprentice,56.0,19.00,1216.00,885.89,Male,White,0,0,1,1,27,3
+Lakeview,Seneca Steel,2015-06-28,13120,5720,IW Journeyman,62.0,28.70,2095.10,1532.24,Male,Native American,0,0,1,1,27,4
+Lakeview,Seneca Steel,2015-06-28,13053,0665,IW Journeyman,22.0,28.70,688.80,575.72,Male,White,0,0,1,1,27,5
+Lakeview,Seneca Steel,2015-06-28,13120,0085,IW Journeyman,62.0,28.70,2095.10,1269.45,Male,Native American,0,0,1,1,27,6
+Lakeview,Seneca Steel,2015-06-28,13090,6705,IW Journeyman,56.0,28.70,1836.80,1113.21,Male,White,0,0,1,1,27,7
+Lakeview,Seneca Steel,2015-06-28,13027,5836,IW Journeyman,46.0,28.70,1521.10,942.31,Male,White,0,0,1,1,27,8
+Lakeview,Seneca Steel,2015-06-28,13209,7646,IW Journeyman,63.0,28.70,2361.65,1572.48,Male,White,0,0,1,1,28,1
+Lakeview,Seneca Steel,2015-06-28,13080,0059,IW Journeyman,60.0,28.70,2009.00,1320.98,Male,White,0,0,1,1,28,2
+Lakeview,Seneca Steel,2015-06-28,13655,0530,IW Journeyman,56.0,28.70,1836.80,1155.77,Male,Native American,0,0,1,1,28,3
+Lakeview,Seneca Steel,2015-06-28,13114,4540,IW Journeyman,50.0,28.70,1578.50,1108.29,Male,White,0,0,1,1,28,4
+Lakeview,Seneca Steel,2015-06-28,13142,7102,IW Journeyman,56.0,28.70,1836.80,1226.85,Male,White,0,0,1,1,28,5
+Lakeview,Seneca Steel,2015-06-28,13120,9377,IW Journeyman,63.0,28.70,2138.15,1452.30,Male,Native American,0,0,1,1,28,6
+Lakeview,Seneca Steel,2015-06-28,13069,0368,IW Journeyman,56.0,28.70,1836.80,1226.85,Male,White,0,0,1,1,28,7
+Lakeview,Seneca Steel,2015-07-05,12186,4106,Clerical ,53.0,15.00,892.50,650.63,Female,White,0,0,1,1,30,1
+Lakeview,Seneca Steel,2015-07-05,13212,6942,IW Journeyman,47.5,28.70,1470.88,1055.99,Male,Hispanic,0,0,1,1,30,2
+Lakeview,Seneca Steel,2015-07-05,14433,5632,IW Apprentice,41.5,19.00,878.75,589.08,Male,Black,0,0,1,1,30,3
+Lakeview,Seneca Steel,2015-07-05,14129,8510,IW Journeyman,53.5,33.00,2020.19,1389.38,Male,Native American,0,0,1,1,30,4
+Lakeview,Seneca Steel,2015-07-05,13302,1879,IW Journeyman,50.0,19.00,1578.50,1197.97,Male,White,0,0,1,1,30,5
+Lakeview,Seneca Steel,2015-07-05,13057,9147,IW Apprentice,50.0,20.50,1045.00,824.07,Male,White,0,0,1,1,30,6
+Lakeview,Seneca Steel,2015-07-05,13316,6536,IW Journeyman,44.0,28.70,1406.30,983.46,Male,White,0,0,1,1,30,7
+Lakeview,Seneca Steel,2015-07-05,13316,5356,IW Journeyman,53.0,31.70,1886.15,1254.19,Male,White,0,0,1,1,30,8
+Lakeview,Seneca Steel,2015-07-05,13601,9650,IW Journeyman,48.0,29.70,1492.40,946.63,Male,Native American,0,0,1,1,31,1
+Lakeview,Seneca Steel,2015-07-05,13027,1990,IW Journeyman,53.0,19.00,1886.15,1294.75,Male,Native American,0,0,1,1,31,2
+Lakeview,Seneca Steel,2015-07-05,13126,0233,IW Apprentice,38.0,19.00,779.00,601.72,Male,White,0,0,1,1,31,3
+Lakeview,Seneca Steel,2015-07-05,13120,5720,IW Journeyman,51.0,28.70,1621.55,1225.36,Male,Native American,0,0,1,1,31,4
+Lakeview,Seneca Steel,2015-07-05,13120,0085,IW Journeyman,51.0,28.70,1621.55,1017.83,Male,Native American,0,0,1,1,31,5
+Lakeview,Seneca Steel,2015-07-05,13212,0368,IW Journeyman,20.0,28.70,631.40,478.17,Male,White,0,0,1,1,31,6
+Lakeview,Seneca Steel,2015-07-05,13090,6705,IW Journeyman,45.0,28.70,1377.60,863.67,Male,White,0,0,1,1,31,7
+Lakeview,Seneca Steel,2015-07-05,13027,5836,IW Journeyman,48.0,28.70,1492.40,926.39,Male,White,0,0,1,1,31,8
+Lakeview,Seneca Steel,2015-07-05,13209,7646,IW Journeyman,53.0,28.70,1886.15,1315.02,Male,White,0,0,1,1,32,1
+Lakeview,Seneca Steel,2015-07-05,13080,0059,IW Journeyman,53.0,31.70,1886.15,1254.19,Male,White,0,0,1,1,32,2
+Lakeview,Seneca Steel,2015-07-05,13655,0530,IW Journeyman,48.0,28.70,1492.40,966.87,Male,Native American,0,0,1,1,32,3
+Lakeview,Seneca Steel,2015-07-05,13114,4540,IW Journeyman,48.0,28.70,1493.40,1052.49,Male,White,0,0,1,1,32,4
+Lakeview,Seneca Steel,2015-07-05,13142,7102,IW Journeyman,50.0,28.70,1621.55,1109.20,Male,White,0,0,1,1,32,5
+Lakeview,Seneca Steel,2015-07-05,13471,9802,IW Journeyman,18.0,28.70,545.30,430.46,Male,White,0,0,1,1,32,6
+Lakeview,Seneca Steel,2015-07-05,13120,9377,IW Journeyman,52.5,28.70,1686.13,1190.52,Male,Native American,0,0,1,1,32,7
+Lakeview,Seneca Steel,2015-07-05,13069,0368,IW Journeyman,40.0,28.70,1262.80,877.55,Male,White,0,0,1,1,32,8
+Lakeview,Seneca Steel,2015-07-12,12186,4106,Clerical ,60.0,15.00,1050.00,745.91,Female,White,0,0,1,1,34,1
+Lakeview,Seneca Steel,2015-07-12,13212,6942,IW Journeyman,44.0,28.70,1463.70,1061.44,Male,Hispanic,0,0,1,1,34,2
+Lakeview,Seneca Steel,2015-07-12,14433,5632,IW Apprentice,54.0,19.00,1178.00,753.19,Male,Black,0,0,1,1,34,3
+Lakeview,Seneca Steel,2015-07-12,14129,8510,IW Journeyman,62.5,33.00,2472.84,1656.77,Male,Native American,0,0,1,1,34,4
+Lakeview,Seneca Steel,2015-07-12,13302,1879,IW Journeyman,60.0,19.00,2009.00,1476.61,Male,White,0,0,1,1,34,5
+Lakeview,Seneca Steel,2015-07-12,13057,9147,IW Apprentice,60.0,20.50,1330.00,1008.80,Male,White,0,0,1,1,34,6
+Lakeview,Seneca Steel,2015-07-12,13316,6536,IW Journeyman,53.0,28.70,1750.70,1200.51,Male,White,0,0,1,1,34,7
+Lakeview,Seneca Steel,2015-07-12,13316,5356,IW Journeyman,58.0,31.70,2123.90,1382.84,Male,White,0,0,1,1,34,8
+Lakeview,Seneca Steel,2015-07-12,13601,9650,IW Journeyman,56.0,29.70,1836.80,1135.49,Male,Native American,0,0,1,1,35,1
+Lakeview,Seneca Steel,2015-07-12,13027,1990,IW Journeyman,55.0,19.00,1981.25,1346.53,Male,Native American,0,0,1,1,35,2
+Lakeview,Seneca Steel,2015-07-12,13126,0233,IW Apprentice,39.0,19.00,807.50,620.50,Male,White,0,0,1,1,35,3
+Lakeview,Seneca Steel,2015-07-12,13120,5720,IW Journeyman,56.0,28.70,1865.50,1384.24,Male,Native American,0,0,1,1,35,4
+Lakeview,Seneca Steel,2015-07-12,13120,0085,IW Journeyman,50.0,28.70,1693.30,929.62,Male,Native American,0,0,1,1,35,5
+Lakeview,Seneca Steel,2015-07-12,13212,0368,IW Journeyman,56.0,28.70,1865.50,1191.93,Male,White,0,0,1,1,35,6
+Lakeview,Seneca Steel,2015-07-12,13090,6705,IW Journeyman,49.0,28.70,1607.20,989.12,Male,White,0,0,1,1,35,7
+Lakeview,Seneca Steel,2015-07-12,13027,5836,IW Journeyman,51.0,28.70,1650.25,1012.50,Male,White,0,0,1,1,35,8
+Lakeview,Seneca Steel,2015-07-12,13209,7646,IW Journeyman,60.0,28.70,2219.00,1496.22,Male,White,0,0,1,1,36,1
+Lakeview,Seneca Steel,2015-07-12,13080,0059,IW Journeyman,60.0,28.70,2009.00,1320.98,Male,White,0,0,1,1,36,2
+Lakeview,Seneca Steel,2015-07-12,13655,0530,IW Journeyman,54.0,28.70,1779.40,1125.04,Male,Native American,0,0,1,1,36,3
+Lakeview,Seneca Steel,2015-07-12,13114,4540,IW Journeyman,52.0,28.70,1693.30,1183.01,Male,White,0,0,1,1,36,4
+Lakeview,Seneca Steel,2015-07-12,13142,7102,IW Journeyman,46.0,28.70,1435.00,989.15,Male,White,0,0,1,1,36,5
+Lakeview,Seneca Steel,2015-07-12,13471,9802,IW Journeyman,41.0,28.70,1334.55,949.37,Male,White,0,0,1,1,36,6
+Lakeview,Seneca Steel,2015-07-12,13120,9377,IW Journeyman,5.0,28.70,143.50,123.31,Male,Native American,0,0,1,1,36,7
+Lakeview,Seneca Steel,2015-07-12,13069,0368,IW Journeyman,36.0,28.70,1119.30,784.91,Male,White,0,0,1,1,36,8
+Lakeview,Seneca Steel,2015-07-19,12186,4106,Clerical ,40.0,15.00,600.00,456.36,Female,White,0,0,1,1,38,1
+Lakeview,Seneca Steel,2015-07-19,14433,5632,IW Apprentice,24.0,19.00,456.00,325.77,Male,Black,0,0,1,1,38,2
+Lakeview,Seneca Steel,2015-07-19,14129,8510,IW Journeyman,25.5,33.00,880.17,,Male,Native American,0,0,1,1,38,3
+Lakeview,Seneca Steel,2015-07-19,13302,1879,IW Journeyman,16.0,19.00,459.20,390.51,Male,White,0,0,1,1,38,4
+Lakeview,Seneca Steel,2015-07-19,13057,9147,IW Apprentice,23.0,20.50,437.00,371.84,Male,White,0,0,1,1,38,5
+Lakeview,Seneca Steel,2015-07-19,13316,6536,IW Journeyman,6.0,28.70,172.20,148.01,Male,White,0,0,1,1,38,6
+Lakeview,Seneca Steel,2015-07-19,13316,5356,IW Journeyman,24.0,31.70,760.80,551.46,Male,White,0,0,1,1,38,7
+Lakeview,Seneca Steel,2015-07-19,13027,1990,IW Journeyman,24.0,19.00,760.80,1346.53,Male,Native American,0,0,1,1,38,8
+Lakeview,Seneca Steel,2015-07-19,13126,0233,IW Apprentice,8.0,19.00,152.00,130.65,Male,White,0,0,1,1,39,1
+Lakeview,Seneca Steel,2015-07-19,13120,5720,IW Journeyman,8.0,28.70,229.60,197.66,Male,Native American,0,0,1,1,39,2
+Lakeview,Seneca Steel,2015-07-19,13120,0085,IW Journeyman,16.0,28.70,459.20,340.50,Male,Native American,0,0,1,1,39,3
+Lakeview,Seneca Steel,2015-07-19,13090,6705,IW Journeyman,16.0,28.70,459.20,328.36,Male,White,0,0,1,1,39,4
+Lakeview,Seneca Steel,2015-07-19,13027,5836,IW Journeyman,16.0,28.70,459.20,328.37,Male,White,0,0,1,1,39,5
+Lakeview,Seneca Steel,2015-07-19,13209,7646,IW Journeyman,24.0,28.70,760.80,590.18,Male,White,0,0,1,1,39,6
+Lakeview,Seneca Steel,2015-07-19,13080,0059,IW Journeyman,24.0,28.70,760.80,551.46,Male,White,0,0,1,1,39,7
