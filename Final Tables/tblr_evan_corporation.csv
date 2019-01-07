@@ -1,0 +1,5 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Evan Corporation,2015-08-16,,1074,Ironworker,34.0,45.00,1530.00,1277.89,,White,0,0,0,1,1,1
+Lakeview,Evan Corporation,2015-08-16,,5395,Ironworker,34.0,28.70,975.80,692.55,,White,0,0,0,1,1,2
+Lakeview,Evan Corporation,2015-08-16,,2988,Ironworker,32.0,28.70,918.40,611.71,,White,0,0,0,1,1,3
+Lakeview,Evan Corporation,2015-08-16,,6942,Ironworker,32.0,28.70,918.40,665.44,,Hispanic,0,0,0,1,1,4
