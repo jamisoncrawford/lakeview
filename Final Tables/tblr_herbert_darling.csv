@@ -1,0 +1,163 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Herbert Darling,2015-03-01,14131,8896,Crane Op PD 100,43.0,35.93,1616.85,1139.50,Male,Hispanic,0,0,1,1,1,1
+Lakeview,Herbert Darling,2015-03-01,13212,8637,Piledriver Journeyman,36.5,26.40,983.40,657.75,Male,White,0,0,1,1,1,2
+Lakeview,Herbert Darling,2015-03-01,13120,9497,A-Operator,40.0,32.43,1313.42,911.39,Male,Native American,0,0,1,1,1,3
+Lakeview,Herbert Darling,2015-03-08,14131,8896,Crane Op PD 150,59.0,37.68,1581.08,1694.12,Male,Hispanic,0,0,1,1,3,1
+Lakeview,Herbert Darling,2015-03-08,13212,8637,Piledriver Journeyman,60.0,26.65,1812.20,1114.27,Male,White,0,0,1,1,3,2
+Lakeview,Herbert Darling,2015-03-08,14075,8006,Piledriver Foreman,56.5,38.17,2490.59,1409.72,Male,White,0,0,1,1,3,3
+Lakeview,Herbert Darling,2015-03-08,13042,3984,Crane Op PD 150,15.0,37.68,734.76,451.52,Male,White,0,0,1,1,3,4
+Lakeview,Herbert Darling,2015-03-08,13042,3984,Crane Op Lattice,38.0,34.18,1418.47,870.02,Male,White,0,0,1,1,3,5
+Lakeview,Herbert Darling,2015-03-08,13120,9497,A-Operator,56.0,32.43,2075.52,1369.32,Male,Native American,0,0,1,1,3,6
+Lakeview,Herbert Darling,2015-03-08,13069,2450,Piledriver Journeyman,55.0,26.65,1678.95,1158.21,Male,White,0,0,1,1,3,7
+Lakeview,Herbert Darling,2015-03-08,13027,1450,Piledriver Journeyman,15.5,26.65,533.00,379.55,Female,Hispanic,0,0,1,1,3,8
+Lakeview,Herbert Darling,2015-03-08,13212,1243,Piledriver Welder,55.0,27.65,1741.95,1034.35,Male,White,0,0,1,1,3,9
+Lakeview,Herbert Darling,2015-03-08,13156,9540,Piledriver Welder,55.0,27.65,1741.95,1079.14,Male,White,0,0,1,1,4,1
+Lakeview,Herbert Darling,2015-03-15,14131,8896,Crane Op PD 150,62.0,37.68,2750.64,1787.29,Male,Hispanic,0,0,1,1,6,1
+Lakeview,Herbert Darling,2015-03-15,14051,4840,Piledriver Foreman,47.5,38.17,2137.52,1428.67,Male,White,0,0,1,1,6,2
+Lakeview,Herbert Darling,2015-03-15,13212,8637,Piledriver Journeyman,30.0,26.65,879.45,552.50,Male,White,0,0,1,1,6,3
+Lakeview,Herbert Darling,2015-03-15,13212,8637,Piledriver Welder,21.0,27.65,649.78,410.88,Male,White,0,0,1,1,6,4
+Lakeview,Herbert Darling,2015-03-15,14075,8006,Piledriver Foreman,59.0,38.17,2614.65,1478.23,Male,White,0,0,1,1,6,5
+Lakeview,Herbert Darling,2015-03-15,13042,3984,Crane Op PD 150,59.0,37.68,25.81.08,1561.36,Male,White,0,0,1,1,6,6
+Lakeview,Herbert Darling,2015-03-15,14057,7504,Piledriver Welder,47.5,33.55,1878.80,1132.47,Male,White,0,0,1,1,6,7
+Lakeview,Herbert Darling,2015-03-15,13120,9497,A-Operator,59.0,32.43,2221.46,1449.77,Male,Native American,0,0,1,1,6,8
+Lakeview,Herbert Darling,2015-03-15,13069,2450,Piledriver Journeyman,58.0,26.65,1785.55,1230.65,Male,White,0,0,1,1,6,9
+Lakeview,Herbert Darling,2015-03-15,14220,3701,4th Yr Appr Piledriver,47.5,26.65,1492.40,901.53,Male,White,0,0,1,1,6,10
+Lakeview,Herbert Darling,2015-03-15,13215,8621,Crane Op Lattice,46.5,34.18,1862.81,1254.29,Male,White,0,0,1,1,7,1
+Lakeview,Herbert Darling,2015-03-15,13027,1450,Piledriver Journeyman,55.5,26.65,1685.61,1027.93,Female,Hispanic,0,0,1,1,7,2
+Lakeview,Herbert Darling,2015-03-15,13212,1243,Piledriver Welder,57.0,27.65,1811.08,1116.70,Male,White,0,0,1,1,7,3
+Lakeview,Herbert Darling,2015-03-15,13156,9540,Piledriver Welder,59.0,27.65,1894.03,1167.00,Male,White,0,0,1,1,7,4
+Lakeview,Herbert Darling,2015-03-22,14131,8896,Crane Op PD 150,68.5,37.68,3118.02,1989.14,Male,Hispanic,0,0,1,1,9,1
+Lakeview,Herbert Darling,2015-03-22,14051,4840,Piledriver Foreman,66.0,38.17,3015.43,1972.30,Male,White,0,0,1,1,9,2
+Lakeview,Herbert Darling,2015-03-22,13212,8637,Piledriver Welder,66.0,27.65,2184.35,1318.57,Male,White,0,0,1,1,9,3
+Lakeview,Herbert Darling,2015-03-22,14075,9686,Piledriver Welder,53.0,33.55,2147.20,1255.77,Male,White,0,0,1,1,9,4
+Lakeview,Herbert Darling,2015-03-22,14075,8006,Piledriver Foreman,66.0,38.17,3015.43,1687.58,Male,White,0,0,1,1,9,5
+Lakeview,Herbert Darling,2015-03-22,13042,3984,Crane Op PD 150,66.0,37.68,2976.72,1765.70,Male,White,0,0,1,1,9,6
+Lakeview,Herbert Darling,2015-03-22,14057,7504,Piledriver Welder,66.0,33.55,2650.45,1534.84,Male,White,0,0,1,1,9,7
+Lakeview,Herbert Darling,2015-03-22,13120,9497,A-Operator,63.0,32.43,2416.04,1556.21,Male,Native American,0,0,1,1,9,8
+Lakeview,Herbert Darling,2015-03-22,13069,2450,Piledriver Journeyman,66.0,26.65,2105.35,1411.35,Male,White,0,0,1,1,9,9
+Lakeview,Herbert Darling,2015-03-22,14220,3701,4th Yr Appr Piledriver,66.0,26.65,2105.35,1251.48,Male,White,0,0,1,1,9,10
+Lakeview,Herbert Darling,2015-03-22,13215,8621,Crane Op Lattice,66.0,34.18,2700.22,1776.22,Male,White,0,0,1,1,10,1
+Lakeview,Herbert Darling,2015-03-22,13027,1450,Piledriver Journeyman,54.0,26.65,1732.25,1059.64,Female,Hispanic,0,0,1,1,10,2
+Lakeview,Herbert Darling,2015-03-22,13212,1243,Piledriver Welder,66.0,27.65,2184.35,1316.56,Male,White,0,0,1,1,10,3
+Lakeview,Herbert Darling,2015-03-22,13156,9540,Piledriver Welder,66.0,27.65,2184.35,1318.57,Male,White,0,0,1,1,10,4
+Lakeview,Herbert Darling,2015-03-29,14131,8896,Crane Op PD 150,64.5,37.68,2891.94,1864.93,Male,Hispanic,0,0,1,1,12,1
+Lakeview,Herbert Darling,2015-03-29,14051,4840,Piledriver Foreman,61.5,38.17,2776.88,1833.82,Male,White,0,0,1,1,12,2
+Lakeview,Herbert Darling,2015-03-29,13212,8637,Piledriver Welder,64.0,27.65,2115.23,1283.86,Male,White,0,0,1,1,12,3
+Lakeview,Herbert Darling,2015-03-29,14075,9686,Piledriver Welder,62.5,33.55,2474.31,1443.67,Male,White,0,0,1,1,12,4
+Lakeview,Herbert Darling,2015-03-29,14075,8006,Piledriver Foreman,61.5,38.17,2776.88,1559.49,Male,White,0,0,1,1,12,5
+Lakeview,Herbert Darling,2015-03-29,13042,3984,Crane Op PD 150,61.5,37.68,2741.22,1644.35,Male,White,0,0,1,1,12,6
+Lakeview,Herbert Darling,2015-03-29,14057,7504,Piledriver Welder,62.5,33.55,2474.31,1443.67,Male,White,0,0,1,1,12,7
+Lakeview,Herbert Darling,2015-03-29,13120,9497,A-Operator,61.5,32.43,2359.28,1525.44,Male,Native American,0,0,1,1,12,8
+Lakeview,Herbert Darling,2015-03-29,13069,2450,Piledriver Journeyman,55.5,26.65,1698.94,1175.02,Male,White,0,0,1,1,12,9
+Lakeview,Herbert Darling,2015-03-29,14220,3701,4th Yr Appr Piledriver,62.5,23.30,2382.13,1414.30,Male,White,0,0,1,1,12,10
+Lakeview,Herbert Darling,2015-03-29,13215,8621,Crane Op Lattice,59.5,34.18,2384.06,1603.27,Male,White,0,0,1,1,13,1
+Lakeview,Herbert Darling,2015-03-29,13027,1450,Piledriver Journeyman,59.5,26.65,1858.84,1123.99,Female,Hispanic,0,0,1,1,13,2
+Lakeview,Herbert Darling,2015-03-29,13212,1243,Piledriver Welder,26.5,27.65,767.29,527.65,Male,White,0,0,1,1,13,3
+Lakeview,Herbert Darling,2015-03-29,13156,9540,Piledriver Welder,61.0,27.65,1990.80,1219.77,Male,White,0,0,1,1,13,4
+Lakeview,Herbert Darling,2015-04-05,14892,9804,Piledriver Foreman,43.0,42.17,2066.33,1205.86,Male,White,0,0,1,1,15,1
+Lakeview,Herbert Darling,2015-04-05,14131,8896,Crane Op PD 150,58.5,37.68,2552.82,1678.59,Male,Hispanic,0,0,1,1,15,2
+Lakeview,Herbert Darling,2015-04-05,14224,3701,Piledriver Welder,43.0,33.55,1643.95,969.01,Male,White,0,0,1,1,15,3
+Lakeview,Herbert Darling,2015-04-05,14051,4840,Piledriver Foreman,56.0,38.17,2442.88,1654.34,Male,White,0,0,1,1,15,4
+Lakeview,Herbert Darling,2015-04-05,13212,8637,Piledriver Welder,56.0,27.65,1769.60,1098.29,Male,White,0,0,1,1,15,5
+Lakeview,Herbert Darling,2015-04-05,14075,9686,Piledriver Welder,44.0,33.55,1669.12,1023.52,Male,White,0,0,1,1,15,6
+Lakeview,Herbert Darling,2015-04-05,14075,8006,Piledriver Foreman,56.0,38.17,2442.88,1388.50,Male,White,0,0,1,1,15,7
+Lakeview,Herbert Darling,2015-04-05,13042,3984,Crane Op PD 150,56.0,37.68,2411.52,1473.79,Male,White,0,0,1,1,15,8
+Lakeview,Herbert Darling,2015-04-05,14057,7504,Piledriver Welder,56.0,33.55,2147.20,1274.18,Male,White,0,0,1,1,15,9
+Lakeview,Herbert Darling,2015-04-05,13120,9497,A-Operator,56.0,32.43,2075.52,1369.32,Male,Native American,0,0,1,1,15,10
+Lakeview,Herbert Darling,2015-04-05,13069,2450,Piledriver Journeyman,56.0,26.65,1705.60,1178.61,Male,White,0,0,1,1,16,1
+Lakeview,Herbert Darling,2015-04-05,14220,3701,4th Yr Appr Piledriver,56.0,32.30,2067.20,1248.92,Male,White,0,0,1,1,16,2
+Lakeview,Herbert Darling,2015-04-05,13090,4210,Crane Operator,32.0,32.93,1185.48,785.34,Male,White,0,0,1,1,16,3
+Lakeview,Herbert Darling,2015-04-05,13215,8621,Crane Op PD 150,52.0,35.93,2083.94,1439.35,Male,White,0,0,1,1,16,4
+Lakeview,Herbert Darling,2015-04-05,13027,1450,Piledriver Journeyman,52.0,26.65,1545.70,950.67,Female,Hispanic,0,0,1,1,16,5
+Lakeview,Herbert Darling,2015-04-05,13212,1243,Piledriver Welder,4.0,27.65,165.90,119.13,Male,White,0,1,1,1,16,6
+Lakeview,Herbert Darling,2015-04-05,13156,9540,Piledriver Welder,56.0,27.65,1769.60,1098.29,Male,White,0,0,1,1,16,7
+Lakeview,Herbert Darling,2015-04-05,13402,4550,Piledriver Journeyman,24.0,26.65,746.20,545.49,Male,White,0,0,1,1,16,8
+Lakeview,Herbert Darling,2015-04-05,13104,9590,Piledriver Journeyman,20.0,26.65,586.30,413.54,Female,White,0,0,1,1,17,1
+Lakeview,Herbert Darling,2015-04-12,14892,9804,Piledriver Foreman,22.5,42.17,1085.88,690.88,Male,White,0,0,1,1,19,1
+Lakeview,Herbert Darling,2015-04-12,14131,8896,Crane Op PD 150,67.5,37.68,3061.50,1958.09,Male,Hispanic,0,0,1,1,19,2
+Lakeview,Herbert Darling,2015-04-12,14224,3701,Piledriver Welder,62.0,33.55,2449.15,1430.66,Male,White,0,0,1,1,19,3
+Lakeview,Herbert Darling,2015-04-12,14051,4840,Piledriver Foreman,64.5,38.17,2929.55,1924.61,Male,White,0,0,1,1,19,4
+Lakeview,Herbert Darling,2015-04-12,13212,8637,Piledriver Welder,65.0,27.65,2142.88,1297.29,Male,White,0,0,1,1,19,5
+Lakeview,Herbert Darling,2015-04-12,14075,9686,Piledriver Welder,64.5,33.55,2574.96,1495.77,Male,White,0,0,1,1,19,6
+Lakeview,Herbert Darling,2015-04-12,14075,8006,Piledriver Foreman,64.5,38.17,2929.55,1642.72,Male,White,0,0,1,1,19,7
+Lakeview,Herbert Darling,2015-04-12,13042,3984,Crane Op PD 150,64.5,37.68,2891.94,1721.92,Male,White,0,0,1,1,19,8
+Lakeview,Herbert Darling,2015-04-12,14057,7504,Piledriver Welder,63.5,33.55,2541.41,1474.38,Male,White,0,0,1,1,19,9
+Lakeview,Herbert Darling,2015-04-12,13120,9497,A-Operator,64.5,32.43,2489.00,1596.13,Male,Native American,0,0,1,1,19,10
+Lakeview,Herbert Darling,2015-04-12,13069,2450,Piledriver Journeyman,68.5,36.65,2205.29,1465.70,Male,White,0,0,1,1,20,1
+Lakeview,Herbert Darling,2015-04-12,14220,3701,4th Yr Appr Piledriver,63.5,32.30,2446.73,1444.31,Male,White,0,0,1,1,20,2
+Lakeview,Herbert Darling,2015-04-12,13090,4210,Crane Operator,22.5,32.93,847.95,598.33,Male,White,0,0,1,1,20,3
+Lakeview,Herbert Darling,2015-04-12,13215,8621,Crane Op PD 100,68.5,35.93,2973.21,1928.16,Male,White,0,0,1,1,20,4
+Lakeview,Herbert Darling,2015-04-12,13027,1450,Piledriver Journeyman,36.5,26.65,1139.29,738.35,Female,Hispanic,0,0,1,1,20,5
+Lakeview,Herbert Darling,2015-04-12,13156,9540,Piledriver Welder,42.0,27.65,1410.15,911.29,Male,White,0,0,1,1,20,6
+Lakeview,Herbert Darling,2015-04-12,13402,4550,Piledriver Journeyman,64.5,26.65,2045.39,1337.47,Male,White,0,0,1,1,20,7
+Lakeview,Herbert Darling,2015-04-12,13104,9590,Piledriver Journeyman,64.5,26.65,2045.39,1220.08,Female,White,0,0,1,1,20,8
+Lakeview,Herbert Darling,2015-04-12,13492,818,Piledriver Journeyman,32.0,26.65,1066.00,724.41,Male,White,0,0,1,1,21,1
+Lakeview,Herbert Darling,2015-04-26,14131,8896,Crane Op PD 150,68.0,37.68,3089.76,1973.62,Male,Hispanic,0,0,1,1,23,1
+Lakeview,Herbert Darling,2015-04-26,14051,4840,Piledriver Foreman,68.0,38.17,3129.94,2035.90,Male,White,0,0,1,1,23,2
+Lakeview,Herbert Darling,2015-04-26,13212,8637,Piledriver Welder,60.0,27.65,1935.50,1189.89,Male,White,0,0,1,1,23,3
+Lakeview,Herbert Darling,2015-04-26,14075,9686,Piledriver Welder,68.0,33.55,2751.10,1586.94,Male,White,0,0,1,1,23,4
+Lakeview,Herbert Darling,2015-04-26,14075,8006,Piledriver Foreman,68.0,38.17,3129.94,1747.40,Male,White,0,0,1,1,23,5
+Lakeview,Herbert Darling,2015-04-26,13042,3984,Crane Op PD 150,68.0,37.68,3089.76,1824.07,Male,White,0,0,1,1,23,6
+Lakeview,Herbert Darling,2015-04-26,14057,7504,Piledriver Welder,60.0,33.55,2348.50,1378.55,Male,White,0,0,1,1,23,7
+Lakeview,Herbert Darling,2015-04-26,13120,9497,A-Operator,68.0,32.43,2659.20,1689.28,Male,Native American,0,0,1,1,23,8
+Lakeview,Herbert Darling,2015-04-26,13069,2450,Piledriver Journeyman,66.0,26.65,2105.30,1411.35,Male,White,0,0,1,1,23,9
+Lakeview,Herbert Darling,2015-04-26,14220,3701,4th Yr Appr Piledriver,68.0,32.30,2648.60,1553.74,Male,White,0,0,1,1,23,10
+Lakeview,Herbert Darling,2015-04-26,13215,8621,Crane Op PD 100,68.0,35.93,2946.26,1913.38,Male,White,0,0,1,1,24,1
+Lakeview,Herbert Darling,2015-04-26,13027,1450,Piledriver Journeyman,58.0,26.65,1785.55,1082.92,Female,Hispanic,0,0,1,1,24,2
+Lakeview,Herbert Darling,2015-04-26,13156,9540,Piledriver Welder,60.0,27.65,1935.50,1189.89,Male,White,0,0,1,1,24,3
+Lakeview,Herbert Darling,2015-04-26,13402,4550,Piledriver Journeyman,68.0,26.65,2185.30,1413.57,Male,White,0,0,1,1,24,4
+Lakeview,Herbert Darling,2015-04-26,13104,9590,Piledriver Journeyman,68.0,26.65,2185.30,1291.56,Female,White,0,0,1,1,24,5
+Lakeview,Herbert Darling,2015-04-26,13464,681,Piledriver Welder,68.0,27.65,2267.30,1337.79,Male,White,0,0,1,1,24,6
+Lakeview,Herbert Darling,2015-05-03,14131,8896,Crane Op PD 150,70.5,37.68,3231.06,2051.13,Male,Hispanic,0,0,1,1,26,1
+Lakeview,Herbert Darling,2015-05-03,14051,4840,Piledriver Foreman,68.5,38.17,3158.57,2051.80,Male,White,0,0,1,1,26,2
+Lakeview,Herbert Darling,2015-05-03,13212,8637,Piledriver Welder,59.0,27.65,1894.03,1167.00,Male,White,0,0,1,1,26,3
+Lakeview,Herbert Darling,2015-05-03,14075,9686,Piledriver Welder,51.0,33.55,2029.78,1218.87,Male,White,0,0,1,1,26,4
+Lakeview,Herbert Darling,2015-05-03,14075,8006,Piledriver Foreman,68.5,38.17,3158.57,1762.35,Male,White,0,0,1,1,26,5
+Lakeview,Herbert Darling,2015-05-03,13042,3984,Crane Op PD 150,67.0,37.68,3033.24,1794.89,Male,White,0,0,1,1,26,6
+Lakeview,Herbert Darling,2015-05-03,14057,7504,Piledriver Welder,59.0,33.55,2298.18,1352.51,Male,White,0,0,1,1,26,7
+Lakeview,Herbert Darling,2015-05-03,13120,9497,A-Operator,68.0,32.43,2659.26,1689.28,Male,Native American,0,0,1,1,26,8
+Lakeview,Herbert Darling,2015-05-03,13069,2450,Piledriver Journeyman,24.0,36.65,746.20,570.81,Male,White,0,0,1,1,26,9
+Lakeview,Herbert Darling,2015-05-03,14220,3701,4th Yr Appr Piledriver,67.0,32.30,2600.15,1528.40,Male,White,0,0,1,1,26,10
+Lakeview,Herbert Darling,2015-05-03,13215,8621,Crane Op PD 100,67.0,35.93,2892.37,1883.80,Male,White,0,0,1,1,27,1
+Lakeview,Herbert Darling,2015-05-03,13027,1450,Piledriver Journeyman,64.0,26.65,2025.40,1209.88,Female,Hispanic,0,0,1,1,27,2
+Lakeview,Herbert Darling,2015-05-03,13156,9540,Piledriver Welder,59.0,27.65,1894.03,1167.00,Male,White,0,0,1,1,27,3
+Lakeview,Herbert Darling,2015-05-03,13402,4550,Piledriver Journeyman,67.0,26.65,2145.33,1391.83,Male,White,0,0,1,1,27,4
+Lakeview,Herbert Darling,2015-05-03,13104,9590,Piledriver Journeyman,24.0,26.65,746.20,517.82,Female,White,0,0,1,1,27,5
+Lakeview,Herbert Darling,2015-05-03,13464,681,Piledriver Welder,55.0,27.65,1838.73,1122.01,Male,White,0,0,1,1,27,6
+Lakeview,Herbert Darling,2015-05-03,14131,8896,Crane Op PD 150,70.5,37.68,3231.06,2051.13,Male,Hispanic,0,0,1,1,29,1
+Lakeview,Herbert Darling,2015-05-03,14051,4840,Piledriver Foreman,68.5,38.17,3158.57,2051.80,Male,White,0,0,1,1,29,2
+Lakeview,Herbert Darling,2015-05-03,13212,8637,Piledriver Welder,59.0,27.65,1894.03,1167.00,Male,White,0,0,1,1,29,3
+Lakeview,Herbert Darling,2015-05-03,14075,9686,Piledriver Welder,51.0,33.55,2029.78,1218.87,Male,White,0,0,1,1,29,4
+Lakeview,Herbert Darling,2015-05-03,14075,8006,Piledriver Foreman,68.5,38.17,3158.57,1762.35,Male,White,0,0,1,1,29,5
+Lakeview,Herbert Darling,2015-05-03,13042,3984,Crane Op PD 150,67.0,37.68,3033.24,1794.89,Male,White,0,0,1,1,29,6
+Lakeview,Herbert Darling,2015-05-03,14057,7504,Piledriver Welder,59.0,33.55,2298.18,1352.51,Male,White,0,0,1,1,29,7
+Lakeview,Herbert Darling,2015-05-03,13120,9497,A-Operator,68.0,32.43,2659.26,1689.28,Male,Native American,0,0,1,1,29,8
+Lakeview,Herbert Darling,2015-05-03,13069,2450,Piledriver Journeyman,24.0,26.65,746.20,570.81,Male,White,0,0,1,1,29,9
+Lakeview,Herbert Darling,2015-05-03,14220,3701,4th Yr Appr Piledriver,67.0,32.30,2600.15,1528.40,Male,White,0,0,1,1,29,10
+Lakeview,Herbert Darling,2015-05-03,13215,8621,Crane Op PD 100,67.0,35.93,2892.37,1883.80,Male,White,0,0,1,1,30,1
+Lakeview,Herbert Darling,2015-05-03,13027,1450,Piledriver Journeyman,64.0,26.65,2025.40,1209.88,Female,Hispanic,0,0,1,1,30,2
+Lakeview,Herbert Darling,2015-05-03,13156,9540,Piledriver Welder,59.0,27.65,1894.03,1167.00,Male,White,0,0,1,1,30,3
+Lakeview,Herbert Darling,2015-05-03,13402,4550,Piledriver Journeyman,67.0,26.65,2145.33,1391.83,Male,White,0,0,1,1,30,4
+Lakeview,Herbert Darling,2015-05-03,13104,9590,Piledriver Journeyman,24.0,26.65,746.20,517.82,Female,White,0,0,1,1,30,5
+Lakeview,Herbert Darling,2015-05-03,13464,681,Piledriver Welder,55.0,27.65,1838.73,1122.01,Male,White,0,0,1,1,30,6
+Lakeview,Herbert Darling,2015-05-10,14131,8896,Crane Op PD 150,55.0,37.68,23.55,1569.89,Male,Hispanic,0,0,1,1,32,1
+Lakeview,Herbert Darling,2015-05-10,14051,4840,Piledriver Foreman,56.0,38.17,2442.88,1654.34,Male,White,0,0,1,1,32,2
+Lakeview,Herbert Darling,2015-05-10,13212,8637,Piledriver Welder,52.5,27.65,1624.44,1017.96,Male,White,0,0,1,1,32,3
+Lakeview,Herbert Darling,2015-05-10,14075,8006,Piledriver Foreman,56.0,38.17,2442.88,1388.50,Male,White,0,0,1,1,32,4
+Lakeview,Herbert Darling,2015-05-10,13042,3984,Crane Op PD 150,57.0,37.68,2468.04,1502.99,Male,White,0,0,1,1,32,5
+Lakeview,Herbert Darling,2015-05-10,14057,7504,Piledriver Welder,54.0,33.55,2046.55,1221.59,Male,White,0,0,1,1,32,6
+Lakeview,Herbert Darling,2015-05-10,13120,9497,A-Operator,56.0,32.43,2075.52,1369.32,Male,Native American,0,0,1,1,32,7
+Lakeview,Herbert Darling,2015-05-10,14220,3701,4th Yr Appr Piledriver,54.0,32.30,1970.30,1197.64,Male,White,0,0,1,1,32,8
+Lakeview,Herbert Darling,2015-05-10,13215,8621,Crane Op PD 100,46.0,35.93,1904.29,1341.18,Male,White,0,0,1,1,32,9
+Lakeview,Herbert Darling,2015-05-10,13027,1450,Piledriver Journeyman,56.0,26.65,1705.60,1038.92,Female,Hispanic,0,0,1,1,32,10
+Lakeview,Herbert Darling,2015-05-10,13156,9540,Piledriver Welder,57.0,27.65,1811.08,1121.19,Male,White,0,0,1,1,33,1
+Lakeview,Herbert Darling,2015-05-10,13402,4550,Piledriver Journeyman,57.0,26.65,1745.58,1172.74,Male,White,0,0,1,1,33,2
+Lakeview,Herbert Darling,2015-05-10,13464,681,Piledriver Welder,45.0,27.65,1423.98,892.44,Male,White,0,0,1,1,33,3
+Lakeview,Herbert Darling,2015-05-17,13212,8637,Piledriver Welder,24.0,27.65,663.60,472.03,Male,White,0,0,1,1,35,1
+Lakeview,Herbert Darling,2015-05-17,14075,8006,Piledriver Foreman,16.0,38.17,610.71,356.14,Male,White,0,0,1,1,35,2
+Lakeview,Herbert Darling,2015-05-17,13042,3984,Crane Op PD 150,16.0,37.68,602.88,451.15,Male,White,0,0,1,1,35,3
+Lakeview,Herbert Darling,2015-05-17,13120,9497,A-Operator,24.0,32.43,778.32,565.45,Male,Native American,0,0,1,1,35,4
+Lakeview,Herbert Darling,2015-05-17,13027,1450,Piledriver Journeyman,24.0,26.65,639.60,442.24,Female,Hispanic,0,0,1,1,35,5
+Lakeview,Herbert Darling,2015-05-17,13156,9540,Piledriver Journeyman,24.0,26.65,639.60,455.02,Male,White,0,0,1,1,35,6
+Lakeview,Herbert Darling,2015-05-17,13402,4550,Piledriver Journeyman,16.0,26.65,426.40,289.56,Male,White,0,0,1,1,35,7
+Lakeview,Herbert Darling,2015-05-17,13464,681,Piledriver Journeyman,8.0,26.65,213.20,166.83,Male,White,0,0,1,1,35,8
