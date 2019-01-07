@@ -1,0 +1,48 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Davis Ulmer,2015-06-07,13030,6189,Sprinkler Fitter Journeyman,31.7,31.66,94.98,397.16,Male,White,0,0,1,1,2,1
+Lakeview,Davis Ulmer,2015-06-14,13212,5444,Sprinkler Fitter Apprentice,40.0,19.00,760.00,591.42,Male,Black,0,0,1,1,4,1
+Lakeview,Davis Ulmer,2015-06-14,13030,6189,Sprinkler Fitter Journeyman,40.0,34.41,1376.40,954.58,Male,White,0,0,1,1,4,2
+Lakeview,Davis Ulmer,2015-06-14,13044,6302,Sprinkler Fitter Apprentice,2.0,15.83,31.66,445.60,Male,White,0,0,1,1,4,3
+Lakeview,Davis Ulmer,2015-06-21,13212,5444,Sprinkler Fitter Apprentice,38.0,19.00,722.00,565.22,Male,Black,0,0,1,1,6,1
+Lakeview,Davis Ulmer,2015-06-21,13030,6189,Sprinkler Fitter Journeyman,40.0,34.41,1376.40,954.57,Male,White ,0,0,1,1,6,2
+Lakeview,Davis Ulmer,2015-06-28,13206,8181,Sprinkler Fitter Journeyman,37.0,31.66,1250.57,1008.70,Male,White,0,0,1,1,8,1
+Lakeview,Davis Ulmer,2015-06-28,13212,5444,Sprinkler Fitter Apprentice,45.0,19.00,902.50,687.02,Male,Black,0,0,1,1,8,2
+Lakeview,Davis Ulmer,2015-06-28,13030,6189,Sprinkler Fitter Journeyman,45.0,34.41,1634.48,1119.86,Male ,White ,0,0,1,1,8,3
+Lakeview,Davis Ulmer,2015-06-28,13044,6302,Sprinkler Fitter Apprentice,37.0,15.83,625.29,536.30,Male,White,0,0,1,1,8,4
+Lakeview,Davis Ulmer,2015-07-05,13212,5444,Sprinkler Fitter Apprentice,36.0,19.00,684.00,540.04,Male,Black ,0,0,1,2,1,1
+Lakeview,Davis Ulmer,2015-07-05,13030,6189,Sprinkler Fitter Journeyman,36.0,34.41,1238.76,867.82,Male,White,0,0,1,2,1,2
+Lakeview,Davis Ulmer,2015-07-12,13212,5444,Sprinkler Fitter Apprentice,44.0,19.00,874.00,668.49,Male,Black ,0,0,1,2,3,1
+Lakeview,Davis Ulmer,2015-07-12,13030,6189,Sprinkler Fitter Journeyman,44.0,34.41,1582.87,1087.01,Male,White,0,0,1,2,3,2
+Lakeview,Davis Ulmer,2015-07-12,13044,6302,Sprinkler Fitter Apprentice,8.0,15.83,126.64,413.61,Male,White,0,0,1,2,3,3
+Lakeview,Davis Ulmer,2015-07-19,13039,9738,Sprinkler Fitter Apprentice,18.0,19.00,646.00,913.95,Male,White,0,0,1,2,5,1
+Lakeview,Davis Ulmer,2015-07-19,13206,8181,Sprinkler Fitter Journeyman,10.0,31.66,474.90,1153.15,Male,White ,0,1,1,2,5,2
+Lakeview,Davis Ulmer,2015-07-19,13212,5444,Sprinkler Fitter Apprentice,46.0,19.00,931.00,706.53,Male,Black,0,0,1,2,5,3
+Lakeview,Davis Ulmer,2015-07-19,13476,2286,Sprinkler Fitter Journeyman,24.0,38.28,1061.52,1248.90,Male,White,0,0,1,2,5,4
+Lakeview,Davis Ulmer,2015-07-19,13030,6189,Sprinkler Fitter Journeyman,56.0,34.41,2202.26,1438.22,Male,White,0,0,1,2,6,1
+Lakeview,Davis Ulmer,2015-07-19,13044,6302,Sprinkler Fitter Apprentice,6.0,15.83,142.47,550.85,Male,White,0,1,1,2,6,2
+Lakeview,Davis Ulmer,2015-07-19,13088,2486,Sprinkler Fitter Journeyman,28.0,31.66,1076.44,1131.04,Male,White ,0,0,1,2,6,3
+Lakeview,Davis Ulmer,2015-07-19,13164,0016,Sprinkler Fitter Apprentice,43.0,19.53,870.01,623.81,Male,White,0,0,1,2,6,4
+Lakeview,Davis Ulmer,2015-07-19,13108,5141,Sprinkler Fitter Apprentice,8.0,23.75,190.00,522.40,Female,White,0,0,1,2,7,1
+Lakeview,Davis Ulmer,2015-07-19,13211,3499,Sprinkler Fitter Apprentice,10.0,26.91,403.65,882.83,Male,White,0,1,1,2,7,2
+Lakeview,Davis Ulmer,2015-07-19,13031,2081,Sprinkler Fitter Journeyman,49.0,38.72,2075.73,1340.75,Male,White ,0,0,1,2,7,3
+Lakeview,Davis Ulmer,2015-07-26,13039,9738,Sprinkler Fitter Apprentice,40.0,19.00,760.00,606.14,male,White,0,0,1,2,9,1
+Lakeview,Davis Ulmer,2015-07-26,13206,8181,Sprinkler Fitter Journeyman,24.0,31.66,759.84,765.53,Male,White ,0,0,1,2,9,2
+Lakeview,Davis Ulmer,2015-07-26,13212,5444,Sprinkler Fitter Apprentice,40.0,19.00,760.00,591.42,Male,Black,0,0,1,2,9,3
+Lakeview,Davis Ulmer,2015-07-26,13476,2286,Sprinkler Fitter Journeyman,40.0,36.41,1456.40,911.42,Male,White,0,0,1,2,9,4
+Lakeview,Davis Ulmer,2015-07-26,13030,6189,Sprinkler Fitter Journeyman,40.0,34.41,1376.40,954.57,Male,White,0,0,1,2,10,1
+Lakeview,Davis Ulmer,2015-07-26,13044,6302,Sprinkler Fitter Apprentice,8.0,15.83,126.64,456.53,Male,White,0,0,1,2,10,2
+Lakeview,Davis Ulmer,2015-07-26,13088,2486,Sprinkler Fitter Journeyman,8.0,31.66,253.28,833.67,Male,White ,0,0,1,2,10,3
+Lakeview,Davis Ulmer,2015-07-26,13164,0016,Sprinkler Fitter Apprentice,40.0,20.02,800.80,579.83,Male,White,0,0,1,2,10,4
+Lakeview,Davis Ulmer,2015-07-26,13108,5141,Sprinkler Fitter Apprentice,8.0,23.75,190.00,627.52,Female,White,0,0,1,2,11,1
+Lakeview,Davis Ulmer,2015-07-26,13211,3499,Sprinkler Fitter Apprentice,40.0,26.91,1076.40,658.76,Male,White,0,0,1,2,11,2
+Lakeview,Davis Ulmer,2015-07-26,13031,2081,Sprinkler Fitter Journeyman,40.0,39.57,1582.80,1071.07,Male,White ,0,0,1,2,11,3
+Lakeview,Davis Ulmer,2015-08-02,13212,5444,Sprinkler Fitter Apprentice,40.0,19.00,760.00,591.42,Male,Black,0,0,1,2,13,1
+Lakeview,Davis Ulmer,2015-08-02,13030,6189,Sprinkler Fitter Journeyman,40.0,34.41,1376.40,954.57,Male,White,0,0,1,2,13,2
+Lakeview,Davis Ulmer,2015-08-02,13211,3499,Sprinkler Fitter Apprentice,11.0,26.91,296.01,658.77,Male,White,0,0,1,2,13,3
+Lakeview,Davis Ulmer,2015-08-08,13209,7877,Sprinkler Fitter Apprentice,2.0,25.33,50.66,410.27,Male,White,0,0,1,2,15,1
+Lakeview,Davis Ulmer,2015-08-08,13212,5444,Sprinkler Fitter Apprentice,40.0,19.00,760.00,591.42,Male,Black,0,0,1,2,15,2
+Lakeview,Davis Ulmer,2015-08-08,13030,6189,Sprinkler Fitter Journeyman,40.0,34.41,1376.40,954.57,Male,White,0,0,1,2,15,3
+Lakeview,Davis Ulmer,2015-08-16,13030,6189,Sprinkler Fitter Journeyman,19.0,34.41,653.79,927.20,Male,White,0,0,1,2,17,1
+Lakeview,Davis Ulmer,2015-08-16,13031,2081,Sprinkler Fitter Journeyman,2.0,31.66,63.32,910.91,Male,White ,0,0,1,2,17,2
+Lakeview,Davis Ulmer,2015-08-23,13030,6189,Sprinkler Fitter Journeyman,24.0,34.41,825.84,916.16,Male,White,0,0,1,2,19,1
+Lakeview,Davis Ulmer,2015-08-30,13030,6189,Sprinkler Fitter Journeyman,2.0,34.41,68.82,1084.20,Male,White,0,0,1,2,21,1
