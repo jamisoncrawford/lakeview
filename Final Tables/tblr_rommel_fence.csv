@@ -1,0 +1,12 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Rommel Fence,2015-02-28,13219,0048,Operator,32.0,30.55,977.60,648.02,Male,White,0,0,1,1,1,1
+Lakeview,Rommel Fence,2015-02-28,13416,8454,Laborer,8.5,22.45,196.44,241.42,Male,White,0,0,1,1,1,2
+Lakeview,Rommel Fence,2015-02-28,13324,5292,Laborer,31.0,22.45,695.95,631.08,Male,White,0,0,1,1,1,3
+Lakeview,Rommel Fence,2015-02-28,13219,1700,Laborer,39.5,22.45,892.39,585.08,Male,White,0,0,1,1,2,1
+Lakeview,Rommel Fence,2015-02-28,13416,8454,Laborer,0.0,22.45,13.12,10.95,Male,White,0,0,1,1,2,2
+Lakeview,Rommel Fence,2015-02-28,13324,5292,Laborer,0.0,22.45,46.50,38.86,Male,White,0,0,1,1,2,3
+Lakeview,Rommel Fence,2015-02-28,13324,1700,Laborer,0.0,22.45,59.62,151.88,Male,White,0,0,1,1,3,1
+Lakeview,Rommel Fence,2015-03-07,13208,0862,Iron Worker,24.0,28.00,672.00,479.38,Male,White,0,0,1,1,5,1
+Lakeview,Rommel Fence,2015-03-07,13219,0048,Operator,8.0,30.55,244.40,347.95,Male,White,0,0,1,1,5,2
+Lakeview,Rommel Fence,2015-03-07,13416,8454,Laborer,41.0,23.95,993.93,693.26,Male,White,0,0,1,1,5,3
+Lakeview,Rommel Fence,2015-03-14,13416,8454,Laborer,8.0,23.95,191.60,630.54,Male,White,0,0,1,1,7,1
