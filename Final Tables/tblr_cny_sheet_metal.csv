@@ -1,0 +1,38 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,CNY Sheet Metal,2015-06-07,13212,5724,Foreman,8.0,28.21,225.68,729.91,,,0,0,1,1,1,1
+Lakeview,CNY Sheet Metal,2015-06-07,13027,6816,Foreman,8.0,28.21,225.68,705.55,,,0,0,1,1,1,2
+Lakeview,CNY Sheet Metal,2015-06-07,13027,7055,General Foreman,36.0,29.06,1046.16,756.74,,,0,0,1,1,4,1
+Lakeview,CNY Sheet Metal,2015-06-07,13084,1141,Foreman,32.0,29.06,929.92,706.03,,,0,0,1,1,4,2
+Lakeview,CNY Sheet Metal,2015-06-07,13036,6250,Sheet Metal Apprentice ,24.0,20.30,487.20,540.02,,,0,0,1,1,4,3
+Lakeview,CNY Sheet Metal,2015-06-07,13212,5472,Journeyman,24.0,27.06,649.44,680.17,,,0,0,1,1,4,4
+Lakeview,CNY Sheet Metal,2015-06-07,13030,4064,Foreman,16.0,28.21,451.37,679.94,,,0,0,1,1,4,5
+Lakeview,CNY Sheet Metal,2015-06-07,13031,5094,Sheet Metal Apprentice ,26.0,16.24,422.24,427.74,,,0,0,1,1,4,6
+Lakeview,CNY Sheet Metal,2015-06-14,13212,5724,Foreman,38.0,28.21,1071.98,696.32,,,0,0,1,1,7,1
+Lakeview,CNY Sheet Metal,2015-06-14,13027,6816,Foreman,38.0,28.21,1071.98,677.60,,,0,0,1,1,7,2
+Lakeview,CNY Sheet Metal,2015-06-14,13036,6250,Sheet Metal Apprentice ,38.0,28.30,771.40,518.35,,,0,0,1,1,7,3
+Lakeview,CNY Sheet Metal,2015-06-14,13219,1950,Journeyman,38.0,27.06,1028.28,679.45,,,0,0,1,1,7,4
+Lakeview,CNY Sheet Metal,2015-06-14,13084,1141,Foreman,26.8,29.06,777.36,677.06,,,0,0,1,1,10,1
+Lakeview,CNY Sheet Metal,2015-06-14,13030,4064,Foreman,2.5,28.21,70.53,679.92,,,0,0,1,1,10,2
+Lakeview,CNY Sheet Metal,2015-06-14,13031,5094,Sheet Metal Apprentice ,38.0,16.24,617.12,437.74,,,0,0,1,1,10,3
+Lakeview,CNY Sheet Metal,2015-06-21,13212,5724,Foreman,40.0,28.10,1128.40,729.82,,,0,0,1,1,13,1
+Lakeview,CNY Sheet Metal,2015-06-21,13027,6816,Foreman,32.0,28.10,902.72,705.54,,,0,0,1,1,13,2
+Lakeview,CNY Sheet Metal,2015-06-21,13036,6250,Sheet Metal Apprentice ,40.0,27.06,1082.40,691.19,,,0,0,1,1,13,3
+Lakeview,CNY Sheet Metal,2015-06-21,13219,1950,Journeyman,40.0,24.06,1082.40,711.49,,,0,0,1,1,13,4
+Lakeview,CNY Sheet Metal,2015-06-21,13084,1141,Foreman,25.5,29.06,741.03,706.01,,,0,0,1,1,16,1
+Lakeview,CNY Sheet Metal,2015-06-21,13212,5472,Journeyman,36.0,27.06,974.16,580.17,,,0,0,1,1,16,2
+Lakeview,CNY Sheet Metal,2015-06-21,13031,5094,Sheet Metal Apprentice ,39.0,16.24,633.36,437.74,,,0,0,1,1,16,3
+Lakeview,CNY Sheet Metal,2015-06-28,13212,5724,Foreman,24.0,28.21,677.04,729.82,,,0,0,1,1,19,1
+Lakeview,CNY Sheet Metal,2015-06-28,13027,6816,Foreman,24.0,28.21,677.04,705.55,,,0,0,1,1,19,2
+Lakeview,CNY Sheet Metal,2015-06-28,13036,6250,Sheet Metal Apprentice ,40.0,27.06,1082.40,891.18,,,0,0,1,1,19,3
+Lakeview,CNY Sheet Metal,2015-06-28,13219,1950,Journeyman,40.0,27.06,1082.40,711.48,,,0,0,1,1,19,4
+Lakeview,CNY Sheet Metal,2015-06-28,13084,1141,Foreman,14.5,29.06,421.37,706.20,,,0,0,1,1,22,1
+Lakeview,CNY Sheet Metal,2015-06-28,13212,5472,Journeyman,25.5,27.06,690.03,680.15,,,0,0,1,1,22,2
+Lakeview,CNY Sheet Metal,2015-06-28,13031,5094,Sheet Metal Apprentice ,35.3,16.24,572.46,437.74,,,0,0,1,1,22,3
+Lakeview,CNY Sheet Metal,2015-05-17,13027,7055,General Foreman,40.0,29.06,1162.40,756.75,,,0,0,1,1,26,1
+Lakeview,CNY Sheet Metal,2015-05-24,13027,7055,General Foreman,33.0,29.06,958.98,756.74,,,0,0,1,1,29,1
+Lakeview,CNY Sheet Metal,2015-05-24,13084,1141,Foreman,9.0,29.06,261.54,706.00,,,0,0,1,1,29,2
+Lakeview,CNY Sheet Metal,2015-05-24,13031,5094,Sheet Metal Apprentice ,2.5,16.24,40.60,356.12,,,0,0,1,1,29,3
+Lakeview,CNY Sheet Metal,2015-05-31,13027,7055,General Foreman,29.0,29.06,842.74,782.58,,,0,0,1,1,32,1
+Lakeview,CNY Sheet Metal,2015-05-31,13084,1141,Foreman,17.5,29.06,508.55,731.86,,,0,0,1,1,32,2
+Lakeview,CNY Sheet Metal,2015-05-31,13212,5472,Journeyman,27.5,27.06,744.15,568.45,,,0,0,1,1,32,3
+Lakeview,CNY Sheet Metal,2015-05-31,13031,5094,Sheet Metal Apprentice ,25.5,16.24,414.12,356.12,,,0,0,1,1,32,4
