@@ -1,0 +1,34 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Eugene Sackett,2015-07-26,13090,4931,Tile Finisher Journeyman,8.0,23.93,191.44,130.28,Male,White,0,0,1,1,1,1
+Lakeview,Eugene Sackett,2015-07-26,13088,4862,Tile Mechanic Journeyman,13.0,28.23,366.99,221.43,Male,Asian,0,0,1,1,1,2
+Lakeview,Eugene Sackett,2015-07-26,13212,5889,Tile Mechanic Journeyman,8.0,28.23,225.84,134.84,Male,White,0,0,1,1,1,3
+Lakeview,Eugene Sackett,2015-08-02,14476,1111,Tile Mechanic Journeyman,40.0,29.94,1197.60,803.23,Male,White,0,0,1,1,3,1
+Lakeview,Eugene Sackett,2015-08-02,14624,7455,Tile Mechanic Appr Year 4 1/2,24.0,28.74,689.76,369.62,Male,White,0,0,1,1,3,2
+Lakeview,Eugene Sackett,2015-08-02,13090,4931,Tile Finisher Journeyman,29.0,2393.00,693.97,485.78,Male,White,0,0,1,1,3,3
+Lakeview,Eugene Sackett,2015-08-02,13088,4862,Tile Mechanic Journeyman,32.0,28.23,903.36,552.80,Male,Asian,0,0,1,1,3,4
+Lakeview,Eugene Sackett,2015-08-02,13212,5889,Tile Mechanic Journeyman,40.0,28.23,1129.20,691.00,Male,White,0,0,1,1,3,5
+Lakeview,Eugene Sackett,2015-08-09,14464,3765,Tile Mechanic Journeyman,27.0,29.94,973.05,659.96,Male,White,0,0,1,1,5,1
+Lakeview,Eugene Sackett,2015-08-09,14476,1111,Tile Mechanic Journeyman,52.0,29.94,1736.52,1140.92,Male,White,0,0,1,1,5,2
+Lakeview,Eugene Sackett,2015-08-09,14617,9383,Tile Finisher Journeyman,27.0,25.73,836.23,406.18,Male,Hispanic,0,0,1,1,5,3
+Lakeview,Eugene Sackett,2015-08-09,14624,7455,Tile Mechanic Appr Year 4 1/2,52.0,28.74,1666.92,899.87,Male,White,0,0,1,1,5,4
+Lakeview,Eugene Sackett,2015-08-09,14616,0284,Tile Mechanic Journeyman,45.0,29.94,1541.91,932.10,Male,White,0,0,1,1,5,5
+Lakeview,Eugene Sackett,2015-08-09,13088,1024,Tile Finisher Appt Year 1,37.0,14.36,624.66,384.18,Male,White,0,0,1,1,5,6
+Lakeview,Eugene Sackett,2015-08-09,13090,4931,Tile Finisher Journeyman,51.0,23.93,1352.05,916.91,Male,White,0,0,1,1,5,7
+Lakeview,Eugene Sackett,2015-08-09,13148,3419,Tile Mechanic Journeyman,16.0,29.95,479.04,362.50,Male,White,0,0,1,1,5,8
+Lakeview,Eugene Sackett,2015-08-09,13088,4862,Tile Mechanic Journeyman,53.0,28.23,1679.69,992.53,Male,Asian,0,0,1,1,5,9
+Lakeview,Eugene Sackett,2015-08-09,14468,6095,Tile Mechanic Journeyman,52.0,29.94,1736.52,1140.92,Male,White,0,0,1,1,5,10
+Lakeview,Eugene Sackett,2015-08-09,14568,6091,Tile Mechanic Journeyman,27.0,29.94,973.05,583.84,Male,White,0,0,1,1,6,1
+Lakeview,Eugene Sackett,2015-08-09,13212,5889,Tile Mechanic Journeyman,53.0,28.23,1679.69,992.53,Male,White,0,0,1,1,6,2
+Lakeview,Eugene Sackett,2015-08-16,14464,3765,Tile Mechanic Journeyman,47.0,29.94,1526.94,1031.32,Male,White,0,0,1,1,8,1
+Lakeview,Eugene Sackett,2015-08-16,14476,1111,Tile Mechanic Journeyman,47.0,29.94,1526.94,1018.54,Male,White,0,0,1,1,8,2
+Lakeview,Eugene Sackett,2015-08-16,13148,1215,Tile Mechanic Journeyman,16.0,29.94,479.04,236.05,Male,White,0,0,1,1,8,3
+Lakeview,Eugene Sackett,2015-08-16,14624,7455,Tile Mechanic Appr Year 4 1/2,38.0,28.74,1178.34,635.47,Male,White,0,0,1,1,8,4
+Lakeview,Eugene Sackett,2015-08-16,14616,0284,Tile Mechanic Journeyman,47.0,29.94,1526.94,935.09,Male,White,0,0,1,1,8,5
+Lakeview,Eugene Sackett,2015-08-16,13088,1024,Tile Finisher Appt Year 1,42.0,14.36,617.48,367.04,Male,White,0,0,1,1,8,6
+Lakeview,Eugene Sackett,2015-08-16,13090,4931,Tile Finisher Journeyman,43.0,23.93,1064.89,732.59,Male,White,0,0,1,1,8,7
+Lakeview,Eugene Sackett,2015-08-16,13148,3419,Tile Mechanic Journeyman,43.0,29.94,1332.33,903.74,Male,White,0,0,1,1,8,8
+Lakeview,Eugene Sackett,2015-08-16,13088,4862,Tile Mechanic Journeyman,48.0,28.23,1467.96,876.58,Male,Asian,0,0,1,1,8,9
+Lakeview,Eugene Sackett,2015-08-16,14468,6095,Tile Mechanic Journeyman,38.0,29.94,1227.54,829.66,Male,White,0,0,1,1,8,10
+Lakeview,Eugene Sackett,2015-08-23,13088,1024,Tile Finisher Appt Year 1,16.0,14.36,229.26,136.52,Male,White,0,0,1,1,10,1
+Lakeview,Eugene Sackett,2015-08-23,13090,4931,Tile Finisher Journeyman,28.0,23.93,49.92,470.18,Male,White,0,0,1,1,10,2
+Lakeview,Eugene Sackett,2015-08-23,13088,4862,Tile Mechanic Journeyman,32.0,28.23,133.89,574.18,Male,Asian,0,0,1,1,10,3
