@@ -1,0 +1,127 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Maxim Construction,2015-03-01,13308,2189,Operator Engineer,17.0,32.18,563.15,490.50,,,0,0,0,1,2,1
+Lakeview,Maxim Construction,2015-03-08,13308,2189,Operator Engineer,62.0,32.18,2349.14,1560.43,,,0,0,0,1,3,1
+Lakeview,Maxim Construction,2015-03-15,13308,2189,Operator Engineer,51.5,32.18,1842.31,1280.43,,,0,0,0,1,4,1
+Lakeview,Maxim Construction,2015-03-22,13308,2189,Operator Engineer,42.5,32.18,1407.88,1001.68,,,0,0,0,1,5,1
+Lakeview,Maxim Construction,2015-03-29,13308,2189,Operator Engineer,44.5,32.18,1516.13,1073.57,,,0,0,0,1,6,1
+Lakeview,Maxim Construction,2015-03-29,13357,1663,,8.0,35.49,283.92,243.89,,,0,0,0,1,6,2
+Lakeview,Maxim Construction,2015-05-03,13308,2189,Operator Engineer,37.5,32.43,1329.67,1122.14,,,0,0,0,1,7,1
+Lakeview,Maxim Construction,2015-05-03,13069,8152,Operator Engineer,49.5,32.43,1759.38,1081.44,,,0,0,0,1,7,2
+Lakeview,Maxim Construction,2015-05-03,13021,6579,Lab Haz 1,39.5,23.95,1035.88,637.11,,,0,0,0,1,7,3
+Lakeview,Maxim Construction,2015-05-03,14850,9766,Admin,9.0,20.00,180.00,623.63,,,0,0,0,1,8,1
+Lakeview,Maxim Construction,2015-05-03,13212,4423,Admin,6.0,20.42,122.52,882.30,,,0,0,0,1,8,2
+Lakeview,Maxim Construction,2015-05-03,13203,0287,Admin,9.0,15.11,135.99,508.06,,,0,0,0,1,8,3
+Lakeview,Maxim Construction,2015-05-10,13308,2189,Operator Engineer,50.0,32.43,1783.70,1248.28,,,0,0,0,1,9,1
+Lakeview,Maxim Construction,2015-05-10,13069,8152,Operator Engineer,48.0,32.43,1686.40,1040.43,,,0,0,0,1,9,2
+Lakeview,Maxim Construction,2015-05-10,13021,6579,Lab Haz 1,48.0,23.95,1245.44,637.26,,,0,0,0,1,9,3
+Lakeview,Maxim Construction,2015-05-10,14850,9766,Admin,8.5,20.00,170.00,823.63,,,0,0,0,1,10,1
+Lakeview,Maxim Construction,2015-05-10,13212,4423,Admin,7.5,20.42,153.15,682.30,,,0,0,0,1,10,2
+Lakeview,Maxim Construction,2015-05-10,13203,0287,Admin,11.5,15.11,173.77,508.06,,,0,0,0,1,10,3
+Lakeview,Maxim Construction,2015-05-17,13308,2189,Operator Engineer,44.0,32.43,1491.80,1057.87,,,0,0,0,1,11,1
+Lakeview,Maxim Construction,2015-05-17,13069,8152,Operator Engineer,44.0,32.43,1491.80,931.77,,,0,0,0,1,11,2
+Lakeview,Maxim Construction,2015-05-17,13021,6579,Lab Haz 1,44.0,23.95,1101.72,575.64,,,0,0,0,1,11,3
+Lakeview,Maxim Construction,2015-05-17,14850,9766,Admin,10.0,20.00,200.00,623.63,,,0,0,0,1,12,1
+Lakeview,Maxim Construction,2015-05-17,13212,4423,Admin,9.0,20.42,183.78,682.30,,,0,0,0,1,12,2
+Lakeview,Maxim Construction,2015-05-17,13203,0287,Admin,9.5,15.11,143.55,508.06,,,0,0,0,1,12,3
+Lakeview,Maxim Construction,2015-05-24,13308,2189,Operator Engineer,44.5,32.43,1516.13,1073.58,,,0,0,0,1,13,1
+Lakeview,Maxim Construction,2015-05-24,13069,8152,Operator Engineer,44.5,32.43,1518.13,945.48,,,0,0,0,1,13,2
+Lakeview,Maxim Construction,2015-05-24,13021,6579,Lab Haz 1,44.5,23.95,1119.69,582.83,,,0,0,0,1,13,3
+Lakeview,Maxim Construction,2015-05-24,14850,9766,Admin,9.0,20.00,180.00,623.83,,,0,0,0,1,14,1
+Lakeview,Maxim Construction,2015-05-24,13212,4423,Admin,8.0,20.42,163.36,682.30,,,0,0,0,1,14,2
+Lakeview,Maxim Construction,2015-05-24,13203,0287,Admin,11.0,15.11,166.21,508.06,,,0,0,0,1,14,3
+Lakeview,Maxim Construction,2015-05-31,13308,2189,Operator Engineer,42.5,32.43,1548.59,1276.79,,,0,0,0,1,15,1
+Lakeview,Maxim Construction,2015-05-31,13069,8152,Operator Engineer,42.5,32.43,1548.59,1122.59,,,0,0,0,1,15,2
+Lakeview,Maxim Construction,2015-05-31,13021,6579,Lab Haz 1,42.5,23.95,1143.67,594.07,,,0,0,0,1,15,3
+Lakeview,Maxim Construction,2015-05-31,14850,9766,Admin,9.5,20.00,190.00,623.83,,,0,0,0,1,16,1
+Lakeview,Maxim Construction,2015-05-31,13212,4423,Admin,9.5,20.42,193.99,682.30,,,0,0,0,1,16,2
+Lakeview,Maxim Construction,2015-05-31,13203,0287,Admin,13.0,15.11,196.43,508.06,,,0,0,0,1,16,3
+Lakeview,Maxim Construction,2015-06-07,13308,2189,Operator Engineer,54.0,32.43,1978.30,1356.61,,,0,0,0,1,17,1
+Lakeview,Maxim Construction,2015-06-07,13069,8152,Operator Engineer,45.5,32.43,1694.54,1047.24,,,0,0,0,1,17,2
+Lakeview,Maxim Construction,2015-06-07,13021,6579,Lab Haz 1,54.0,23.95,1485.42,740.50,,,0,0,0,1,17,3
+Lakeview,Maxim Construction,2015-06-07,14850,9766,Admin,16.0,20.00,320.00,623.83,,,0,0,0,1,18,1
+Lakeview,Maxim Construction,2015-06-07,13212,4423,Admin,15.5,20.42,316.51,682.30,,,0,0,0,1,18,2
+Lakeview,Maxim Construction,2015-06-07,13203,0287,Admin,13.0,15.11,196.43,508.06,,,0,0,0,1,18,3
+Lakeview,Maxim Construction,2015-06-14,13308,2189,Operator Engineer,38.5,32.43,1637.76,1154.57,,,0,0,0,1,19,1
+Lakeview,Maxim Construction,2015-06-14,13069,8152,Operator Engineer,36.0,32.43,1297.24,826.43,,,0,0,0,1,19,2
+Lakeview,Maxim Construction,2015-06-14,13021,6579,Lab Haz 1,45.0,23.95,1187.11,612.12,,,0,0,0,1,19,3
+Lakeview,Maxim Construction,2015-06-14,14850,9766,Admin,14.5,20.00,290.00,623.63,,,0,0,0,1,20,1
+Lakeview,Maxim Construction,2015-06-14,13212,4423,Admin,15.0,20.42,306.30,682.30,,,0,0,0,1,20,2
+Lakeview,Maxim Construction,2015-06-14,13203,0287,Admin,16.5,15.11,249.32,508.06,,,0,0,0,1,20,3
+Lakeview,Maxim Construction,2015-06-21,13308,2189,Operator Engineer,50.0,32.43,1783.70,1248.29,,,0,0,0,1,21,1
+Lakeview,Maxim Construction,2015-06-21,13069,8152,Operator Engineer,47.5,32.43,1662.08,1026.75,,,0,0,0,1,21,2
+Lakeview,Maxim Construction,2015-06-21,13021,6579,Lab Haz 1,47.5,23.95,1247.98,638.17,,,0,0,0,1,21,3
+Lakeview,Maxim Construction,2015-06-21,14850,9766,Admin,17.0,20.00,340.00,623.63,,,0,0,0,1,22,1
+Lakeview,Maxim Construction,2015-06-21,13212,4423,Admin,17.0,20.42,347.14,682.30,,,0,0,0,1,22,2
+Lakeview,Maxim Construction,2015-06-21,13203,0287,Admin,18.0,15.11,271.98,506.06,,,0,0,0,1,22,3
+Lakeview,Maxim Construction,2015-06-28,13308,2189,Operator Engineer,46.0,32.43,1589.10,1121.71,,,0,0,0,1,23,1
+Lakeview,Maxim Construction,2015-06-28,13069,8152,Operator Engineer,45.5,32.43,1564.78,972.90,,,0,0,0,1,23,2
+Lakeview,Maxim Construction,2015-06-28,13021,6579,Lab Haz 1,37.5,23.95,980.12,524.14,,,0,0,0,1,23,3
+Lakeview,Maxim Construction,2015-06-28,14850,9766,Admin,16.5,20.00,330.00,623.63,,,0,0,0,1,24,1
+Lakeview,Maxim Construction,2015-06-28,13212,4423,Admin,16.5,20.42,336.93,682.30,,,0,0,0,1,24,2
+Lakeview,Maxim Construction,2015-06-28,13203,0287,Admin,16.5,15.11,249.32,508.60,,,0,0,0,1,24,3
+Lakeview,Maxim Construction,2015-07-05,13308,2189,Operator Engineer,38.0,33.14,1335.58,1162.60,,,0,0,0,1,25,1
+Lakeview,Maxim Construction,2015-07-05,13069,8152,Operator Engineer,35.5,33.12,1245.56,961.59,,,0,0,0,1,25,2
+Lakeview,Maxim Construction,2015-07-05,13021,6579,Lab Haz 1,35.5,24.35,919.24,497.87,,,0,0,0,1,25,3
+Lakeview,Maxim Construction,2015-07-05,14850,9766,Admin,17.0,20.00,340.00,623.63,,,0,0,0,1,26,1
+Lakeview,Maxim Construction,2015-07-05,13212,4423,Admin,15.0,20.42,306.30,682.30,,,0,0,0,1,26,2
+Lakeview,Maxim Construction,2015-07-05,13203,0287,Admin,15.5,15.11,234.21,508.06,,,0,0,0,1,26,3
+Lakeview,Maxim Construction,2015-07-12,13308,2189,Operator Engineer,52.5,33.14,1988.75,1363.05,,,0,0,0,1,27,1
+Lakeview,Maxim Construction,2015-07-12,13069,8152,Operator Engineer,44.5,33.12,1582.51,983.05,,,0,0,0,1,27,2
+Lakeview,Maxim Construction,2015-07-12,13021,6579,Lab Haz 1,53.5,24.35,1467.16,732.10,,,0,0,0,1,27,3
+Lakeview,Maxim Construction,2015-07-12,14850,9766,Admin,13.5,20.00,270.00,623.63,,,0,0,0,1,28,1
+Lakeview,Maxim Construction,2015-07-12,13212,4423,Admin,14.5,20.42,296.09,682.30,,,0,0,0,1,28,2
+Lakeview,Maxim Construction,2015-07-12,13203,0287,Admin,12.0,15.11,181.32,508.06,,,0,0,0,1,28,3
+Lakeview,Maxim Construction,2015-07-19,13308,2189,Operator Engineer,61.5,32.43,2343.18,1557.53,,,0,0,0,1,29,1
+Lakeview,Maxim Construction,2015-07-19,13069,8152,Operator Engineer,43.5,32.43,1532.36,955.41,,,0,0,0,1,29,2
+Lakeview,Maxim Construction,2015-07-19,13021,6579,Lab Haz 1,52.5,24.35,1430.63,716.28,,,0,0,0,1,29,3
+Lakeview,Maxim Construction,2015-07-19,14850,9766,Admin,15.5,20.00,310.00,523.63,,,0,0,0,1,30,1
+Lakeview,Maxim Construction,2015-07-19,13212,4423,Admin,13.0,20.42,265.46,682.30,,,0,0,0,1,30,2
+Lakeview,Maxim Construction,2015-07-19,13203,0287,Admin,14.0,15.11,211.54,508.06,,,0,0,0,1,30,3
+Lakeview,Maxim Construction,2015-07-26,13308,2189,Operator Engineer,61.5,32.43,2343.18,1557.53,,,0,0,0,1,31,1
+Lakeview,Maxim Construction,2015-07-26,13069,8152,Operator Engineer,59.5,32.43,2245.88,1336.43,,,0,0,0,1,31,2
+Lakeview,Maxim Construction,2015-07-26,13021,6579,Lab Haz 1,51.5,24.35,1394.10,700.46,,,0,0,0,1,31,3
+Lakeview,Maxim Construction,2015-07-26,14850,9766,Admin,14.0,20.00,280.00,623.63,,,0,0,0,1,32,1
+Lakeview,Maxim Construction,2015-07-26,13212,4423,Admin,14.5,20.42,296.09,682.30,,,0,0,0,1,32,2
+Lakeview,Maxim Construction,2015-07-26,13203,0287,Admin,13.5,15.11,203.99,508.06,,,0,0,0,1,32,3
+Lakeview,Maxim Construction,2015-07-26,13120,9497,Operator Engineer,8.0,32.43,259.44,210.75,,,0,0,0,1,33,1
+Lakeview,Maxim Construction,2015-07-26,13126,1917,Lab Haz 1,8.0,24.35,194.80,139.49,,,0,0,0,1,33,2
+Lakeview,Maxim Construction,2015-08-09,13120,9497,Operator Engineer,57.0,32.43,2124.25,1395.72,,,0,0,0,1,34,1
+Lakeview,Maxim Construction,2015-08-09,13126,1917,Lab Haz 1,51.0,24.35,1375.83,835.87,,,0,0,0,1,34,2
+Lakeview,Maxim Construction,2015-08-09,13104,9590,Carpenter,40.0,27.32,1092.80,699.71,,,0,0,0,1,34,3
+Lakeview,Maxim Construction,2015-08-09,13069,4527,Carpenter,40.0,27.32,1092.80,579.47,,,0,0,0,1,34,4
+Lakeview,Maxim Construction,2015-08-09,13203,5532,Lab Haz 1,49.5,24.35,1321.04,904.14,,,0,0,0,1,34,5
+Lakeview,Maxim Construction,2015-08-09,13308,2189,Operator Engineer,64.5,32.43,2489.13,1636.83,,,0,0,0,1,35,1
+Lakeview,Maxim Construction,2015-08-09,13069,8152,Operator Engineer,65.5,32.43,2537.78,1486.18,,,0,0,0,1,35,2
+Lakeview,Maxim Construction,2015-08-09,13021,6579,Lab Haz 1,11.5,24.35,322.66,198.15,,,0,0,0,1,35,3
+Lakeview,Maxim Construction,2015-08-09,14850,9766,Admin,13.5,20.00,270.00,823.63,,,0,0,0,1,36,1
+Lakeview,Maxim Construction,2015-08-09,13212,4423,Admin,11.5,20.42,234.83,682.30,,,0,0,0,1,36,2
+Lakeview,Maxim Construction,2015-08-09,13203,0287,Admin,12.0,15.11,181.32,508.05,,,0,0,0,1,36,3
+Lakeview,Maxim Construction,2015-08-16,13308,2189,Operator Engineer,66.5,32.43,2586.43,1690.38,,,0,0,0,1,37,1
+Lakeview,Maxim Construction,2015-08-16,13069,8152,Operator Engineer,66.5,32.43,2586.43,1510.83,,,0,0,0,1,37,2
+Lakeview,Maxim Construction,2015-08-16,14850,9766,Admin,13.0,20.00,260.00,623.63,,,0,0,0,1,38,1
+Lakeview,Maxim Construction,2015-08-16,13212,4423,Admin,10.0,20.42,204.20,682.30,,,0,0,0,1,38,2
+Lakeview,Maxim Construction,2015-08-16,13203,0287,Admin,12.0,15.11,181.32,508.06,,,0,0,0,1,38,3
+Lakeview,Maxim Construction,2015-08-16,13120,9497,Operator Engineer,56.5,32.43,2099.93,1382.22,,,0,0,0,1,39,1
+Lakeview,Maxim Construction,2015-08-16,13126,1917,Lab Haz 1,48.5,24.35,1284.51,787.68,,,0,0,0,1,39,2
+Lakeview,Maxim Construction,2015-08-16,13104,9590,Carpenter,48.0,27.32,1420.64,880.68,,,0,0,0,1,39,3
+Lakeview,Maxim Construction,2015-08-16,13069,4527,Carpenter,32.0,27.32,874.24,564.36,,,0,0,0,1,39,4
+Lakeview,Maxim Construction,2015-08-16,13203,5532,Lab Haz 1,40.5,24.35,992.27,713.86,,,0,0,0,1,39,5
+Lakeview,Maxim Construction,2015-08-16,13148,6233,Lab Haz 1,32.0,24.35,876.64,598.43,,,0,0,0,1,39,6
+Lakeview,Maxim Construction,2015-08-23,13308,2189,Operator Engineer,66.0,32.43,2562.10,1675.98,,,0,0,0,1,40,1
+Lakeview,Maxim Construction,2015-08-23,13069,8152,Operator Engineer,61.0,32.43,2318.85,1373.39,,,0,0,0,1,40,2
+Lakeview,Maxim Construction,2015-08-23,14850,9766,Admin,14.5,20.00,290.00,623.63,,,0,0,0,1,41,1
+Lakeview,Maxim Construction,2015-08-23,13212,4423,Admin,16.5,20.42,336.93,682.30,,,0,0,0,1,41,2
+Lakeview,Maxim Construction,2015-08-23,13203,0287,Admin,11.0,15.11,166.21,508.06,,,0,0,0,1,41,3
+Lakeview,Maxim Construction,2015-08-23,13120,9497,Operator Engineer,56.0,32.43,2367.46,1533.93,,,0,0,0,1,42,1
+Lakeview,Maxim Construction,2015-08-23,13126,1917,Lab Haz 1,57.5,24.35,1728.89,1024.08,,,0,0,0,1,42,2
+Lakeview,Maxim Construction,2015-08-23,13126,5924,Operator Engineer,24.0,32.43,972.92,648.86,,,0,0,0,1,42,3
+Lakeview,Maxim Construction,2015-08-23,13104,9590,Carpenter,57.0,27.32,1912.40,1157.69,,,0,0,0,1,42,4
+Lakeview,Maxim Construction,2015-08-23,13069,4527,Carpenter,51.0,27.32,1543.58,928.06,,,0,0,0,1,42,5
+Lakeview,Maxim Construction,2015-08-23,13203,5532,Lab Haz 1,59.0,24.35,1850.68,1185.52,,,0,0,0,1,42,6
+Lakeview,Maxim Construction,2015-08-23,13148,6233,Lab Haz 1,57.0,24.35,1692.37,999.23,,,0,0,0,1,42,7
+Lakeview,Maxim Construction,2015-08-30,13308,2189,Operator Engineer,18.5,32.43,770.27,1177.32,,,0,0,0,1,43,1
+Lakeview,Maxim Construction,2015-08-30,13104,9590,Carpenter,17.0,27.32,491.76,351.60,,,0,0,0,1,44,1
+Lakeview,Maxim Construction,2015-08-30,13120,9497,Operator Engineer,30.5,32.43,1094.55,773.66,,,0,0,0,1,44,2
+Lakeview,Maxim Construction,2015-08-30,13126,1917,Lab Haz 1,42.0,24.35,1047.06,661.64,,,0,0,0,1,44,3
+Lakeview,Maxim Construction,2015-08-30,13203,5532,Lab Haz 1,50.0,24.35,1339.30,913.37,,,0,0,0,1,44,4
+Lakeview,Maxim Construction,2015-08-30,13148,6233,Lab Haz 1,43.0,24.35,1083.59,675.86,,,0,0,0,1,44,5
