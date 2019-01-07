@@ -1,0 +1,38 @@
+project,name,ending,zip,ssn,class,hours,rate,gross,net,sex,race,dup,ot,add,pdf_no,pdf_pg,pg_ob
+Lakeview,Postler & Jaeckle,2015-05-17,14546,9988,Plumber Foreman,12.0,35.72,428.65,1063.56,Male,White,0,0,0,1,1,1
+Lakeview,Postler & Jaeckle,2015-05-24,14546,9988,Plumber Foreman,40.0,35.72,1428.80,1302.04,Male,White,0,0,0,1,3,1
+Lakeview,Postler & Jaeckle,2015-05-31,14546,9988,Plumber Foreman,24.0,35.72,857.28,1237.04,Male,White,0,0,0,1,5,1
+Lakeview,Postler & Jaeckle,2015-06-07,14546,9988,Plumber Foreman,16.0,35.72,571.52,1302.04,Male,White,0,0,0,1,7,1
+Lakeview,Postler & Jaeckle,2015-06-14,14546,9988,Plumber Foreman,3.0,35.72,107.16,1302.04,Male,White,0,0,0,1,9,1
+Lakeview,Postler & Jaeckle,2015-06-14,14545,9661,General Foreman,40.0,36.96,1478.40,948.37,Male,White,0,0,0,1,9,2
+Lakeview,Postler & Jaeckle,2015-06-21,14545,9661,General Foreman,32.0,36.96,1182.72,943.25,Male,White,0,0,0,1,11,1
+Lakeview,Postler & Jaeckle,2015-06-21,13158,0828,Plumber Apprentice ,40.0,19.54,781.60,557.73,Male,White,0,0,0,1,11,2
+Lakeview,Postler & Jaeckle,2015-06-21,13069,4444,Plumber Journeyman,30.5,33.06,1008.33,666.94,Male,White,0,0,0,1,12,1
+Lakeview,Postler & Jaeckle,2015-06-28,14545,9661,General Foreman,40.0,36.96,1478.40,908.31,Male,White,0,0,0,1,14,1
+Lakeview,Postler & Jaeckle,2015-06-28,13158,0828,Plumber Apprentice ,40.0,19.54,781.60,557.73,Male,White,0,0,0,1,14,2
+Lakeview,Postler & Jaeckle,2015-06-28,13069,4444,Plumber Journeyman,31.0,33.06,1024.86,1043.13,Male,White,0,0,0,1,15,1
+Lakeview,Postler & Jaeckle,2015-07-05,14545,9661,General Foreman,35.0,36.96,1293.60,1034.43,Male,White,0,0,0,1,16,1
+Lakeview,Postler & Jaeckle,2015-07-05,13158,828,Plumber Apprentice ,32.0,22.79,781.28,564.39,Male,White,0,0,0,1,16,2
+Lakeview,Postler & Jaeckle,2015-07-12,14545,9661,General Foreman,45.0,36.96,1811.04,1097.73,Male,White,0,0,0,1,18,1
+Lakeview,Postler & Jaeckle,2015-07-12,13158,0828,Plumber Apprentice ,48.0,22.79,1185.12,801.23,Male,White,0,0,0,1,18,2
+Lakeview,Postler & Jaeckle,2015-07-12,13069,4444,Plumber Journeyman,48.0,33.06,1719.12,1066.08,Male,White,0,0,0,1,19,1
+Lakeview,Postler & Jaeckle,2015-07-19,14545,9661,General Foreman,58.0,36.96,2476.32,1417.78,Male,White,0,0,0,1,21,1
+Lakeview,Postler & Jaeckle,2015-07-19,13158,0828,Plumber Apprentice ,58.0,22.79,1527.02,993.34,Male,White,0,0,0,1,21,2
+Lakeview,Postler & Jaeckle,2015-07-19,13069,4444,Plumber Journeyman,58.0,33.06,2215.02,1330.98,Male,White,0,0,0,1,22,1
+Lakeview,Postler & Jaeckle,2015-07-26,14545,9661,General Foreman,50.0,36.96,2032.80,1180.21,Male,White,0,0,0,1,24,1
+Lakeview,Postler & Jaeckle,2015-07-26,13158,0828,Plumber Apprentice ,50.0,22.79,1253.50,839.67,Male,White,0,0,0,1,24,2
+Lakeview,Postler & Jaeckle,2015-07-26,13069,4444,Plumber Journeyman,50.0,33.06,1818.30,1210.46,Male,White,0,0,0,1,25,1
+Lakeview,Postler & Jaeckle,2015-08-02,14580,3467,Plumber Foreman,24.0,34.43,826.32,1011.36,Male,White,0,0,0,1,27,1
+Lakeview,Postler & Jaeckle,2015-08-02,14545,9661,General Foreman,59.0,36.96,2550.24,1436.79,Male,White,0,0,0,1,27,2
+Lakeview,Postler & Jaeckle,2015-08-02,13076,1624,Service Tradesman,2.0,23.00,46.00,549.91,Male,White,0,0,0,1,28,1
+Lakeview,Postler & Jaeckle,2015-08-02,13158,0828,Plumber Apprentice ,54.0,22.79,1390.26,916.50,Male,White,0,0,0,1,28,2
+Lakeview,Postler & Jaeckle,2015-08-02,13069,4444,Plumber Journeyman,59.0,33.06,2281.14,1365.75,Male,White,0,0,0,1,29,1
+Lakeview,Postler & Jaeckle,2015-08-09,14580,3467,Plumber Foreman,16.0,34.43,550.88,1265.70,Male,White,0,0,0,1,31,1
+Lakeview,Postler & Jaeckle,2015-08-09,14545,9661,General Foreman,50.0,36.96,2032.80,1321.73,Male,White,0,0,0,1,31,2
+Lakeview,Postler & Jaeckle,2015-08-09,13158,0828,Plumber Apprentice ,50.0,22.79,1253.50,839.67,Male,White,0,0,0,1,32,1
+Lakeview,Postler & Jaeckle,2015-08-09,13090,2276,Plumber Foreman,1.0,35.86,35.86,1327.81,Male,White,0,0,0,1,32,2
+Lakeview,Postler & Jaeckle,2015-08-09,13069,4444,Plumber Journeyman,48.0,33.06,1719.12,1066.09,Male,White,0,0,0,1,33,1
+Lakeview,Postler & Jaeckle,2015-08-16,14559,2844,Plumber Journeyman,14.0,32.18,547.06,1096.28,Male,White,0,0,0,1,35,1
+Lakeview,Postler & Jaeckle,2015-08-16,14615,5472,Plumber Apprentice ,14.0,18.98,322.66,654.68,Male,White,0,0,0,1,35,2
+Lakeview,Postler & Jaeckle,2015-08-16,14545,9661,General Foreman,49.0,36.96,1977.36,1185.92,Male,White,0,0,0,1,35,3
+Lakeview,Postler & Jaeckle,2015-08-16,13158,0828,Plumber Apprentice ,48.0,22.79,1185.12,801.26,Male,White,0,0,0,1,36,1
