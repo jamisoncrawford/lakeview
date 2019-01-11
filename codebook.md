@@ -88,3 +88,7 @@ All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/la
 * `pdf_pg`: Integer indicating which page number of PDF identified in `pdf_no` for partcular record
 * `pg_ob`: Integer indicating which observation on `pdf_pg` the record represents
  
+## Common Structure: Hancock & Lakeview
+
+The 2018 Hancock Airport Renovation datasets have been reformatted using the above variables and definitions and are available in the [Final Tables folder](https://github.com/jamisoncrawford/hancock/tree/master/Final%20Tables) of the [Hancock Renovations Repository](https://github.com/jamisoncrawford/hancock). 
+ 
