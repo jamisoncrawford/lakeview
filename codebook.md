@@ -101,15 +101,96 @@ All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/la
     - Other companies, e.g. *Ajay Glass* tend to report `ending` periods mid-week, albeit consistently
 * `zip` and `ssn` are left-side padded with "0" to remedy autoformatting and trimming leading zeroes
 * `class` has been relabeled to be both homogenized and comparable between contractors:
-    - `Journeyman`: Comprised of the following:
-    
-         "Iron Workers Rochester",   "Syracuse Iron Workers",       "Syracuse Glazers", 
-         "LMJ1",                     "Journeyman",                  "Journey Wireman", 
-         "Ironworker",               "Cement Mason",                "Piping Journeyman", 
-         "PLBR/FTR JOUR SY",         "Sprinkler Fitter Journeyman", "Tile Finisher Journeyman", 
-         "Tile Mechanic Journeyman", "Piledriver Journeyman",       "Piledriver Welder", 
-         "Carpenter",                "Mason",                       "Lab Haz 1", 
-         "Journeyman Techn",         "Journeyman 2nd S",            "Plumber Journeyman", 
-         "Service Tradesman",        "Iron Worker",                 "IWJ", 
-         "Oiler",                    "Journeyman Iron Worker",      "IW Journeyman",
-         "Painter",                  "Taper"
+    - `Journeyman` is comprised of the following values:
+        - "Iron Workers Rochester",   
+        - "Syracuse Iron Workers",       
+        - "Syracuse Glazers"
+        - "LMJ1"
+        - "Journeyman"             
+        - "Journey Wireman"
+        - "Ironworker"
+        - "Cement Mason"
+        - "Piping Journeyman"
+        - "PLBR/FTR JOUR SY"
+        - "Sprinkler Fitter Journeyman"
+        - "Tile Finisher Journeyman"
+        - "Tile Mechanic Journeyman"
+        - "Piledriver Journeyman"
+        - "Piledriver Welder"
+        - "Carpenter"
+        - "Mason"
+        - "Lab Haz 1"
+        - "Journeyman Techn"
+        - "Journeyman 2nd S"
+        - "Plumber Journeyman"
+        - "Service Tradesman"
+        - "Iron Worker"
+        - "IWJ"
+        - "Oiler"                
+        - "Journeyman Iron Worker"
+        - "IW Journeyman"
+        - "Painter"           
+        - "Taper"
+    - `Foreman` is comprised of the following values:
+        - "Sub-Foreman"     
+        - "Foreman Laborer"
+        - "PL/FTR FORE SYRA"
+        - "Foreman 2"
+        - "Foreman"
+        - "Piledriver Foreman"
+        - "Piledriver Foreman"
+        - "Foreman A"
+        - "IWF"
+        - "Subforeman"       
+        - "Carpenter Foreman"
+        - "Plumber Foreman"
+        - "Lab. Form. Base"
+    - `General Foreman` is comprised of the following values:
+        - "PL/FTR GFORE SYR"
+        - "General Foreman"
+        - "Supervisor"
+        - "Superintendent GF"
+        - "Superintendent"
+    - `Apprentice` is comprised of the following values:
+        - "LAP3", "Apprentice"
+        - "2nd Period Apprentice"
+        - "PL/FTR 4THYR SYR"
+        - "PL/FTR 1ST YR"
+        - "PLB/FTR 2NDYR SY"
+        - "PL/FTR 5THYR SYR"
+        - "Sheet Metal Apprentice"    
+        - "Sprinkler Fitter Apprentice"
+        - "Tile Mechanic Appr Year 4 1/2"
+        - "Tile Finisher Appt Year 1"
+        - "4th Yr Appr Piledriver"
+        - "Apprentice Carpenter"
+        - "Apprentice Taper"
+        - "Apprentice 4th Per"            
+        - "Apprentice 5th Per"          
+        - "Apprentice 2nd Per"
+        - "Apprentice 6th Per"           
+        - "Apprentice 3rd Per"          
+        - "Apprentice 1st Per"
+        - "Plumber Apprentice"           
+        - "Apprentice 1st Year"         
+        - "Apprentice 3rd Year"
+        - "Apprentice 2nd Year"
+        - "IW Apprentice"        
+        - "Ironworker Apprentice" 
+        - "2nd Year Apprentice"          
+        - "3rd Period Apprentice" 
+        - "4th Period Apprentice"
+    - `Office` is comprised of the following values:
+        - "Admin"
+        - "Field Office Staff"
+        - "Office Staff"
+        - "Office"
+        - "Clerical"
+    - `Laborer` is comprised of the following values:
+        - "Laborer"
+        - "Labor"
+        - "Laborer Base"
+        - "Building Laborer"
+    - `Other` is comprised of the following values:
+        - "Owner"
+        - "Teamster Truck Driver"
