@@ -92,3 +92,24 @@ All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/la
 
 The 2018 Hancock Airport Renovation datasets have been reformatted using the above variables and definitions and are available in the [Final Tables folder](https://github.com/jamisoncrawford/hancock/tree/master/Final%20Tables) of the [Hancock Renovations Repository](https://github.com/jamisoncrawford/hancock). 
  
+## Processing Transformations
+
+All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/lakeview/tree/master/Final%20Tables) folder are merged into a master table after which the data are homogenized with the following transformations.
+
+* `ending` dates have been made uniform by rounding all `ending` values to the nearest Sunday
+    - Companies like *M&S Fire Protection* tend to have non-calendar `ending` periods
+    - Other companies, e.g. *Ajay Glass* tend to report `ending` periods mid-week, albeit consistently
+* `zip` and `ssn` are left-side padded with "0" to remedy autoformatting and trimming leading zeroes
+* `class` has been relabeled to be both homogenized and comparable between contractors:
+    - `Journeyman`: Comprised of the following:
+    
+         "Iron Workers Rochester",   "Syracuse Iron Workers",       "Syracuse Glazers", 
+         "LMJ1",                     "Journeyman",                  "Journey Wireman", 
+         "Ironworker",               "Cement Mason",                "Piping Journeyman", 
+         "PLBR/FTR JOUR SY",         "Sprinkler Fitter Journeyman", "Tile Finisher Journeyman", 
+         "Tile Mechanic Journeyman", "Piledriver Journeyman",       "Piledriver Welder", 
+         "Carpenter",                "Mason",                       "Lab Haz 1", 
+         "Journeyman Techn",         "Journeyman 2nd S",            "Plumber Journeyman", 
+         "Service Tradesman",        "Iron Worker",                 "IWJ", 
+         "Oiler",                    "Journeyman Iron Worker",      "IW Journeyman",
+         "Painter",                  "Taper"
