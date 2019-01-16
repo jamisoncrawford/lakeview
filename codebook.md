@@ -73,10 +73,12 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
     - "Hispanic"
     - "Asian"
 * `dup`: Binary indicating whether a worker has 2 payment records in a given `period` (`1`) or not (`0`)
-  - This appears to be the case for only one contractor, viz. `tblr_am_electric.*`
+  - Initial scrapes may indicate `1`, but collapsed overtime rows in later processing changes to `0`
+  - Deprecated in master merge table (Hancock & Lakeview)
 * `ot`: Binary indicating whether the payment is for overtime only (`1`) or not (`0`)
   - Two instances in *Quality Structures, Inc.* indicate vacation pay only, rather than overtime
 * `add`: Binary indicating whether a personal address was redacted (`1`) or not (`0`)
+  - Deprecated in master merge table (Hancock & Lakeview)
 
 ## Final Tables Variables
 
