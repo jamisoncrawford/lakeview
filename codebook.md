@@ -51,7 +51,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
 * `rate`: The hourly wage of the worker described in the payment record.
   - `ot` indicates if `rate` describes the hourly wage for overtime
   - In instances where only overtime is recorded, `rate` is calculated by dividing the given value by 1.5
-  - In instances where more than one `rate` value exists for a unique worker, only the first is recorded
+  - In instances where more than one `rate` value exists for a unique worker, only the first may be recorded
 * `gross`: The total pay for `period` absent deductions, e.g. taxes and union dues.
   - In instances where, arithmetically, `gross` is nonsensical based on `hours` and `rate`, value defined as misssing
     - This was a summary decision in preprocessing, though values may exist in raw data
@@ -87,6 +87,7 @@ All tables located in the ["Final Tables"](https://github.com/jamisoncrawford/la
 * `pdf_no`: Integer indicating which PDF document contains particular record in raw data; typically "1"
 * `pdf_pg`: Integer indicating which page number of PDF identified in `pdf_no` for partcular record
 * `pg_ob`: Integer indicating which observation on `pdf_pg` the record represents
+  - In instances where `pg_ob` appear missing, multiple rows for a single observation are collapsed
  
 ## Common Structure: Hancock & Lakeview
 
