@@ -69,7 +69,7 @@ All [reformatted text files](https://github.com/jamisoncrawford/lakeview/tree/ma
   - Categories of `race` have been abbreviated to include:
     - "White"
     - "Black"
-    - "Native American"
+    - "Native"
     - "Hispanic"
     - "Asian"
 * `dup`: Binary indicating whether a worker has 2 payment records in a given `period` (`1`) or not (`0`)
